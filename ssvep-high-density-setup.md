@@ -15,8 +15,9 @@
 
  
 ## COMPUTERS
+- Turn on CRT Monitor in room 120G.
 
-- In 120H Switch on power of large surge protector on bottom left shelf in 120.
+- In 120H Switch on power of large surge protector on bottom left shelf.
 
 - Switch on power of smaller, thin surge protector on second shelf (ignore lights; always on).
 
