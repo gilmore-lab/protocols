@@ -1,7 +1,7 @@
 protocols
 =========
 
-Lab protocols and procedures:
+## Lab protocols and procedures:
 
 - Set-up
 
@@ -11,5 +11,8 @@ Lab protocols and procedures:
 - Data Export
 
 	- [High and low density export](ssvep-data-export.md)
+	
+## Power Diva
 
+- [Metadata export fields, formats](power-diva-export-metadata.md)
  		

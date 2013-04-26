@@ -1,0 +1,113 @@
+# Gilmore Lab
+
+## Power Diva 3.x Export
+
+- CndParams_*
+
+	- MOCO Paradigm
+
+		- iSess	
+		- iCond	
+		- NTrials	
+		- Eye	
+		- DomNon	
+		- CondNotes	
+		- Treatment	
+		- Level	
+		- iPdm	
+		- PdmVer	
+		- ViewDist	
+		- MeanLum	
+		- SweepType	
+		- Step	
+		- Start	
+		- End	
+		- ModType	
+		- ModInfoName	
+		- ModInfo	
+		- Density	
+		- Glass Pat	
+		- Glass Coher	
+		- Pair Sep	
+		- Glass Dir	
+		- Glass Radial	
+		- Field Diam	
+		- Temp Freq1	
+		- Contrast	
+		- Pix Size HV1	
+		- Dir Mean1	
+		- Dir Range1	
+		- Lifetime1	
+		- Bidirectional1	
+		- Radial1	
+		- Mot Coher1	
+		- FieldMask	
+		- LoopType	
+		- Temp Freq2	
+		- Pix Size HV2	
+		- Dir Mean2	
+		- Dir Range2	
+		- Lifetime2	
+		- Bidirectional2	
+		- Radial2	
+		- Mot Coher2	
+		- FK_Prc	
+		- FK_Sess	
+		- PK_Cond
+
+- RLS.txt
+
+	- iSess	
+	- iCond	
+	- iTrial	
+	- iCh	
+	- iFr	
+	- AF	
+	- xF1	
+	- xF2	
+	- Harm	
+	- FK_Cond	
+	- iBin	
+	- SweepVal	
+	- Sr	
+	- Si	
+	- N1r	
+	- N1i	
+	- N2r	
+	- N2i	
+	- Signal	
+	- Phase	
+	- Noise	
+	- StdErr	
+	- PVal	
+	- SNR	
+	- LSB	
+	- RSB	
+	- UserSc	
+	- Thresh	
+	- ThrBin	
+	- Slope	
+	- ThrInRange	
+	- MaxSNR
+
+- SsnHeader.txt
+
+	- iSess	
+	- SessDate	
+	- Operator	
+	- LastName	
+	- FirstName	
+	- BirthDate	
+	- DueDate	
+	- DayAge	
+	- Sex	
+	- Handedness	
+	- DaqRateHz	
+	- NChan	
+	- Montage	
+	- Notes	
+	- Treatment	
+	- Level	
+	- DomEye	
+	- FK_Mtg	
+	- PK_Sess
