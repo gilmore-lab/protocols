@@ -30,7 +30,7 @@
 	 - Select the files for copy to the PowerDiva Video machine. (Via the green folder)
 		- Copy the raw data file (.raw), and the gains (.gains) and zeroes (.zeros) files and impedances (.imp)
 		- Shift or command click on these files and drag them to the green Net Station folder. The process takes about five to ten minutes.
-	- Once copied you may shut down the net station computer.
+	- Once copied you may shut down the Net Station computer.
 
 - On PD video computer make a copy (file → duplicate) of the stimulus set (found in stimulus set folder on the desktop) and put this in the participant’s folder within the net station’s session folder.
 
