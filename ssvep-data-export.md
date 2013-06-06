@@ -10,7 +10,7 @@
 
 - From the Tools menu, open Waveform Tools. 
 	- Run the Concatenate tool:
-		- Press the add button, and add the .raw session file you wish to process
+		- Press the "Add" button, and add the .raw session file you wish to process
 		- Select the “Concatenate Epochs for PowerDiva” tool from the lower window
 		- Click on Jobs/Results button to monitor progress
 		- To run the tool, press the Run button
