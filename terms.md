@@ -1,4 +1,5 @@
 # Gilmore Lab
+
 ## Lingo
 
 120909*: A date number format Rick likes – YYMMDD – because it sorts nicely.
@@ -13,7 +14,7 @@
 
 *ERP*: Event-related potential. Brain electrical activity generated in response to a sensory stimulus or a task (i.e., an "event"). Responses are averaged across trials into a waveform. Components of the waveform are referenced with respect to time after the event.
 
-*Fourier Transform*: A mathematical technique for analyzing a signal (from the brain or otherwise) in terms of a sum of sine and cosine waves of different frequencies and phases. The algorithm FFT means Fast Fourier Transform. DFT means discrete Fourier tranform.
+*Fourier Transform*: A mathematical technique for analyzing a signal (from the brain or otherwise) in terms of a sum of sine and cosine waves of different frequencies and phases. The algorithm FFT means Fast Fourier Transform. DFT means discrete Fourier transform.
 
 *Fundamental frequency*: The primary frequency of modulation in some display. A response that corresponds to the rate of modulation is referred to as 1F1.
 
@@ -66,3 +67,28 @@
 *VEP*: Visual (or Visually-) Evoked Potentials. Brain electrical activity generated or evoked by some visual stimulus.
 
 *VSS*: Vision Sciences Society. Meets in Florida in early May.
+
+
+------
+
+## PowerDiva terms ##
+
+*Epoch*
+
+Within NetStation, a period of time during which EEG was collected. 
+
+Within PowerDiva, a sample of EEG data.
+
+*Trial*
+
+A period of time during which a set of defined stimulus parameters are presented to a participant. Typical trials are 5-15 s in length. Trial duration is defined by the number of stimulus cycles (or bins), the number of prelude bins, and the fundamental frequency (1F1).
+
+*Bin*
+
+A period of time/number of samples that consist of one or more cycles of a stimulus.
+
+*Prelude bins*
+
+Bins at the start or end of a trial
+
+*Sample*
