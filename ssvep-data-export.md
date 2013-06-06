@@ -57,6 +57,11 @@
 		- We use 15% as default.
 		- Substitutes entire epoch (all samples) from bad channels with weighted average of 6 neighboring channels.
 
+- Referencing
+	- Net Station uses fixed Cz (vertex) referencing. Channel is called VREF.
+	- PowerDiva calls this "user defined montage."
+	- We average referencing for channels.
+
 - Set your harmonics of interest for analysis 
 	- This is usually set up beforehand, 
 		- If blank, select all multiples of F1 (1F1, 2F1, 3F1 ... 9F1). 
