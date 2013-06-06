@@ -49,16 +49,18 @@
 - Hit okay to import the data into Power Diva host. Power Diva will check for artifacts.
 	- Set "Raw Thresh Detector" to 50 μV (adults), 60 μV (children).
 		- Any sample <> threshold is marked as bad epoch/sample.
-	- Leave "Fast Filter Detector" at defaults:
+	- Leave "Fast Filter Detector" at defaults (and unchecked):
 		- "Threshold" = 30 μV, "Fast Filter Cutoff" = 40 Hz
-	- Leave "Slope Detector" at defaults:
+	- Leave "Slope Detector" at defaults (and unchecked):
 		- "Threshold" = 30 μV, "Slow Filter Cutoff" = 4 Hz 
-	- Leave "Substitute Channels with more than ____" % bad channels.
+	- Leave "Substitute Channels with more than ____" % bad channels at default values:
 		- We use 15% as default.
 		- Substitutes entire epoch (all samples) from bad channels with weighted average of 6 neighboring channels.
 
 - Set your harmonics of interest for analysis 
-	- This is usually set up beforehand, however if blank select all multiples of F1 (1F1, 2F1, 3F1, etc.). Then select 1F2, 1F1 + 1F2, and 1F1 – 1F2
+	- This is usually set up beforehand, 
+		- If blank, select all multiples of F1 (1F1, 2F1, 3F1 ... 9F1). 
+		- Select also 1F2, 1F1 + 1F2, and 1F1 – 1F2
 	- Set for all conditions by selecting “set for all” button at the top. 
 	- Hit okay to view imported PD session.
 
