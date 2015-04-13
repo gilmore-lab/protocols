@@ -1,5 +1,8 @@
 # High-Density VEP Set-Up Checklist
 
+## Monitor
+- Turn on the **CRT monitor** on the cart in 120G
+
 ## AMPLIFIER
 
 - In 120G Chandlee remove cables from amplifier and connect them to pegs on wall.
@@ -7,6 +10,7 @@
 ![Rear of NetAmps 200](imgs/rear-of-amplifier.pictClipping.jpg)
 
 - Wheel amp between the monitor and the subject chair so that it is to the right of the subject chair. 
+  **ALWAYS PULL AMP BACKWARDS TO PREVENT TIPPING**
 
 - Plug the 4 cords from the wall ports connecting rooms G and H into respective ports (Digital input, USB, and TTL input external timebase) of the amplifier. Turn power on 
 (I = on).
