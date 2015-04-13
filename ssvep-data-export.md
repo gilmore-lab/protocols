@@ -6,11 +6,16 @@
 
 - From NetStation startup screen, go to File > Open to access archived sessions. Session files are usually located in: /Users/GilmoreLab/Documents/NetStation User Data/Sessions
 
+![Net Station Open Archived Files](imgs/xxxx)
+
 - To find the most recent session, click on the **Date** field in the Finder window. The small arrow should face downward to sort files in reverse date order.
 
-- From the Tools menu, open Waveform Tools. 
+- Go to **Tools > Waveform Tools** 
+ 
+![Net Station Open Waveform Tools](imgs/xxxx)
+
 	- Run the Concatenate tool:
-		- Press the "Add" button, and add the .raw session file you wish to process
+		- Press the **Add** button, and add the .raw session file you wish to process
 		- Select the “Concatenate Epochs for PowerDiva” tool from the lower window
 		- Click on Jobs/Results button to monitor progress
 		- To run the tool, press the Run button
