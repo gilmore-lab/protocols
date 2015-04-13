@@ -4,9 +4,9 @@
 
 - Reminder: If you have not done so, save and close NetStation session by pressing the **Close Session** button in the upper right hand corner of the NetStation window.
 
-- From NetStation startup screen, go to File→Open to access archived sessions Session files are usually located in: /Users/GilmoreLab/Documents/NetStation User Data/Sessions
+- From NetStation startup screen, go to File > Open to access archived sessions. Session files are usually located in: /Users/GilmoreLab/Documents/NetStation User Data/Sessions
 
-- To find the most recent session, click on the “Date” field in the Finder window. The small arrow should face downward to sort files in reverse date order.
+- To find the most recent session, click on the **Date** field in the Finder window. The small arrow should face downward to sort files in reverse date order.
 
 - From the Tools menu, open Waveform Tools. 
 	- Run the Concatenate tool:
