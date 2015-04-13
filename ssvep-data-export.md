@@ -40,40 +40,51 @@
 - Quit NetStation.
 
 - Transfer exported files to the PowerDiva Video machine for analysis. 
-	-  On the NetStation computer desktop, double-click the NetStation_Sessions@PDVideo alias (highlighted in green). This opens a connection via Ethernet to the PowerDiva Video computer.
-	 - Create a new folder with ParticipantID code and project name within the NetStation_Sessions folder.
-	 - Double-click on “Sessions@Local” alias (highlighted in red). This opens a separate window to the local NetStation Sessions folder.
-	 - Select the files for copy to the PowerDiva Video machine. (Via the green folder)
-		- Copy the raw data file (.raw), and the gains (.gains) and zeroes (.zeros) files and impedances (.imp)
-		- Shift or command click on these files and drag them to the green Net Station folder. The process takes about five to ten minutes.
-	- Once copied you may shut down the Net Station computer.
+  - On the NetStation computer desktop, double-click the **NetStation_Sessions@PDVideo** alias (highlighted in green). This opens a connection via Ethernet to the PowerDiva Video computer.
+  
+![Net Station @ PD Video](imgs/NS@PDVideo)
+
+  - Create a new folder with ParticipantID code and project name within the NetStation_Sessions folder.
+  - Double-click on **Sessions@Local** alias (highlighted in red). This opens a separate window to the local NetStation Sessions folder.
+  
+![Sessions @ Local](imgs/NS_Sessions_Local)
+
+  - Select the files for copy to the PowerDiva Video machine. (Via the green folder)
+    - Copy the raw data file (.raw), and the gains (.gains) and zeroes (.zeros) files and impedances (.imp)
+      - Shift or command click on these files and drag them to the green Net Station folder. The process takes about five to ten minutes.
+
+- Once copied you may shut down the Net Station computer.
 
 ### On the PD Video Computer
 
 - Make a copy (file → duplicate) of the stimulus set (found in stimulus set folder on the desktop) and put this in the participant’s folder within the net station’s session folder.
 
 - Open the Power Diva host 3.4 application by double clicking the icon on the desktop
-	- Ignore error messages and choose to work offline
+  - Ignore error messages and choose to work offline
 
 - From the file menu of Power Diva host select import NS session. 
+#### Import Data
 
 - Session window: enter operator information and participant information
-	- Keep participant’s first name blank. In the last name field enter the participant ID code. 
- 	- Select the Net Station session files by clicking on the ‘choose’ button to the right of the raw EEG’s field. Navigate to the Net Station Sessions folder you just copied the files to. Select the .raw file for the session.
-	- Enter the zeroes and gains by clicking on ‘choose’ then shift clicking on both .zeros and .gains files for this session. 
-	- Select the stimulus set for this session: click on the ‘Choose’ button and navigate to the duplicate file within the subject’s session folder. 
-		- If loaded correctly you should see valid data appear in the video system, display type, and video mode fields. 
+  - Keep participant’s first name blank. In the last name field enter the participant ID code. 
+  - Select the Net Station session files by clicking on the **choose** button to the right of the raw EEG’s field. 
+    - Navigate to the Net Station Sessions folder you just copied the files to. 
+    - Select the .raw file for the session.
+  - Enter the zeroes and gains by clicking on **choose** 
+    - Shift click on both .zeros and .gains files for this session. 
+  - Select the stimulus set for this session: click on the **Choose** button 
+    - Navigate to the duplicate file within the subject’s session folder. 
+  - If loaded correctly you should see valid data appear in the video system, display type, and video mode fields. 
+  - Hit **OK** to import the data into Power Diva host. Power Diva will check for artifacts.
 
-- Hit okay to import the data into Power Diva host. Power Diva will check for artifacts.
-	- Set "Raw Thresh Detector" to 50 μV (adults), 60 μV (children).
-		- Any sample <> threshold is marked as bad epoch/sample.
-	- Leave "Fast Filter Detector" at defaults (and unchecked):
-		- "Threshold" = 30 μV, "Fast Filter Cutoff" = 40 Hz
-	- Leave "Slope Detector" at defaults (and unchecked):
-		- "Threshold" = 30 μV, "Slow Filter Cutoff" = 4 Hz 
-	- Leave "Substitute Channels with more than ____" % bad channels at default values:
-		- We use 15% as default.
-		- Substitutes entire epoch (all samples) from bad channels with weighted average of 6 neighboring channels.
+#### Check for Artifacts
+
+- Set "Raw Thresh Detector" to 50 μV (adults), 60 μV (children).
+  - Any sample <> threshold is marked as bad epoch/sample.
+- Leave "Fast Filter Detector" at defaults (and unchecked): "Threshold" = 30 μV, "Fast Filter Cutoff" = 40 Hz
+- Leave "Slope Detector" at defaults (and unchecked): "Threshold" = 30 μV, "Slow Filter Cutoff" = 4 Hz 
+- Leave "Substitute Channels with more than ____" % bad channels at default values: We use 15% as default.
+  - Substitutes entire epoch (all samples) from bad channels with weighted average of 6 neighboring channels.
 
 - Referencing
 	- Net Station uses fixed Cz (vertex) referencing. Channel is called VREF.
