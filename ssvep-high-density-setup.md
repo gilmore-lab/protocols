@@ -57,7 +57,7 @@
 - In Msg mode (pull-down tab), choose **Net Station**.
 - In Stim Set, Go to Open, and choose the appropriate stimulus set.
 
-![Open Stimulus Set - Auto Sequence](imgs/power-diva-video-stim-set.pictClipping.jpg)
+![Open Stimulus Set - Auto Sequence](imgs/RunModeAutoRun.jpg)
 
 #### For Infant
 - In Run mode (pull-down tab), choose **Baby Mode**. 
@@ -65,7 +65,7 @@
 - In Stim Set, Go to Open, and choose the appropriate stimulus set.
   - inf_2pat_lamrad (most used)
 
-![Open Stimulus Set - Baby Mode](imgs/power-diva-video-stim-set.pictClipping.jpg)
+![Open Stimulus Set - Baby Mode](imgs/RunModeBabyMode.jpg)
 
 - Press the Run button. In the DAQ Rate Settings window, there is a binary code to confirm. On the side of the external time box facing you, there are silver switches (up = 1, down = 0). Read the binary code in the PD Video window from right to left, and check to make sure that the switches on the timing box correspond to this code. If they don't match, notify the PI. If they do, press Cancel.
 
