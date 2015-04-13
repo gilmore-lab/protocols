@@ -2,7 +2,13 @@
 
 ## High Density (HD) NetStation -> PowerDiva Data Export
 
+### Close All Programs used for a Data Collection session
+
 - Reminder: If you have not done so, save and close NetStation session by pressing the **Close Session** button in the upper right hand corner of the NetStation window.
+
+- If you have not already done so, quit the **PowerDiva Video** application on the PDVideo computer.
+
+### On the Net Station Computer
 
 - From NetStation startup screen, go to File > Open to access archived sessions. Session files are usually located in: /Users/GilmoreLab/Documents/NetStation User Data/Sessions
 
@@ -33,8 +39,6 @@
 
 - Quit NetStation.
 
-- If you have not already done so, quit the PowerDiva Video application on the PDVideo computer.
-
 - Transfer exported files to the PowerDiva Video machine for analysis. 
 	-  On the NetStation computer desktop, double-click the NetStation_Sessions@PDVideo alias (highlighted in green). This opens a connection via Ethernet to the PowerDiva Video computer.
 	 - Create a new folder with ParticipantID code and project name within the NetStation_Sessions folder.
@@ -44,7 +48,9 @@
 		- Shift or command click on these files and drag them to the green Net Station folder. The process takes about five to ten minutes.
 	- Once copied you may shut down the Net Station computer.
 
-- On PD video computer make a copy (file → duplicate) of the stimulus set (found in stimulus set folder on the desktop) and put this in the participant’s folder within the net station’s session folder.
+### On the PD Video Computer
+
+- Make a copy (file → duplicate) of the stimulus set (found in stimulus set folder on the desktop) and put this in the participant’s folder within the net station’s session folder.
 
 - Open the Power Diva host 3.4 application by double clicking the icon on the desktop
 	- Ignore error messages and choose to work offline
