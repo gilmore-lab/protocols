@@ -2,7 +2,7 @@
 
 ## High Density (HD) NetStation -> PowerDiva Data Export
 
-- Reminder: If you have not done so, save and close NetStation session by pressing the “Close Session” button in the upper right hand corner of the NetStation window.
+- Reminder: If you have not done so, save and close NetStation session by pressing the **Close Session** button in the upper right hand corner of the NetStation window.
 
 - From NetStation startup screen, go to File→Open to access archived sessions Session files are usually located in: /Users/GilmoreLab/Documents/NetStation User Data/Sessions
 
