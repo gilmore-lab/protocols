@@ -71,24 +71,27 @@
 
 ![Determine Time Base Code](imgs/power-diva-autorun.pictClipping.jpg)
 
-- Go to the Net Station computer and log in with the gilmorelab account (w/ lab password - 0baby- ).
+### Set up Net Station
+
+- Go to the Net Station computer and log in with the **gilmorelab** account (w/ lab password - **0baby0**).
 	
 - In the dock at the bottom of the screen, click on the icon for Net Station (purple icon) to open the program.
  
 ![NetStation icon](imgs/start-netstation.pictClipping.jpg)
 
-- When the window pops up, there should be a key symbol with the words “Wenger 5” on the bottom left-hand side. If it is not there, this means that the NS HASP key is not plugged in.
+- When the window pops up, there should be a key symbol with the words **Wenger** on the bottom left-hand side. If it is not there, this means that the NS HASP key is not plugged in.
 
-- In the Net Station window, click New Session, and select the session template labeled Power Diva Adult Set Up.
+- In the Net Station window, click **New Session**
+- Select the session template labeled **Power Diva Adult Set Up**.
 	 
 
 ## AFTER PARTICIPANT ARRIVES
 
-- Enter participant ID, date of birth, experiment name, and net serial number. Lab uses the following standard ID number for each session: YYMMDD_HHMM.
+- Enter participant ID, Experiment Name, Date of birth, and net serial number. Lab uses the following standard ID number for each session: YYMMDD_ID# (Test Date_Participant ID number).
 
 ![Enter participant session info](imgs/ns-enter-session-info.pictClipping.jpg)
 
-- Begin Session.
+- **Begin Session**.
 
 - Run Zeros and Gains (should run automatically).
 
