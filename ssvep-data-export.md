@@ -19,16 +19,17 @@
     
 ![Net Station Add Inputs](imgs/NS_Concatenate_Tool)
 
-    - Select the “Concatenate Epochs for PowerDiva” tool from the lower window
-      - Click on Jobs/Results button to monitor progress
-      - To run the tool, press the Run button
+    - Select the **Concatenate Epochs for PowerDiva** tool from the lower window
+      - Click on **Jobs/Results** button to monitor progress
+      - To run the tool, press the **Run** button
       
     - Run the Export for Power Diva tool
     
 ![Net Station Export to Power Diva](imgs/NS_Export_PowerDiva)
-      - Add the .cat file you just created to the upper window by pressing the Add button
+
+      - Add the .cat file you just created to the upper window by pressing the **Add** button
       - Select the Export for PowerDiva tool from the lower window
-      - Press the Run button to run the tool. This can take 3-8 minutes.
+      - Press the **Run** button to run the tool. This can take 3-8 minutes.
 
 - Quit NetStation.
 
