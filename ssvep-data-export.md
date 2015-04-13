@@ -82,16 +82,15 @@
 #### Check for Artifacts
 
 - Set the **Channel Substitution** screen
+  - Set "Raw Thresh Detector" to 50 μV (adults), 60 μV (children).
+    - Any sample > threshold is marked as bad epoch/sample.
+    - Leave "Fast Filter Detector" at defaults (and unchecked): "Threshold" = 30 μV, "Fast Filter Cutoff" = 40 Hz
+    - Leave "Slope Detector" at defaults (and unchecked): "Threshold" = 30 μV, "Slow Filter Cutoff" = 4 Hz 
+    - Leave "Substitute Channels with more than ____" % bad channels at default values: We use 15% as default.
+    - Substitutes entire epoch (all samples) from bad channels with weighted average of 6 neighboring channels.
 
-- Set "Raw Thresh Detector" to 50 μV (adults), 60 μV (children).
-  - Any sample > threshold is marked as bad epoch/sample.
-  - Leave "Fast Filter Detector" at defaults (and unchecked): "Threshold" = 30 μV, "Fast Filter Cutoff" = 40 Hz
-  - Leave "Slope Detector" at defaults (and unchecked): "Threshold" = 30 μV, "Slow Filter Cutoff" = 4 Hz 
-  - Leave "Substitute Channels with more than ____" % bad channels at default values: We use 15% as default.
-  - Substitutes entire epoch (all samples) from bad channels with weighted average of 6 neighboring channels.
-
-- Press the **Repeat Detection** button
-- Press **OK** to continue
+  - Press the **Repeat Detection** button
+  - Press **OK** to continue
 
 ????- Referencing
 	- Net Station uses fixed Cz (vertex) referencing. Channel is called VREF.
@@ -109,7 +108,7 @@
   - Click **Continue** to view the imported PD session.
 
 - Within the session export MATLAB data.
-  - Go to File > Export 
+  - Go to **File > Export**
   - Set **Export** screen
     - Export as: MATLAB files
     - Under Matlab Options
