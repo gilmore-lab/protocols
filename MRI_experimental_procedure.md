@@ -4,7 +4,7 @@
 
 ## Pre-Session
 - Arrive 15 minutes prior to the study time.
-- Organize Consent (2 copies), MRI screening form, vision screening form.
+- Organize Consent (2 copies), [MRI screening form] (https://www.imaging.psu.edu/sites/sleic/files/3T_screening_safety_form_061911.pdf), vision screening form.
 
 ## Participant Arrival
 - Greet and welcome participant in room 6 Chandlee
