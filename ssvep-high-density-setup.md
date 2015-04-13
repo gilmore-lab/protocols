@@ -12,26 +12,29 @@
 - Wheel amp between the monitor and the subject chair so that it is to the right of the subject chair. 
   **ALWAYS PULL AMP BACKWARDS TO PREVENT TIPPING**
 
-- Plug the 4 cords from the wall ports connecting rooms G and H into respective ports (Digital input, USB, and TTL input external timebase) of the amplifier. Turn power on 
-(I = on).
+- Plug the 4 cords from the wall ports connecting rooms G and H into respective ports (Digital input, USB, and TTL input external timebase) of the amplifier. 
+- Turn power on (I = on).
 
 ![Rear of NetAmps 200 Data Cables](imgs/rear-of-amplifier-data-cables.pictClipping.jpg)
 
+- Turn small switch on amplifier to **NORMAL**
+  - If this is on another setting during calibration and impedance check, you will see an error stating that everything is out of specification. 
+  - If there is an error, you must begin the setup from step one again.
+
  
 ## COMPUTERS
-- Turn on CRT Monitor in room 120G.
 
 - In 120H Switch on power of large surge protector on bottom left shelf.
 
 - Switch on power of smaller, thin surge protector on second shelf (ignore lights; always on).
 
-- Turn on PD Video and NetStation computers, and both monitors.
+- Turn on **PD Video** and **NetStation** computers, and both monitors.
 
-- If either monitor screen is unresponsive, you may need to toggle to the correct computer via the gray KVM switches on the top left (PD Video / Link 15) and right (NetStation  / PD Host) shelf.
+  - If either monitor screen is unresponsive, you may need to toggle to the correct computer via the gray KVM switches on the top left (PD Video / Link 15) and right (NetStation  / PD Host) shelf.
 
 - Turn on external timebase, behind the monitors (switch is back, right side).
 
-- Remove the plug from the external timebase outlet labeled OUT. (Clock Out stays in).
+- Remove the plug from the external timebase outlet labeled **OUT**. (Clock Out stays in).
  
 ![Rear of External Timebase](imgs/rear-of-ext-timebase.pictClipping.jpg)
 
@@ -41,17 +44,28 @@
 
 ![Power Diva Video icon](imgs/power-diva-video-icon.pictClipping.jpg)
  
-- In Power Diva Video, go to Configuration --> Video Manager. In "Mode" window, make sure the calibrated video setting is selected: 
+- In Power Diva Video, go to Configuration > Video Manager. In **Mode** window, make sure the calibrated video setting is selected: 
 
-	- "800 x 600, 72 Hz, 8 bit" is a common mode. 
+	- 800 x 600, 72 Hz, 8 bit
  
  ![Power Diva Video Manager](imgs/power-diva-video-manager.pictClipping.jpg)
 
-- In Run mode (pull-down tab), choose Auto Sequence. In Msg mode (pull-down tab), choose Net Station.
- 
-- Go to Open, and choose the appropriate stimulus set.
+### Set up Stimuli
 
-![Open Stimulus Set](imgs/power-diva-video-stim-set.pictClipping.jpg)
+#### For Child and Adult
+- In Run mode (pull-down tab), choose **Auto Sequence**. 
+- In Msg mode (pull-down tab), choose **Net Station**.
+- In Stim Set, Go to Open, and choose the appropriate stimulus set.
+
+![Open Stimulus Set - Auto Sequence](imgs/power-diva-video-stim-set.pictClipping.jpg)
+
+#### For Infant
+- In Run mode (pull-down tab), choose **Baby Mode**. 
+- In Msg mode (pull-down tab), choose **Net Station**.
+- In Stim Set, Go to Open, and choose the appropriate stimulus set.
+  - inf_2pat_lamrad (most used)
+
+![Open Stimulus Set - Baby Mode](imgs/power-diva-video-stim-set.pictClipping.jpg)
 
 - Press the Run button. In the DAQ Rate Settings window, there is a binary code to confirm. On the side of the external time box facing you, there are silver switches (up = 1, down = 0). Read the binary code in the PD Video window from right to left, and check to make sure that the switches on the timing box correspond to this code. If they don't match, notify the PI. If they do, press Cancel.
 
