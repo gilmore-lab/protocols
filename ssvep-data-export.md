@@ -4,9 +4,9 @@
 
 ### Close All Programs used for a Data Collection session
 
-- Reminder: If you have not done so, save and close NetStation session by pressing the **Close Session** button in the upper right hand corner of the NetStation window.
+- Reminder: If you have not done so, save and close **NetStation session** by pressing the **Close Session** button in the upper right hand corner of the NetStation window.
 
-- If you have not already done so, quit the **PowerDiva Video** application on the PDVideo computer.
+- If you have not already done so, **quit** the **PowerDiva Video** application on the PDVideo computer.
 
 ### On the Net Station Computer
 
@@ -62,11 +62,13 @@
 - Open the Power Diva host 3.4 application by double clicking the icon on the desktop
   - Ignore error messages and choose to work offline
 
-- From the file menu of Power Diva host select import NS session. 
 #### Import Data
 
+- From the file menu of Power Diva host select import NS session.
+
 - Session window: enter operator information and participant information
-  - Keep participant’s first name blank. In the last name field enter the participant ID code. 
+  - participant first name: keep blank 
+  - participant last name: enter the participant ID code. 
   - Select the Net Station session files by clicking on the **choose** button to the right of the raw EEG’s field. 
     - Navigate to the Net Station Sessions folder you just copied the files to. 
     - Select the .raw file for the session.
@@ -75,35 +77,48 @@
   - Select the stimulus set for this session: click on the **Choose** button 
     - Navigate to the duplicate file within the subject’s session folder. 
   - If loaded correctly you should see valid data appear in the video system, display type, and video mode fields. 
-  - Hit **OK** to import the data into Power Diva host. Power Diva will check for artifacts.
+  - Hit **OK** to import the data into Power Diva host. Power Diva will check for artifacts
 
 #### Check for Artifacts
 
+- Set the **Channel Substitution** screen
+
 - Set "Raw Thresh Detector" to 50 μV (adults), 60 μV (children).
-  - Any sample <> threshold is marked as bad epoch/sample.
-- Leave "Fast Filter Detector" at defaults (and unchecked): "Threshold" = 30 μV, "Fast Filter Cutoff" = 40 Hz
-- Leave "Slope Detector" at defaults (and unchecked): "Threshold" = 30 μV, "Slow Filter Cutoff" = 4 Hz 
-- Leave "Substitute Channels with more than ____" % bad channels at default values: We use 15% as default.
+  - Any sample > threshold is marked as bad epoch/sample.
+  - Leave "Fast Filter Detector" at defaults (and unchecked): "Threshold" = 30 μV, "Fast Filter Cutoff" = 40 Hz
+  - Leave "Slope Detector" at defaults (and unchecked): "Threshold" = 30 μV, "Slow Filter Cutoff" = 4 Hz 
+  - Leave "Substitute Channels with more than ____" % bad channels at default values: We use 15% as default.
   - Substitutes entire epoch (all samples) from bad channels with weighted average of 6 neighboring channels.
 
-- Referencing
+- Press the **Repeat Detection** button
+- Press **OK** to continue
+
+????- Referencing
 	- Net Station uses fixed Cz (vertex) referencing. Channel is called VREF.
 	- PowerDiva calls this "user defined montage."
-	- We average referencing for channels.
+	- We average referencing for channels.????
 
-- Set your harmonics of interest for analysis 
-	- This is usually set up beforehand, 
-		- If blank, select all multiples of F1 (1F1, 2F1, 3F1 ... 9F1). 
-		- Select also 1F2, 1F1 + 1F2, and 1F1 – 1F2
-	- Set for all conditions by selecting “set for all” button at the top. 
-	- Hit okay to view imported PD session.
+- Set **Analysis Parameters** screen
+  - Set Processing Task (Harmonics of Interest) 
+    - Ensure all multiples of F1 (1F1, 2F1, 3F1 , 4F1, 5F1, 6F1, 7F1, 8F1, 9F1) are selected 
+    - Select also 1F2, 1F1 + 1F2, and 1F1 – 1F2
+    - Set for all conditions by selecting **Set To All** button at the top.
+  - Set Epoch Rejection Parameters
+    - Set "Raw Thresh Detector" to 50 μV (adults), 60 μV (children).
+    - Set for all conditions by selecting **Set To All** button.
+  - Click **Continue** to view the imported PD session.
 
 - Within the session export MATLAB data.
-	- Go to file → Export 
-	- In the export window select MATLAB files under “export as” 
-	-  Under axx filter change P-thresh to .05
-	- Under the data type section of the window check “axx”.
-	- Press export button, then hit done once exported.
+  - Go to File > Export 
+  - Set **Export** screen
+    - Export as: MATLAB files
+    - Under Matlab Options
+      - Check box for **axx filter**
+      - Change P-thresh to 0.05
+    - Under **Data Types**
+      - Check “axx”.
+    - Press **Export**
+    - After export complete, Press **Done**
 	- Then close the session.
 
 - Export text file data for analysis in Excel
