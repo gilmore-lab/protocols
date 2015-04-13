@@ -1,6 +1,6 @@
 # High-Density VEP Set-Up Checklist
 
-## Monitor
+## MONITOR
 - Turn on the **CRT monitor** on the cart in 120G
 
 ## AMPLIFIER
@@ -50,7 +50,7 @@
  
  ![Power Diva Video Manager](imgs/power-diva-video-manager.pictClipping.jpg)
 
-### Set up Stimuli
+### Prepare Stimuli
 
 #### For Child and Adult
 - In Run mode (pull-down tab), choose **Auto Sequence**. 
@@ -71,7 +71,7 @@
 
 ![Determine Time Base Code](imgs/power-diva-autorun.pictClipping.jpg)
 
-### Set up Net Station
+### Prepare Net Station
 
 - Go to the Net Station computer and log in with the **gilmorelab** account (w/ lab password - **0baby0**).
 	
@@ -97,23 +97,34 @@
 
 ![Gains and Zeros](imgs/gains-zeros-window.pictClipping.jpg)
   
-- After netting, plug the articulating arm into the amp, and the net into the articulating arm.
+- Place the net on the EEG Participant
+
+- After netting, plug the net into the articulating arm.
 
 ![Connect arm to amp](imgs/connect-net-to-arm.pictClipping.jpg)
 
-- Measure Impedance. Adjust channels as necessary. Save and close when satisfactory.
+- Measure Impedance.
+  - Go to the **Panels** menu at the top of the screen and select **Impedance**
+  - Then click the **Measure Impedance** button.
+  - Adjust channels as necessary. 
+  - Click **Save & Close** when satisfactory.
 
 ![Measure Impedance](imgs/measure-impedance-window.pictClipping.jpg)
 
-- Choose Dense Waveform Display in the Panels window of Net Station.
+- Go to the **Panels** menu at the top of the screen and select **Dense Waveform Display**.
 
 ![Dense waveform](imgs/dense-waveform-display.pictClipping.jpg)
 
-- Turn small switch on amplifier to “External Time Base.”
+- Turn small switch on amplifier to **EXTERNAL TIMEBASE**.
 
 ![External Time Base](imgs/external-timebase-switch-on-amp.pictClipping.jpg)
 
-- In Power Diva Video, press the Run button. Check off the box in the Net Station Recording control window labeled “Start/Continue Net Station Recording,” and press Run.
+##Run Experiment
+
+- In Power Diva Video, press the **Run** button in the **Stim Set** window
+- The **Auto Run Settings** window will open
+- **Check the box** in the Net Station Recording control window labeled **Start/Continue Net Station Recording**
+- Press **Run**.
 
 ![Run Session](imgs/power-diva-autorun.pictClipping.jpg)
 
@@ -121,7 +132,7 @@
 
 ## AFTER SESSION
 
-- Once recording is complete, select the close session button on the Net Station computer (this saves the session).
+- Once recording is complete, select the **close session** button on the Net Station computer (this saves the session).
 
 - Return computers and other devices to their default settings.
 
