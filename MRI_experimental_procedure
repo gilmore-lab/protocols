@@ -34,6 +34,7 @@
 ## Testing Preparation - prior to participant entering the room
 - Open the following on the desktop:
   - Matlab R2011b
+  - Pictures (Start > Documents > Libraries > Pictures > Sample Pictures)
   - The Calibration Screen (image_calibration)
   - A notepad document (New Text Document)
 - Test the Grips 
@@ -68,6 +69,7 @@ Right Index | d
 - Run Picture Slideshow during Localizer and MPRage
   - Location: Documents > Pictures
   - Choose 'Slide Show' at the top of the window.
+  - Press 'Esc' to exit
 - Run Matlab Script on Projector PC
   - This script is run 3 times - once for each EPI scan
   - Script: SLEIC-Projects>rog1>wallpaper_groups_event_related_fmri>code>Symmetry-2>symmetry.m
