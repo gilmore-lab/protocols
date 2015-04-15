@@ -56,6 +56,9 @@
 - In Run mode (pull-down tab), choose **Auto Sequence**. 
 - In Msg mode (pull-down tab), choose **Net Station**.
 - In Stim Set, Go to Open, and choose the appropriate stimulus set.
+  - Child
+    - 
+  - Adult
 
 ![Open Stimulus Set - Auto Sequence](imgs/RunModeAutoRun.jpg)
 
@@ -64,6 +67,8 @@
 - In Msg mode (pull-down tab), choose **Net Station**.
 - In Stim Set, Go to Open, and choose the appropriate stimulus set.
   - inf_2pat_lamrad (most used)
+  - inf_2pat_lamrot
+  - inf_2pat_radrot
 
 ![Open Stimulus Set - Baby Mode](imgs/RunModeBabyMode.jpg)
 
@@ -119,7 +124,24 @@
 
 ![External Time Base](imgs/external-timebase-switch-on-amp.pictClipping.jpg)
 
-##Run Experiment
+## Experimental Setup
+
+- The monitor should be located 60cm from the bridge of the nose on the participant
+- The chair height should be set so the participant is looking directly at the **X** in the middle of the screen.
+- High Density
+  - Baby Mode (Researcher in the room)
+    - Use the Keyboard to record (**R**) and pause (**W**) the study. 
+      - When recording there is an **X** in the middle of the screen.
+      - when paused there is an **X** with a circle around it in the midde of the screen
+    - Use the toys to keep attention toward the monitor
+  - Auto Sequence
+    - The keyboard space bar in the testing chamber can pause the study
+    - The **Continue** button must be clicked in the Power Diva software
+- Low Density
+  -  Game controller is used to record and pause
+  -  
+
+## Run Experiment
 
 - In Power Diva Video, press the **Run** button in the **Stim Set** window
 - The **Auto Run Settings** window will open
