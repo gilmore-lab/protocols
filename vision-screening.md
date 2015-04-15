@@ -9,4 +9,3 @@
 
 ## Snellen Acuity 
 - Stand XX away from the chart on the wall
-- 
