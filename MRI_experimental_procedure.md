@@ -51,6 +51,7 @@ Right Thumb | c
 Right Index | d
 
   - Close the Text Document
+  
 - Check the Projector Calibration Screen
   - Ensure the Calibration screen is active and full screen
     - press the button in the bottom middle of the calibration screen window to make it full screen
