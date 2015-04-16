@@ -16,6 +16,7 @@
 - One copy of the consent is for the participant and one is for the lab records.
 - Have the participant complete the MRI screening form.
 - Screen participants for eligibility; if ineligible, be sensitive and polite.
+- Explain the task
 
 ## Vision screening
 - Complete vision screening if participant does NOT self report 20/20 vision.
@@ -32,6 +33,7 @@
   - e.g. 2015-04-05-1130-sub-5000
 
 ## Testing Preparation - prior to participant entering the room
+- Ensure that the 20 Channel Head Coil is being used.
 - Open the following on the desktop:
   - Matlab R2011b
   - Pictures (Start > Documents > Libraries > Pictures > Sample Pictures)
@@ -55,14 +57,18 @@ Right Index | d
 
 ## Participant Preparation
 - Have the participant empty their pockets, remove all jewelry, metal, belts, phone, etc. and place in a locker.
-- The MR Technologist will review the MRI screening form with the participant.
-- Ensure that the 20 Channel Head Coil is being used. 
-- Escort the participant into the scanner room, have them lie on the bed, and scoot up into the head coil.
-- Hand the participant the trigger grip for the dominant hand.
-- Tape the emergency squeeze ball to their shirt.
-- Have the participant enter the scanner bore.
-- Ensure the participant can see all columns and rows.
-- Ensure the participant's comfort and safety.
+- MR Technologist duties
+  - Review the MRI screening form with the participant.
+  - Escort the participant into the scanner room, have them lie on the bed, and scoot up into the head coil.
+  - Tape the emergency squeeze ball to their shirt.
+  - Have the participant enter the scanner bore.
+  - Ensure the participant can see all columns and rows.
+  - Ensure the participant's comfort and safety.
+- Researcher duties
+  - Hand the participant the trigger grip for the dominant hand.
+  - Briefly explain the task again
+
+
 
 ## Testing
 - Close Calibration Screen
@@ -102,8 +108,8 @@ Note: Press Esc to stop stimuli
 - Save Matlab data located at (SLEIC-Projects>rog1>wallpaper_groups_event_related_fmri>code>Symmetry-2>Data>yyyymmddThhmmss) to External Drive.
 
 ## Post-Processing/Analysis
-- rsync MRI data from Hoth to Hammer
-- Save Matlab data from External Drive to ????
+- rsync MRI data from Hoth to Hammer (/gpfs/group/sleic/rog1/symm/
+- Save Matlab data from External Drive to /gpfs/group/sleic/rog1/symm/projects/fmri/event-related-fmri-pilot/behavioral/participant-folder/matlab-folders
 
 - Perform Timing Correction First prior to any other processing steps.
 
