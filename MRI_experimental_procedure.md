@@ -53,6 +53,8 @@ Right Index | d
   - Close the Text Document
 - Check the Projector Calibration Screen
   - Ensure the Calibration screen is active and full screen
+    - press the button in the bottom middle of the calibration screen window to make it full screen
+    - press Esc to exit full screen
   - Check the calibration screen image for focus and clarity prior to the participant entering the scanner room
 
 ## Participant Preparation
@@ -61,14 +63,14 @@ Right Index | d
   - Review the MRI screening form with the participant.
   - Escort the participant into the scanner room, have them lie on the bed, and scoot up into the head coil.
   - Tape the emergency squeeze ball to their shirt.
+  - Set the 0 location on the participant
   - Have the participant enter the scanner bore.
-  - Ensure the participant can see all columns and rows.
+  - Ensure the participant can see all columns and rows of the calibration screen
+    - The calibration screen exits out of full screen after a short time. Make sure it is full screen when the participant 
   - Ensure the participant's comfort and safety.
 - Researcher duties
   - Hand the participant the trigger grip for the dominant hand.
   - Briefly explain the task again
-
-
 
 ## Testing
 - Close Calibration Screen
