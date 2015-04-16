@@ -41,7 +41,8 @@
   - A notepad document (New Text Document)
 - Test the Grips 
   - Ensure the Text Document screen is active
-  - Test the trigger grip in notepad
+  - Test the trigger grip in notepad (see table below)
+  - Close the Text Document
 
 Finger | Output
 ------ | ------
@@ -50,8 +51,6 @@ Left Index | b
 Right Thumb | c
 Right Index | d
 
-  - Close the Text Document
-  
 - Check the Projector Calibration Screen
   - Ensure the Calibration screen is active and full screen
     - press the button in the bottom middle of the calibration screen window to make it full screen
@@ -107,12 +106,13 @@ Note: Press Esc to stop stimuli
 - Record session information in ‘MRI-Session Log’ on Gilmore-lab google drive. 
 - Copy first and last page of consent form.
 - Make sure the MRI technologist has the screening form and the copy of the consent form. 
-- Have the MRI Technologist transfer MRI data in the ‘nifti’ format to Hoth:
+- Have the MRI Technologist transfer MRI data in the ‘nifti’ format to Hoth: /nfs/imaging-data/3Tusers/rog1/symm
 - Save Matlab data located at (SLEIC-Projects>rog1>wallpaper_groups_event_related_fmri>code>Symmetry-2>Data>yyyymmddThhmmss) to External Drive.
 
 ## Post-Processing/Analysis
-- rsync MRI data from Hoth to Hammer (/gpfs/group/sleic/rog1/symm/
-- Save Matlab data from External Drive to /gpfs/group/sleic/rog1/symm/projects/fmri/event-related-fmri-pilot/behavioral/participant-folder/matlab-folders
+- rsync MRI data from Hoth to Hammer
+  - rsync automatically runs once per week on Saturday 
+- Save Matlab data from External Drive to /gpfs/group/sleic/rog1/symm/projects/fmri/event-related-fmri-pilot/behavioral/"participant-folder"/"matlab-folders"
 
 - Perform Timing Correction First prior to any other processing steps.
 
