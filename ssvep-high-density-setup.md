@@ -40,6 +40,8 @@
 
 - Make sure that white round switch on top of the left KVM switch is set to B.
 
+![White Switch on top of Black KVM Switch](imgs/White-Switch.jpg)
+
 - On PD Video computer, open Power Diva Video 3.4 software. (icon label says alias)
 
 ![Power Diva Video icon](imgs/power-diva-video-icon.pictClipping.jpg)
@@ -70,7 +72,7 @@
   - inf_2pat_lamrot
   - inf_2pat_radrot
 
-![Open Stimulus Set - Baby Mode](imgs/RunModeBabyMode.jpg)
+![Open Stimulus Set - Baby Mode](imgs/RunModeBabyMode)
 
 - Press the Run button. In the DAQ Rate Settings window, there is a binary code to confirm. On the side of the external time box facing you, there are silver switches (up = 1, down = 0). Read the binary code in the PD Video window from right to left, and check to make sure that the switches on the timing box correspond to this code. If they don't match, notify the PI. If they do, press Cancel.
 
@@ -100,13 +102,14 @@
 
 - Run Zeros and Gains (should run automatically).
 
-![Gains and Zeros](imgs/gains-zeros-window.pictClipping.jpg)
-  
+![Gains](imgs/Gains.pdf)
+![Zeros](imgs/Zeros.pdf)
+
 - Place the net on the EEG Participant
 
 - After netting, plug the net into the articulating arm.
 
-![Connect arm to amp](imgs/connect-net-to-arm.pictClipping.jpg)
+![Connect arm to amp](imgs/Net-plugged-into-articulating-arm.jpg)
 
 - Measure Impedance.
   - Go to the **Panels** menu at the top of the screen and select **Impedance**
