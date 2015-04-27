@@ -62,7 +62,7 @@
     - 
   - Adult
 
-![Open Stimulus Set - Auto Sequence](imgs/RunModeAutoRun.jpg)
+![Open Stimulus Set - Auto Sequence](imgs/RunModeAutoRun)
 
 #### For Infant
 - In Run mode (pull-down tab), choose **Baby Mode**. 
