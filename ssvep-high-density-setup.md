@@ -7,7 +7,7 @@
 
 - In 120G Chandlee remove cables from amplifier and connect them to pegs on wall.
  
-![Rear of NetAmps 200](imgs/rear-of-amplifier.pictClipping.jpg)<div style="text-align: center;">
+<div style="text-align: center;"><IMG SRC="imgs/rear-of-amplifier.pictClipping.jpg" ALT="Rear of NetAmps 200"></div>
 
 - Wheel amp between the monitor and the subject chair so that it is to the right of the subject chair. 
   **ALWAYS PULL AMP BACKWARDS TO PREVENT TIPPING**
