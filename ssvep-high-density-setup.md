@@ -56,6 +56,9 @@
 - In Run mode (pull-down tab), choose **Auto Sequence**. 
 - In Msg mode (pull-down tab), choose **Net Station**.
 - In Stim Set, Go to Open, and choose the appropriate stimulus set.
+  - Child
+    - 
+  - Adult
 
 ![Open Stimulus Set - Auto Sequence](imgs/RunModeAutoRun.jpg)
 
@@ -64,6 +67,8 @@
 - In Msg mode (pull-down tab), choose **Net Station**.
 - In Stim Set, Go to Open, and choose the appropriate stimulus set.
   - inf_2pat_lamrad (most used)
+  - inf_2pat_lamrot
+  - inf_2pat_radrot
 
 ![Open Stimulus Set - Baby Mode](imgs/RunModeBabyMode.jpg)
 
@@ -119,7 +124,24 @@
 
 ![External Time Base](imgs/external-timebase-switch-on-amp.pictClipping.jpg)
 
-##Run Experiment
+## Experimental Setup
+
+- The monitor should be located 60cm from the bridge of the nose on the participant
+- The chair height should be set so the participant is looking directly at the **X** in the middle of the screen.
+- High Density
+  - Baby Mode (Researcher in the room)
+    - Record: Use the Keyboard to record (**R**) 
+      - When recording there is an **X** in the middle of the screen.
+    - Pause Study: Use the keyboard to pause (**W**)
+      - When paused there is an **X** with a **circle** around it in the midde of the screen
+    - Use the toys to keep attention toward the monitor
+  - Auto Sequence
+    - Pause Study: The keyboard **space bar** in the testing chamber or on the PD Video computer
+    - Continue Study: The **Continue** button must be clicked in the Power Diva software
+- Low Density
+  -  Game controller is used to record and pause
+
+## Run Experiment
 
 - In Power Diva Video, press the **Run** button in the **Stim Set** window
 - The **Auto Run Settings** window will open
@@ -128,7 +150,13 @@
 
 ![Run Session](imgs/power-diva-autorun.pictClipping.jpg)
 
+- Try to get the following number of blocks of data:
+  - Infant: 6
+  - Child: 10
+  - Adult: 12
+  
 - On the Net Station computer, make sure the “Recording” symbol is displayed on the upper left-hand side of the screen. Also, make sure the event flag labeled “DIN4” is present, as well as a flag below this with the condition number (e.g., “c004”).
+  - the flag "p003" means that the study was paused
 
 ## AFTER SESSION
 
