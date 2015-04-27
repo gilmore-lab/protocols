@@ -102,8 +102,8 @@
 
 - Run Zeros and Gains (should run automatically).
 
-![Gains](imgs/Gains)
-![Zeros](imgs/Zeros)
+![Gains](imgs/Gains.jpg)
+![Zeros](imgs/Zeros.jpg)
 
 - Place the net on the EEG Participant
 
