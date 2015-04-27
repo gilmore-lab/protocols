@@ -72,7 +72,7 @@
   - inf_2pat_lamrot
   - inf_2pat_radrot
 
-![Open Stimulus Set - Baby Mode](imgs/RunModeBabyMode.jpg)
+<IMG SRC="/imgs/RunModeBabyMode.jpg" ALT="Open Stimulus Set - Baby Mode" align="absmiddle" width="50%">
 
 - Press the Run button. In the DAQ Rate Settings window, there is a binary code to confirm. On the side of the external time box facing you, there are silver switches (up = 1, down = 0). Read the binary code in the PD Video window from right to left, and check to make sure that the switches on the timing box correspond to this code. If they don't match, notify the PI. If they do, press Cancel.
 
