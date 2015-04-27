@@ -62,7 +62,7 @@
     - 
   - Adult
 
-![Open Stimulus Set - Auto Sequence](imgs/RunModeAutoRun)
+![Open Stimulus Set - Auto Sequence](imgs/RunModeAutoRun.jpg)
 
 #### For Infant
 - In Run mode (pull-down tab), choose **Baby Mode**. 
@@ -72,7 +72,7 @@
   - inf_2pat_lamrot
   - inf_2pat_radrot
 
-![Open Stimulus Set - Baby Mode](imgs/RunModeBabyMode)
+![Open Stimulus Set - Baby Mode](imgs/RunModeBabyMode.jpg)
 
 - Press the Run button. In the DAQ Rate Settings window, there is a binary code to confirm. On the side of the external time box facing you, there are silver switches (up = 1, down = 0). Read the binary code in the PD Video window from right to left, and check to make sure that the switches on the timing box correspond to this code. If they don't match, notify the PI. If they do, press Cancel.
 
@@ -160,6 +160,8 @@
   
 - On the Net Station computer, make sure the “Recording” symbol is displayed on the upper left-hand side of the screen. Also, make sure the event flag labeled “DIN4” is present, as well as a flag below this with the condition number (e.g., “c004”).
   - the flag "p003" means that the study was paused
+
+![NS Recording Symbol](imgs/NS-Recording-Screenshot.jpg)
 
 ## AFTER SESSION
 
