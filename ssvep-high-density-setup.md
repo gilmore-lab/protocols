@@ -107,7 +107,7 @@
 
 ![Zeros](imgs/Zeros.jpg)
 
-- Place the net on the EEG Participant
+- Complete [EEG Net Placement](Applying_EEG_Nets_And_Minimizing_Impedances.md).
 
 - After netting, plug the net into the articulating arm.
 
