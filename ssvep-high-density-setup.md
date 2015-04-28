@@ -107,7 +107,7 @@
 
 ![Zeros](imgs/Zeros.jpg)
 
-- Complete [EEG Net Placement](Applying_EEG_Nets_And_Minimizing_Impedances.md).
+- Complete [EEG Net Placement](Applying_EEG_Nets_and_Minimizing_Impedances.md). (separate protocol)
 
 - After netting, plug the net into the articulating arm.
 
