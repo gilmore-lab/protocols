@@ -111,7 +111,7 @@
 
 - After netting, plug the net into the articulating arm.
 
-![Connect arm to amp](imgs/Net-plugged-into-articulating-arm.jpg)
+<IMG SRC="/imgs/Net-plugged-into-articulating-arm.jpg" ALT="Connect arm to amp" align="absmiddle" width="50%">
 
 - Measure Impedance.
   - Go to the **Panels** menu at the top of the screen and select **Impedance**
