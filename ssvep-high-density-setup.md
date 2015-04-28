@@ -163,7 +163,7 @@
 - On the Net Station computer, make sure the “Recording” symbol is displayed on the upper left-hand side of the screen. Also, make sure the event flag labeled “DIN4” is present, as well as a flag below this with the condition number (e.g., “c004”).
   - the flag "p003" means that the study was paused
 
-<IMG SRC="/imgs/NS-Recording-Screenshot.jpg" ALT="NS Recording Symbol" align="absmiddle" width="50%">
+<IMG SRC="/imgs/NS-Recording-Screenshot.jpg" ALT="NS Recording Symbol" align="absmiddle" width="75%">
 
 ## AFTER SESSION
 
