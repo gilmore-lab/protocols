@@ -40,7 +40,7 @@
 
 - Make sure that white round switch on top of the left KVM switch is set to B.
 
-<IMG SRC="/imgs/Serial_Switch_B.jpg" ALT="White Switch on top of Black KVM Switch" align="absmiddle" width="25%" style="image-orientation: 90deg;">
+<IMG SRC="/imgs/Serial_Switch_B.jpg" ALT="White Switch on top of Black KVM Switch" align="absmiddle" width="25%" style="image-orientation: 90deg">
 
 - On PD Video computer, open Power Diva Video 3.4 software. (icon label says alias)
 
