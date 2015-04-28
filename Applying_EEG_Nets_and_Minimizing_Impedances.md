@@ -17,9 +17,9 @@
 
 ### Measure subject’s head:  
 - Put the measuring tape around the head starting and ending at the glabella (brow ridge between the eyebrows), running the tape over the inion (occipital protuberance at the back of the head). Always measure in cm. 
-#### Choose Net
-  - Make sure to mark down which net you are using in the net log. Since there are multiple nets for all sizes, please check the net logs **BEFORE** choosing a net to ensure that all nets are used evenly (i.e. don’t use the same medium net that was used yesterday unless all of the medium nets were used).  
-  - Soak the net in fresh electrolyte solution for 5 minutes while you take the rest of the measurements.  
+  #### Choose Net
+    - Make sure to mark down which net you are using in the net log. Since there are multiple nets for all sizes, please check the net logs **BEFORE** choosing a net to ensure that all nets are used evenly (i.e. don’t use the same medium net that was used yesterday unless all of the medium nets were used).  
+    - Soak the net in fresh electrolyte solution for 5 minutes while you take the rest of the measurements.  
 
 - Find and mark the central point on the subject’s scalp:  
   **Do NOT Mark the scalp of an infant** 
