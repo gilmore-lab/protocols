@@ -40,7 +40,7 @@
 
 - Make sure that white round switch on top of the left KVM switch is set to B.
 
-<IMG SRC="/imgs/White-Switch.jpg" ALT="White Switch on top of Black KVM Switch" align="absmiddle">
+<IMG SRC="/imgs/Serial_Switch_B.jpg" ALT="White Switch on top of Black KVM Switch" align="absmiddle">
 
 - On PD Video computer, open Power Diva Video 3.4 software. (icon label says alias)
 
@@ -59,8 +59,9 @@
 - In Msg mode (pull-down tab), choose **Net Station**.
 - In Stim Set, Go to Open, and choose the appropriate stimulus set.
   - Child
-    - 
+    - mofo_tuning_child_20150428
   - Adult
+    - moco_3pat_hidens_20150428	
 
 <IMG SRC="/imgs/RunModeAutoRun.jpg" ALT="Open Stimulus Set - Auto Sequence" align="absmiddle" width="50%">
 
@@ -68,15 +69,15 @@
 - In Run mode (pull-down tab), choose **Baby Mode**. 
 - In Msg mode (pull-down tab), choose **Net Station**.
 - In Stim Set, Go to Open, and choose the appropriate stimulus set.
-  - inf_2pat_lamrad (most used)
-  - inf_2pat_lamrot
-  - inf_2pat_radrot
+  - inf_2pat_lamrad_20150428 (most used)
+  - inf_2pat_lamrot_20150428
+  - inf_2pat_radrot_20150428
 
 <IMG SRC="/imgs/RunModeBabyMode.jpg" ALT="Open Stimulus Set - Baby Mode" align="absmiddle" width="50%">
 
 - Press the Run button. In the DAQ Rate Settings window, there is a binary code to confirm. On the side of the external time box facing you, there are silver switches (up = 1, down = 0). Read the binary code in the PD Video window from right to left, and check to make sure that the switches on the timing box correspond to this code. If they don't match, notify the PI. If they do, press Cancel.
 
-![Determine Time Base Code](imgs/power-diva-autorun.pictClipping.jpg)
+<IMG SRC="/imgs/power-diva-autorun.pictClipping.jpg" ALT="Determine Time Base Code" align="absmiddle" width="50%">
 
 ### Prepare Net Station
 
