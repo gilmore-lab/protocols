@@ -123,7 +123,7 @@
 
 - Go to the **Panels** menu at the top of the screen and select **Dense Waveform Display**.
 
-![Dense waveform](imgs/dense-waveform-display.pictClipping.jpg)
+<IMG SRC="/imgs/dense-waveform-display.pictClipping.jpg" ALT="Dense waveform" align="absmiddle" width="50%">
 
 - Turn small switch on amplifier to **EXTERNAL TIMEBASE**.
 
@@ -163,7 +163,7 @@
 - On the Net Station computer, make sure the “Recording” symbol is displayed on the upper left-hand side of the screen. Also, make sure the event flag labeled “DIN4” is present, as well as a flag below this with the condition number (e.g., “c004”).
   - the flag "p003" means that the study was paused
 
-![NS Recording Symbol](imgs/NS-Recording-Screenshot.jpg)
+<IMG SRC="/imgs/NS-Recording-Screenshot.jpg" ALT="NS Recording Symbol" align="absmiddle" width="50%">
 
 ## AFTER SESSION
 
