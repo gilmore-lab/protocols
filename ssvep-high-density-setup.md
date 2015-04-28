@@ -91,7 +91,7 @@
 
 - In the Net Station window, click **New Session**
 - Select the session template labeled **Power Diva Setup**.
-	 
+
 
 ## AFTER PARTICIPANT ARRIVES
 
@@ -101,7 +101,7 @@
 
 - **Begin Session**.
 
-- Run Zeros and Gains (should run automatically).
+- Run Zeros and Gains (should run automatically). The net cannot be plugged into the articulating arm at this time.
 
 ![Gains](imgs/Gains.jpg)
 
