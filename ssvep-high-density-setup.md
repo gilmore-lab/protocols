@@ -90,7 +90,7 @@
 - When the window pops up, there should be a key symbol with the words **Wenger** on the bottom left-hand side. If it is not there, this means that the NS HASP key is not plugged in.
 
 - In the Net Station window, click **New Session**
-- Select the session template labeled **Power Diva Adult Set Up**.
+- Select the session template labeled **Power Diva Setup**.
 	 
 
 ## AFTER PARTICIPANT ARRIVES
