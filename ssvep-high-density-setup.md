@@ -153,7 +153,7 @@
 - **Check the box** in the Net Station Recording control window labeled **Start/Continue Net Station Recording**
 - Press **Run**.
 
-<IMG SRC="/imgs/AutoRunSettings_NS Box Checked.jpg" ALT="Run Session" align="absmiddle" width="50%">
+<IMG SRC="/imgs/AutoRunSettings_NS_Box_Checked.jpg" ALT="Run Session" align="absmiddle" width="50%">
 
 - Try to get the following number of blocks of data:
   - Infant: 6
