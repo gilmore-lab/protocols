@@ -1,13 +1,20 @@
-# Procedure for Applying EEG Nets and Minimizing Impedances
+# Applying EEG Nets and Minimizing Impedances
 
-1.	Make sure hands are clean and cut free.  Remove all watches and jewelry, etc., from your hands. Put on sterile gloves.  You must be wearing gloves before touching the participant.
+## Researcher Preparation
 
-2.	Check with the subject to ensure the following:  
-  a.  Hair must be clean and free of any hair products, including no-rinse conditioners, non permanent hair dye, hair extensions that cannot be removed.  In addition individuals with cornrows or dreadlocks may not participate.  
-  b.  It is preferred that participants wear glasses instead of contacts.  If they wear glasses, be sure that they take them off for the net placement procedure.  The glasses may be put back on after net placement is complete.  
-  c.  Have the subject wash their face in 120A and remove all facial jewelry, including earrings, before having the net applied.  
+- Make sure hands are clean and cut free.  
+- Remove all watches and jewelry, etc., from your hands. 
+- Put on sterile gloves.  You **must** be wearing gloves before touching the participant.
+
+## Participant Preparation
+
+- Ensure that hair is clean, dry and free of any hair products, including no-rinse conditioners, non permanent hair dye, hair extensions that cannot be removed.  
+- Participants with cornrows, dreadlocks, non-permanent hair dya, non-removable hair extensions may not participate.  
+- It is preferred that participants wear glasses instead of contacts.  If they wear glasses, be sure that they take them off for the net placement procedure.  The glasses may be put back on after net placement is complete.  
+- Have the subject wash their face in 120A and remove all facial jewelry, including earrings, before having the net applied.  
 
 ## Head Measurement procedure
+
 ### Measure subject’s head:  
   - Put the measuring tape around the head starting and ending at the glabella (brow ridge between the eyebrows), running the tape over the inion (occipital protuberance at the back of the head). Always measure in cm. 
   Make sure to mark down which net you are using in the net log. Since there are multiple nets for all sizes, please check the net logs **BEFORE** choosing a net to ensure that all nets are used evenly (i.e. don’t use the same medium net that was used yesterday unless all of the medium nets were used).  
