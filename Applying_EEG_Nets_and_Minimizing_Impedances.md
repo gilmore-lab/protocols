@@ -9,21 +9,23 @@
 ## Participant Preparation
 
 - Ensure that hair is clean, dry and free of any hair products, including no-rinse conditioners, non permanent hair dye, hair extensions that cannot be removed.  
-- Participants with cornrows, dreadlocks, non-permanent hair dya, non-removable hair extensions may not participate.  
+- Participants with cornrows, dreadlocks, non-permanent hair dye, non-removable hair extensions may not participate.  
 - It is preferred that participants wear glasses instead of contacts.  If they wear glasses, be sure that they take them off for the net placement procedure.  The glasses may be put back on after net placement is complete.  
 - Have the subject wash their face in 120A and remove all facial jewelry, including earrings, before having the net applied.  
 
 ## Head Measurement procedure
 
 ### Measure subject’s head:  
-  - Put the measuring tape around the head starting and ending at the glabella (brow ridge between the eyebrows), running the tape over the inion (occipital protuberance at the back of the head). Always measure in cm. 
-  Make sure to mark down which net you are using in the net log. Since there are multiple nets for all sizes, please check the net logs **BEFORE** choosing a net to ensure that all nets are used evenly (i.e. don’t use the same medium net that was used yesterday unless all of the medium nets were used).  
-  b.	Soak the net in fresh electrolyte solution for 5 minutes while you take the rest of the measurements.  
+- Put the measuring tape around the head starting and ending at the glabella (brow ridge between the eyebrows), running the tape over the inion (occipital protuberance at the back of the head). Always measure in cm. 
+#### Choose Net
+  - Make sure to mark down which net you are using in the net log. Since there are multiple nets for all sizes, please check the net logs **BEFORE** choosing a net to ensure that all nets are used evenly (i.e. don’t use the same medium net that was used yesterday unless all of the medium nets were used).  
+  - Soak the net in fresh electrolyte solution for 5 minutes while you take the rest of the measurements.  
 
-6.	Find and mark the central point on the subject’s scalp:  
-  a.	Stand behind the subject and measure from nasion (indented area where the bridge of the nose meets the skull) to inion (bony protuberance at the back of the head), divide in half and make a mark on both sides of the tape with a china marker, perpendicular to the tape.  
-  b.	Measure from each preauricular point (indented area in front of each ear flap where the jaw meets the skull), divide in half and make a mark on both sides of the tape (perpendicular to the tape) with a china marker, making sure the measuring tape crosses on top of the previous mark (this will create a cross on the subjects head, which is their Cz point). If the mandibular joint is hard to find, use symmetrical points on side of head.  
-  c.	Give the subject a clean towel.  
+- Find and mark the central point on the subject’s scalp:  
+  **Do NOT Mark the scalp of an infant** 
+  - Stand behind the subject and measure from nasion (indented area where the bridge of the nose meets the skull) to inion (bony protuberance at the back of the head), divide in half and make a mark on both sides of the tape with a china marker, perpendicular to the tape.  
+  - Measure from each preauricular point (indented area in front of each ear flap where the jaw meets the skull), divide in half and make a mark on both sides of the tape (perpendicular to the tape) with a china marker, making sure the measuring tape crosses on top of the previous mark (this will create a cross on the subjects head, which is their Cz point). If the mandibular joint is hard to find, use symmetrical points on side of head.  
+-Give the participant a clean towel.  
 
 7.	Apply and adjust the net, below is a key of which beads to pull for different adjustments:  
   a.	As you get the net ready for application, remember to keep your hands and elbows in to minimize stretching.  
