@@ -152,7 +152,7 @@
 - **Check the box** in the Net Station Recording control window labeled **Start/Continue Net Station Recording**
 - Press **Run**.
 
-![Run Session](imgs/power-diva-autorun.pictClipping.jpg)
+![Run Session](imgs/AutoRunSettings_NS Box Checked.jpg)
 
 - Try to get the following number of blocks of data:
   - Infant: 6
