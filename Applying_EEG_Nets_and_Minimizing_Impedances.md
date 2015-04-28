@@ -2,7 +2,7 @@ Procedure for Applying EEG Nets and Minimizing Impedances
 
 1.	Power up all computers and have the investigator log on to the Mac and PC using their user name and password.
 
-2.	Before the subject arrives run calibration on the amplifiers. (Gains and Zeros) 
+2.	Before the subject arrives run calibration on the amplifiers. (Gains and Zeros)  
   a.	The calibration arm should not be plugged into the amplifier	
   b.	Note any electrodes that appear to run outside of the green shaded area (position the pointer over outlier peaks to determine the individual electrode) in the system log binder.
 
