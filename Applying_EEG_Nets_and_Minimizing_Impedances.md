@@ -15,22 +15,37 @@
 
 ## Head Measurement procedure
 
-### Measure subject’s head:  
+### Measure Circumference
 - Put the measuring tape around the head starting and ending at the glabella (brow ridge between the eyebrows), running the tape over the inion (occipital protuberance at the back of the head). Always measure in cm. 
-  ##### Choose Net
+-
+### Choose Net
     - Make sure to mark down which net you are using in the net log. Since there are multiple nets for all sizes, please check the net logs **BEFORE** choosing a net to ensure that all nets are used evenly (i.e. don’t use the same medium net that was used yesterday unless all of the medium nets were used).  
     - Soak the net in fresh electrolyte solution for 5 minutes while you take the rest of the measurements.  
-
+    
+### Mark Vertex
 - Find and mark the central point on the subject’s scalp:  
   **Do NOT Mark the scalp of an infant** 
   - Stand behind the subject and measure from nasion (indented area where the bridge of the nose meets the skull) to inion (bony protuberance at the back of the head), divide in half and make a mark on both sides of the tape with a china marker, perpendicular to the tape.  
   - Measure from each preauricular point (indented area in front of each ear flap where the jaw meets the skull), divide in half and make a mark on both sides of the tape (perpendicular to the tape) with a china marker, making sure the measuring tape crosses on top of the previous mark (this will create a cross on the subjects head, which is their Cz point). If the mandibular joint is hard to find, use symmetrical points on side of head.  
-- Give the participant a clean towel.  
+
+### Towels
+- Drape 1 towel over the participants' shoulders
+- Hand 1 towel to the participant
+- Use 1 towel to set the net on after it is 
 
 ### Apply and Adjust the Net
+
+-**V**ery **B**ig **E**lephants **E**at **M**arshmallows
+  - Chin Strap (Blue Beads)
+  -**V**ertex
+  -**B**row Ridge
+  -**E**ars
+  -**E**yes
+  -**M**astoids
 -	As you get the net ready for application, remember to keep your hands and elbows in to minimize stretching.  
 -	Place hands into the net, keeping chin strap in front of the hands with the right thumb between electrodes 25 and 32 and the left thumb between electrodes 8 and 1. Put your pinky fingers on the outside of the two red electrodes in the bottom, back row (94 and 120). Grab the Cz with 2 fingers, or extend your fingers upwards to spread out the top of the net so the Cz is visible. Stand directly in front of the subject and keep feet squared and together, tell subject to close their eyes, and pull the net straight down on their head, keeping thumbs and pinkies in.  Use a rocking motion as you slide the net on and keep hands pressed firmly against subject’s face to ensure a tight fit. Remove pinkies and thumbs only when the net is fully extended down onto the head.  
-- Tighten the chin strap (blue beads). Check the position of the Cz (if the Cz is on the mark, pull the blue beads tighter). The Cz should be within 1 centimeter of the mark, so if it’s not, remove the net and reapply. Keep in mind the chin strap needs to be far enough back so the subject can place their chin on the chin rest (if you are using one).  
+- Tighten the chin strap (blue beads). 
+- Check the position of the Cz (if the Cz is on the mark, pull the blue beads tighter). The Cz should be within 1 centimeter of the mark. if it’s not, remove the net and reapply. Keep in mind the chin strap needs to be far enough back so the subject can place their chin on the chin rest (if you are using one).  
 - Adjust the ears by grabbing and moving groups of electrodes with both hands. If you’re working in pairs it’s easiest to have each person work on one side. You can also ask the subject if the net feels comfortable around the ears. Once you are satisfied with the ears, pull the white beads to tighten the net around the ears.  
 - Check the Cz for any movement and tighten the chin strap (blue beads).  
 - Adjust the electrodes on the face. #17 should be on the glabella, and the plastic tube should rest on the bridge of the nose. Slide the two eye field electrodes (#126 and 127) so they are in symmetrical places on the face (typically below the cheekbones), making sure that they do not block the subject’s line of vision. Pull on the red beads to secure the positioning of #126 and 127.  If you’re working in pairs, 1 person should make the adjustments on the net while the other person moves the electrodes under the hair to make better scalp contact and reduce the number of initial impedances.  
