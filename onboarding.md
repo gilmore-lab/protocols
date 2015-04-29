@@ -9,14 +9,23 @@
 2. *Lab Manager* uploads completion certificate to Box Sync/gilmore-lab/irb/citi-training-certificates.
 
 3. *Lab Manager* updates the file Box Sync/gilmore-lab/people/staff/Lab Training.xlsx.
+
 4. *New RA* completes Online Training: Building a Safe Penn State: Reporting Child Abuse located at: psuohrlearning.skillport.com. When completed, *New RA* sends training certificate to the Lab Manager, psubrainlab@gmail.com.
+
 5. *Lab Manager* uploads completion certificate to Box Sync/gilmore-lab/people/staff/training-certificates.
+
 6. *Lab Manager* updates the file Box Sync/gilmore-lab/people/staff/Lab Training.xlsx.
+
 7. *New RA* completesOnline Training: Clery Act Training located at: psuohrlearning.skillport.com. When completed, *New RA* sends training certificate to the Lab Manager, psubrainlab@gmail.com.
+
 8. *Lab Manager* uploads completion certificate to Box Sync/gilmore-lab/people/staff/training-certificates.
+
 9. *Lab Manager* updates the file Box Sync/gilmore-lab/people/staff/Lab Training.xlsx.
+
 10. *New RA* views epilepsy videos.
+
 11. *Lab Manager* updates the file Box Sync/gilmore-lab/people/staff/Lab Training.xlsx
+
 12. *Lab Manager* modifies research protocols to add staff.
 
 ### File Sharing ###
