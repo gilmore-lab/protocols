@@ -3,10 +3,18 @@ protocols
 
 ## Lab protocols and procedures:
 
-- Set-up
+- New Lab Members
+  - [Duties and Training](onboarding.md) 
 
+- Set-up
+  - EEG
 	- [High density](ssvep-high-density-setup.md)
 	- [Low density](ssvep-low-density-setup.md)
+	 
+	- [EEG Net Application](Applying_EEG_Nets_and_Minimizing_Impedances.md)
+  - MRI
+	- [MRI Experimental Protocol](MRI_experimental_procedure.md)
+	- [Vision Screening](vision-screening.md)
 	
 - Data Export
 
