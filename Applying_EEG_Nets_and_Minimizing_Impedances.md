@@ -68,12 +68,12 @@ Adjust straps between each step
 
 - Adjust all pedestals to make contact with the scalp (a pipette is effective at shifting hair). Then clip the net to the back of the subject’s shirt, check for any dirt and that pins are straight and lined up and connect the hydrostatic connector to the arm by turning to the right.   
 
-  - Adjustment key
-    - Red bead: primarily the eye fields and front of net  
-    - White bead: ears and sides of net  
-    - Blue beads: 
-      - pulling both blue beads simultaneously will tighten entire net  
-      - pulling one of the elastomers, one at a time, that stems from the blue beads, while pinching the clasp on the side will tighten the sides of the net and is good for picking up slack around the ears  
+Adjustment key
+- Red bead: primarily the eye fields and front of net  
+- White bead: ears and sides of net  
+- Blue beads: 
+  - pulling both blue beads simultaneously will tighten entire net  
+  - pulling one of the elastomers, one at a time, that stems from the blue beads, while pinching the clasp on the side will tighten the sides of the net and is good for picking up slack around the ears  
 
 ### Check Impedance
 
