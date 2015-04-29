@@ -13,11 +13,12 @@
 - It is preferred that participants wear glasses instead of contacts.  If they wear glasses, be sure that they take them off for the net placement procedure.  The glasses may be put back on after net placement is complete.  
 - Have the subject wash their face in 120A and remove all facial jewelry, including earrings, before having the net applied.  
 
-## Head Measurement procedure
+## Head Measurement 
 
 ### Measure Circumference
-- Put the measuring tape around the head starting and ending at the glabella (brow ridge between the eyebrows), running the tape over the inion (occipital protuberance at the back of the head). Always measure in cm. 
--
+- Put the measuring tape around the head starting and ending at the glabella (brow ridge between the eyebrows), running the tape over the inion (occipital protuberance at the back of the head). 
+- Always measure in cm. 
+
 ### Choose Net
     - Make sure to mark down which net you are using in the net log. Since there are multiple nets for all sizes, please check the net logs **BEFORE** choosing a net to ensure that all nets are used evenly (i.e. don’t use the same medium net that was used yesterday unless all of the medium nets were used).  
     - Soak the net in fresh electrolyte solution for 5 minutes while you take the rest of the measurements.  
