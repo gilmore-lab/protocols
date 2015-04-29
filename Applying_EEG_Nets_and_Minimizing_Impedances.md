@@ -20,8 +20,8 @@
 - Always measure in cm. 
 
 ### Choose Net
-    - Make sure to mark down which net you are using in the net log. Since there are multiple nets for all sizes, please check the net logs **BEFORE** choosing a net to ensure that all nets are used evenly (i.e. don’t use the same medium net that was used yesterday unless all of the medium nets were used).  
-    - Soak the net in fresh electrolyte solution for 5 minutes while you take the rest of the measurements.  
+- Make sure to mark down which net you are using in the net log. Since there are multiple nets for all sizes, please check the net logs **BEFORE** choosing a net to ensure that all nets are used evenly (i.e. don’t use the same medium net that was used yesterday unless all of the medium nets were used).  
+- Soak the net in fresh electrolyte solution for 5 minutes while you take the rest of the measurements.  
     
 ### Mark Vertex
 - Find and mark the central point on the subject’s scalp:  
@@ -36,15 +36,15 @@
 
 ### Apply and Adjust the Net
 
--**V**ery **B**ig **E**lephants **E**at **M**arshmallows
+**V**ery **B**ig **E**lephants **E**at **M**arshmallows
   - Chin Strap (Blue Beads)
   -**V**ertex
   -**B**row Ridge
   -**E**ars
   -**E**yes
   -**M**astoids
--	As you get the net ready for application, remember to keep your hands and elbows in to minimize stretching.  
--	Place hands into the net, keeping chin strap in front of the hands with the right thumb between electrodes 25 and 32 and the left thumb between electrodes 8 and 1. Put your pinky fingers on the outside of the two red electrodes in the bottom, back row (94 and 120). Grab the Cz with 2 fingers, or extend your fingers upwards to spread out the top of the net so the Cz is visible. Stand directly in front of the subject and keep feet squared and together, tell subject to close their eyes, and pull the net straight down on their head, keeping thumbs and pinkies in.  Use a rocking motion as you slide the net on and keep hands pressed firmly against subject’s face to ensure a tight fit. Remove pinkies and thumbs only when the net is fully extended down onto the head.  
+- As you get the net ready for application, remember to keep your hands and elbows in to minimize stretching.  
+- Place hands into the net, keeping chin strap in front of the hands with the right thumb between electrodes 25 and 32 and the left thumb between electrodes 8 and 1. Put your pinky fingers on the outside of the two red electrodes in the bottom, back row (94 and 120). Grab the Cz with 2 fingers, or extend your fingers upwards to spread out the top of the net so the Cz is visible. Stand directly in front of the subject and keep feet squared and together, tell subject to close their eyes, and pull the net straight down on their head, keeping thumbs and pinkies in.  Use a rocking motion as you slide the net on and keep hands pressed firmly against subject’s face to ensure a tight fit. Remove pinkies and thumbs only when the net is fully extended down onto the head.  
 - Tighten the chin strap (blue beads). 
 - Check the position of the Cz (if the Cz is on the mark, pull the blue beads tighter). The Cz should be within 1 centimeter of the mark. if it’s not, remove the net and reapply. Keep in mind the chin strap needs to be far enough back so the subject can place their chin on the chin rest (if you are using one).  
 - Adjust the ears by grabbing and moving groups of electrodes with both hands. If you’re working in pairs it’s easiest to have each person work on one side. You can also ask the subject if the net feels comfortable around the ears. Once you are satisfied with the ears, pull the white beads to tighten the net around the ears.  
@@ -64,9 +64,9 @@
 
 Run an impedance check once the net has been connected to the arm.  All impedances need to be below 50 before data collection can begin, unless otherwise specified.  To check impedance: go to “panels”, “impedance”, then “check impedance.”  Use the electrolyte solution with pipettes to rewet pedestals as needed for maximum conductance. Be sure to turn off the light after impedances have been checked.  Make sure to save and close once the impedances have been fixed.  
 
-9.	Run the experiment as the protocol dictates. 
+###	Run the experiment as the protocol dictates
 
-### Remove the Net:  
+### Remove the Net
 - Unplug net and return arm to its resting position.  
 - With gloves on, release the chin strap, ear, and eye field tension.  
 - Pull the chin strap up and over the subject’s eyes and then pull the electrodes up and over the ears. Place thumbs in the same position that you used for net application, except rotate your thumbs so that your thumb nails are against the subject’s forehead. Use your other fingers and wrists to “walk” the net off the head by turning it inside out.  
@@ -81,7 +81,7 @@ Run an impedance check once the net has been connected to the arm.  All impedanc
 - Disinfect the measuring spoons: Wipe with a Clorox Wipe
   - Disinfect the measuring spoons by wiping them with a Clorox wipe.  
 
-- Rinse the net:  
+- Rinse the net  
   - Rinse the net in distilled water 4 times, agitating for 30 seconds each time.  
   -	Place measuring spoons on the towel to dry. 
 
