@@ -75,18 +75,18 @@ Adjustment key
   - pulling both blue beads simultaneously will tighten entire net  
   - pulling one of the elastomers, one at a time, that stems from the blue beads, while pinching the clasp on the side will tighten the sides of the net and is good for picking up slack around the ears  
 
-### Check Impedance
+## Check Impedance
 
 Run an impedance check once the net has been connected to the arm.  All impedances need to be below 50 before data collection can begin, unless otherwise specified.  To check impedance: go to “panels”, “impedance”, then “check impedance.”  Use the electrolyte solution with pipettes to rewet pedestals as needed for maximum conductance. Be sure to turn off the light after impedances have been checked.  Make sure to save and close once the impedances have been fixed.  
 
-###	Run the experiment as the protocol dictates
+##	Run the experiment as the protocol dictates
 
-### Remove the Net
+## Remove the Net
 - Unplug net and return arm to its resting position.  
 - With gloves on, release the chin strap, ear, and eye field tension.  
 - Pull the chin strap up and over the subject’s eyes and then pull the electrodes up and over the ears. Place thumbs in the same position that you used for net application, except rotate your thumbs so that your thumb nails are against the subject’s forehead. Use your other fingers and wrists to “walk” the net off the head by turning it inside out.  
 
-### Clean Up
+## Clean Up
 
 - Rinse the Net
   - Rinse the net in distilled water 4 times, agitating for 30 seconds each time.
