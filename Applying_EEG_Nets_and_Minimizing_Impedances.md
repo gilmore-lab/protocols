@@ -36,7 +36,7 @@
 
 ### Apply and Adjust the Net
 
-**V**ery **B**ig **E**lephants **E**at **M**arshmallows  
+- **V**ery **B**ig **E**lephants **E**at **M**arshmallows  
   - Chin Strap (Blue Beads)
   - **V**ertex
   - **B**row Ridge
