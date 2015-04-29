@@ -48,6 +48,7 @@
 Adjust straps between each step  
   
 ### The Detailed Version
+
 - As you get the net ready for application, remember to keep your hands and elbows in to minimize stretching.  
 
 - Place hands into the net, keeping chin strap in front of the hands with the right thumb between electrodes 25 and 32 and the left thumb between electrodes 8 and 1. Put your pinky fingers on the outside of the two red electrodes in the bottom, back row (94 and 120). Grab the Cz with 2 fingers, or extend your fingers upwards to spread out the top of the net so the Cz is visible. Stand directly in front of the subject and keep feet squared and together, tell subject to close their eyes, and pull the net straight down on their head, keeping thumbs and pinkies in.  Use a rocking motion as you slide the net on and keep hands pressed firmly against subject’s face to ensure a tight fit. Remove pinkies and thumbs only when the net is fully extended down onto the head.  
@@ -95,11 +96,11 @@ Run an impedance check once the net has been connected to the arm.  All impedanc
   - Disinfect the net using 2 liters of the disinfection solution:  disinfectant is good for 2 weeks so check the date before using.  
   - Agitate the net in the solution for 3 minutes, then soak the net in the solution for an additional 7 minutes.  Do not put your bare hand in the disinfectant.  
 
-- Disinfect the measuring spoons  
+- Disinfect the measuring spoons
   - Wipe with a Clorox Wipe
   - Place measuring spoons on the towel to dry 
   
-- Rinse the net  
+- Rinse the net
   - Rinse the net in distilled water 4 times, agitating for 30 seconds each time.  
  
 - Hang the net on one of the drying racks with the cord above it so no water gets on the connector and spread the net out some.  
