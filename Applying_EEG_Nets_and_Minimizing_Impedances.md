@@ -36,14 +36,16 @@
 
 ### Apply and Adjust the Net
 
-- **V**ery **B**ig **E**lephants **E**at **M**arshmallows  
+#### The Short Version
+**V**ery **B**ig **E**lephants **E**at **M**arshmallows  
   - Chin Strap (Blue Beads)
   - **V**ertex
   - **B**row Ridge
   - **E**ars
   - **E**yes
   - **M**astoids  
- 
+  
+#### The Detailed Version
 - As you get the net ready for application, remember to keep your hands and elbows in to minimize stretching.  
 - Place hands into the net, keeping chin strap in front of the hands with the right thumb between electrodes 25 and 32 and the left thumb between electrodes 8 and 1. Put your pinky fingers on the outside of the two red electrodes in the bottom, back row (94 and 120). Grab the Cz with 2 fingers, or extend your fingers upwards to spread out the top of the net so the Cz is visible. Stand directly in front of the subject and keep feet squared and together, tell subject to close their eyes, and pull the net straight down on their head, keeping thumbs and pinkies in.  Use a rocking motion as you slide the net on and keep hands pressed firmly against subject’s face to ensure a tight fit. Remove pinkies and thumbs only when the net is fully extended down onto the head.  
 - Tighten the chin strap (blue beads). 
@@ -53,7 +55,7 @@
 - Adjust the electrodes on the face. #17 should be on the glabella, and the plastic tube should rest on the bridge of the nose. Slide the two eye field electrodes (#126 and 127) so they are in symmetrical places on the face (typically below the cheekbones), making sure that they do not block the subject’s line of vision. Pull on the red beads to secure the positioning of #126 and 127.  If you’re working in pairs, 1 person should make the adjustments on the net while the other person moves the electrodes under the hair to make better scalp contact and reduce the number of initial impedances.  
 - Check the Cz for any movement and tighten the chin strap (blue beads).  
 - Pull the elastic that comes from the blue beads and runs through the clamp on each side while opening the clamp on that side and holding both the white and red beads tight. Do this for each side. (**This is not the same as adjusting the chin strap.**) - Check mastoids behind ears (electrodes 100-RM and 57-LM).  To adjust; move electrodes up and over in small movements (being careful not to stretch elastimers between electrodes), and checking again for symmetry of mastoids from the top and back of the head.  After all adjustments, check the Cz and tighten the chin strap (blue beads).  
--	Adjust all pedestals to make contact with the scalp (a pipette is effective at shifting hair). Then clip the net to the back of the subject’s shirt, check for any dirt and that pins are straight and lined up and connect the hydrostatic connector to the arm by turning to the right.   
+- Adjust all pedestals to make contact with the scalp (a pipette is effective at shifting hair). Then clip the net to the back of the subject’s shirt, check for any dirt and that pins are straight and lined up and connect the hydrostatic connector to the arm by turning to the right.   
   - Adjustment key:  
     - Red bead: primarily the eye fields and front of net  
     - White bead: ears and sides of net  
