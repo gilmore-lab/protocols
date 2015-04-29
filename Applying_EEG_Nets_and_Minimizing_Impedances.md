@@ -91,21 +91,15 @@ Run an impedance check once the net has been connected to the arm.  All impedanc
 
 - Rinse the Net
   - Rinse the net in distilled water 4 times, agitating for 30 seconds each time.
-  
 - Disinfect the net
   - Disinfect the net using 2 liters of the disinfection solution:  disinfectant is good for 2 weeks so check the date before using.  
   - Agitate the net in the solution for 3 minutes, then soak the net in the solution for an additional 7 minutes.  Do not put your bare hand in the disinfectant.  
-
 - Disinfect the measuring spoons
   - Wipe with a Clorox Wipe
   - Place measuring spoons on the towel to dry 
-  
 - Rinse the net
   - Rinse the net in distilled water 4 times, agitating for 30 seconds each time.  
- 
 - Hang the net on one of the drying racks with the cord above it so no water gets on the connector and spread the net out some.  
-
 - Log the net used in the appropriate red folder. Be sure to include any notes that are appropriate (i.e. any problems with the equipment, notes about a trainee or participant, etc.).  
-
 - Be sure ALL WORK surfaces have been wiped down with Clorox wipes after you are done; including: both chairs, chin rest, keyboards, button box, all tables that were used and the counter in room 120A.  
 
