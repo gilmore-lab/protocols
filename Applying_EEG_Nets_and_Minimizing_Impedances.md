@@ -44,6 +44,7 @@
   - **E**ars
   - **E**yes
   - **M**astoids  
+- Adjust straps between each step 
   
 #### The Detailed Version
 - As you get the net ready for application, remember to keep your hands and elbows in to minimize stretching.  
