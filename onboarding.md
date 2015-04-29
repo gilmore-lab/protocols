@@ -6,7 +6,7 @@
 
 1. *New RA* completes [Social Science Human Participants Training](http://www.research.psu.edu/training/irb-basic-training). When completed, *New RA* sends completion certificate to the Lab Manager, psubrainlab@gmail.com.
 
-2. *Lab Manager* uploads completion certificate to Box Sync/gilmore-lab/irb/citi-training-certificates.
+2. *Lab Manager* uploads completion certificate to [Box-Citi-Training-Certificates](https://psu.app.box.com/files/0/f/2114534728/citi-training-certificates)
 
 3. *Lab Manager* updates the file Box Sync/gilmore-lab/people/staff/Lab Training.xlsx.
 
