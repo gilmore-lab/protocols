@@ -36,13 +36,13 @@
 
 ### Apply and Adjust the Net
 
-**V**ery **B**ig **E**lephants **E**at **M**arshmallows
+**V**ery **B**ig **E**lephants **E**at **M**arshmallows  
   - Chin Strap (Blue Beads)
-  -**V**ertex
-  -**B**row Ridge
-  -**E**ars
-  -**E**yes
-  -**M**astoids
+  - **V**ertex
+  - **B**row Ridge
+  - **E**ars
+  - **E**yes
+  - **M**astoids
 - As you get the net ready for application, remember to keep your hands and elbows in to minimize stretching.  
 - Place hands into the net, keeping chin strap in front of the hands with the right thumb between electrodes 25 and 32 and the left thumb between electrodes 8 and 1. Put your pinky fingers on the outside of the two red electrodes in the bottom, back row (94 and 120). Grab the Cz with 2 fingers, or extend your fingers upwards to spread out the top of the net so the Cz is visible. Stand directly in front of the subject and keep feet squared and together, tell subject to close their eyes, and pull the net straight down on their head, keeping thumbs and pinkies in.  Use a rocking motion as you slide the net on and keep hands pressed firmly against subject’s face to ensure a tight fit. Remove pinkies and thumbs only when the net is fully extended down onto the head.  
 - Tighten the chin strap (blue beads). 
@@ -73,21 +73,23 @@ Run an impedance check once the net has been connected to the arm.  All impedanc
 
 ### Clean Up
 
-- Rinse the net in distilled water for 30 seconds while agitating the net. Do this a total of 4 times.  
+- Rinse the Net  
+  - Rinse the net in distilled water 4 times, agitating for 30 seconds each time.
+  
 - Disinfect the net:  
   - Disinfect the net using 2 liters of the disinfection solution:  disinfectant is good for 2 weeks so check the date before using.  
   - Agitate the net in the solution for 3 minutes, then soak the net in the solution for an additional 7 minutes.  Do not put your bare hand in the disinfectant.  
 
-- Disinfect the measuring spoons: Wipe with a Clorox Wipe
-  - Disinfect the measuring spoons by wiping them with a Clorox wipe.  
-
+- Disinfect the measuring spoons  
+  - Wipe with a Clorox Wipe
+  - Place measuring spoons on the towel to dry 
+  
 - Rinse the net  
   - Rinse the net in distilled water 4 times, agitating for 30 seconds each time.  
-  -	Place measuring spoons on the towel to dry. 
-
+ 
 - Hang the net on one of the drying racks with the cord above it so no water gets on the connector and spread the net out some.  
 
 - Log the net used in the appropriate red folder. Be sure to include any notes that are appropriate (i.e. any problems with the equipment, notes about a trainee or participant, etc.).  
 
--	Be sure ALL WORK surfaces have been wiped down with Clorox wipes after you are done; including: both chairs, chin rest, keyboards, button box, all tables that were used and the counter in room 120A.  
+- Be sure ALL WORK surfaces have been wiped down with Clorox wipes after you are done; including: both chairs, chin rest, keyboards, button box, all tables that were used and the counter in room 120A.  
 
