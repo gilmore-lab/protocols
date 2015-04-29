@@ -71,7 +71,7 @@ Adjust straps between each step
 Adjustment key
 - Red bead: primarily the eye fields and front of net  
 - White bead: ears and sides of net  
-- Blue beads: 
+- Blue beads
   - pulling both blue beads simultaneously will tighten entire net  
   - pulling one of the elastomers, one at a time, that stems from the blue beads, while pinching the clasp on the side will tighten the sides of the net and is good for picking up slack around the ears  
 
@@ -88,7 +88,7 @@ Run an impedance check once the net has been connected to the arm.  All impedanc
 
 ### Clean Up
 
-- Rinse the Net  
+- Rinse the Net
   - Rinse the net in distilled water 4 times, agitating for 30 seconds each time.
   
 - Disinfect the net
