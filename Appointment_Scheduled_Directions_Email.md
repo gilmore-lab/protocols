@@ -1,6 +1,6 @@
-[Parent Name],
+[Parent First Name],
 
-You are scheduled to have [Child Name] participate in an EEG visit on [Day of week] [Date (MM/DD/YYYY)] at [insert time HH:MM am/pm] in room 120 Chandlee Laboratory at Penn State.  
+Thank you for agreeing to participate in our study. You are scheduled to have [Child Name] participate in an [EEG] visit on [Day of week] [Date (MM/DD/YYYY)] at [insert time HH:MM am/pm] in room [120] Chandlee Laboratory at Penn State.  
 Directions to the SLEIC are located below.
 
 Here is some important contact information for you:
@@ -13,7 +13,8 @@ Please let me know if you have any questions. I look forward to seeing you.
 Thank you,  
 Andrea 
 Lab Manager
-Brain Development Laboratory.
+Brain Development Laboratory
+
 
 Directions to SLEIC  
 
