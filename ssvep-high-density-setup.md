@@ -113,11 +113,13 @@
 
 <IMG SRC="/imgs/Net-plugged-into-articulating-arm.jpg" ALT="Connect arm to amp" align="absmiddle" width="50%">
 
-- Measure Impedance.
+- Measure Impedance
   - Go to the **Panels** menu at the top of the screen and select **Impedance**
   - Then click the **Measure Impedance** button.
   - Adjust channels as necessary. 
   - Click **Save & Close** when satisfactory.
+
+  - If the incorrect impedance check appears, double check that both connectors on the amplifier are securely plugged in.
 
 ![Measure Impedance](imgs/measure-impedance-window.pictClipping.jpg)
 
