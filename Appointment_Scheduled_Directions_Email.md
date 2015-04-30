@@ -5,7 +5,7 @@ Directions to the SLEIC are located below.
 
 Here is some important contact information for you:
 
-120 Chandlee Laboratory: 814-867-2968
+120 Chandlee Laboratory: 814-867-2968  
 Andrea Seisler: 814-933-9201
 
 Please let me know if you have any questions. I look forward to seeing you.
@@ -19,11 +19,11 @@ Chandlee Laboratory is located in the middle of campus across from Old Main. See
 
 The parking lot behind Chandlee has two spaces available for participant parking. Please park in one of the spaces marked "SLEIC Guest, Permit Required". A member of our research team will give you a parking permit when you arrive.
 
-University Park Campus Map
-![Campus Map](imgs/Campus_Map.jpg)
+University Park Campus Map  
+![Campus Map](imgs/Campus_Map.jpg)  
 
-Chandlee Laboratory Map
-![Chandlee Laboratory](imgs/Campus_Map_Zoom.jpg)
+Chandlee Laboratory Map  
+![Chandlee Laboratory](imgs/Campus_Map_Zoom.jpg)  
 
-Driving Directions Map to Chandlee Laboratory
-![SLEIC Parking Spaces](imgs/SLEIC_Parking.jpg)
+Driving Directions Map to Chandlee Laboratory  
+![SLEIC Parking Spaces](imgs/SLEIC_Parking.jpg)  
