@@ -19,6 +19,6 @@ Chandlee Laboratory is located in the middle of campus across from Old Main. See
 
 The parking lot behind Chandlee has two spaces available for participant parking. Please park in one of the spaces marked "SLEIC Guest, Permit Required". A member of our research team will give you a parking permit when you arrive.
 
-!(Chandlee Laboratory)[Campus_Map_Zoom.jpg]
-!(Campus Map)[Campus_Map.jpg]
-!(SLEIC Parking Spaces)[SLEIC_Parking.jpg]
+![Chandlee Laboratory](Campus_Map_Zoom.jpg)
+![Campus Map](Campus_Map.jpg)
+![SLEIC Parking Spaces](SLEIC_Parking.jpg)
