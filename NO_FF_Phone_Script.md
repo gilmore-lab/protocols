@@ -2,7 +2,7 @@
 
 ##This script is to be used when contacting families that are **NOT** a part of FIRSt Families Database.  
 
-- The goal of this conversation is to provide the potential participant’s parent(s) with study information, answer any questions they may have, collect prescreening information over the phone, and if they are eligible, schedule them for a lab visit.  
+The goal of this conversation is to provide the potential participant’s parent(s) with study information, answer any questions they may have, collect prescreening information over the phone, and if they are eligible, schedule them for a lab visit.  
 
 “Hello my name is **[your name]**. I am calling on behalf of the Brain Development Laboratory at Penn State may I speak to **[Mother’s name]** or **[Father’s name]**?”  
 - If parent confirms their presence continue with the script  
