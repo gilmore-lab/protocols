@@ -38,8 +38,8 @@ Please check the psugilmorelab gmail calendar. Available timeslots are listed as
 
 - Once a timeslot is selected say “Your appointment is [day of the week], [date], [time]”  
 
-####Determine whether the parent will need childcare from our lab on the day of the visit:  
-“Do you have other children that you will be bringing to the visit?  If so, how many children and what are their ages?”
+Determine whether the parent will need childcare from our lab on the day of the visit:  
+- “Do you have other children that you will be bringing to the visit?  If so, how many children and what are their ages?”
 
 - After confirmation say “We would like to send you a map and directions to our center do you have an email address that we can send it to?”**
 
