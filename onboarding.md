@@ -74,6 +74,6 @@ New Staff Onboarding
 
 ### MRI Training (optional) ###
 
-1. Complete MRI Safety Training. Follow the instructions found on the [SLEIC MRI Safety Training website](https://www.imaging.psu.edu/for-investigators/3t-mri-facility/3t-mri-safety-training)
+1. Complete MRI Safety Training. Follow the instructions found on the [SLEIC MRI Safety Training website](http://www.imaging.psu.edu/for-investigators). Follow the instructions found here.
 
 2. *Lab Manager* updates the file [Lab Training](https://psu.app.box.com/files/0/f/2115018490/1/f_25313038037).
