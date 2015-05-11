@@ -66,7 +66,7 @@ New Staff Onboarding
 
 1. View the ‘Hydrocel GSN Application and Care Training Video’. This is a DVD located in 449 Moore.
 
-2. Read the EEG Net Placement Documentation (**Insert link here**)
+2. Read the [EEG Net Placement Documentation](Applying_EEG_Nets_and_Minimizing_Impedances.md)
 
 3. Create a training schedule with the Lab Manager.
 
