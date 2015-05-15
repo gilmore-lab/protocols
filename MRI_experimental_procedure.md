@@ -79,7 +79,7 @@ Right Index | d
   - Choose 'Slide Show' at the top of the window.
   - Press 'Esc' to exit
 - Run Matlab Script on Projector PC
-  - This script is run 3 times - once for each EPI scan
+  - This script is run 6 times - once for each EPI scan
   - Script: SLEIC-Projects>rog1>wallpaper_groups_event_related_fmri>code>Symmetry-2>symmetry.m
   - Open Matlab (R2011b)
   - Change directory to: SLEIC_Projects\rog1\wallpaper-groups-event-related-fmri\code
@@ -108,6 +108,7 @@ Note: Press Esc to stop stimuli
 - Make sure the MRI technologist has the screening form and the copy of the consent form. 
 - Have the MRI Technologist transfer MRI data in the ‘nifti’ format to Hoth: /nfs/imaging-data/3Tusers/rog1/symm
 - Save Matlab data located at (SLEIC-Projects>rog1>wallpaper_groups_event_related_fmri>code>Symmetry-2>Data>yyyymmddThhmmss) to External Drive.
+  - Check the file all.csv to ensure that responses are logged.
 
 ## Post-Processing/Analysis
 - rsync MRI data from Hoth to Hammer
