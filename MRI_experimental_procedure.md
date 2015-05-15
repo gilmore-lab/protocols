@@ -1,9 +1,14 @@
 # MRI Experimental Procedure Protocol
 ## Recruiting
 - Adults are typically recruited from the [Psychology Department Subject Pool](https://pennstate.sona-systems.com)
+- Participant recruitment can also take place by putting an advertisement on the [IRB Recruitment website](http://www.research.psu.edu/volunteer)
+
+- Participant arrival time:
+  - 15 minutes before scan time if no vision correction
+  - 25 minutes before scan time if vision correction is needed.
 
 ## Pre-Session
-- Arrive 15 minutes prior to the study time.
+- Arrive 15-30 minutes prior to the study time.
 - Organize Consent (2 copies), [MRI screening form] (https://www.imaging.psu.edu/sites/sleic/files/3T_screening_safety_form_061911.pdf), vision screening form.
 
 ## Participant Arrival
