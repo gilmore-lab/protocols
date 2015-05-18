@@ -6,6 +6,12 @@ protocols
 - New Lab Members
   - [Duties and Training](onboarding.md) 
 
+- Recruitment
+
+  - Phone Script 
+    - [Part of FIRSt Families Database](.md)
+    - [NOT part of FIRSt Families Database](.md)
+
 - Set-up
   - EEG
 	- [High density](ssvep-high-density-setup.md)
