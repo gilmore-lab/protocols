@@ -20,8 +20,9 @@ IF PARENT IS HOME AND AVAILABLE TO SPEAK
 
 IF PARENT SAYS YES  
 "The study focuses on how the brain responds to visual information and how brain responses change as children mature. We are testing children who are {age of children desired} in our lab on campus."  
-    - FOR EEG: "The testing involves recording the brain’s electrical responses while children watch changing images on a computer screen. This is done by placing a cap similar to a swim cap onto their head."  
-    
+
+  - FOR EEG: "The testing involves recording the brain’s electrical responses while children watch changing images on a computer screen. This is done by placing a cap similar to a swim cap onto their head."  
+
 "It would take about one hour in total and we would provide you with a thank you gift of $10 and a special “Junior Brain Scientist” certificate in appreciation. If you are interested, I would need more information about your child to determine if {he or she} is eligible for the study."    
 
 IF PARENT EXPRESSES INTEREST  
@@ -37,9 +38,8 @@ IF PARENT EXPRESSES INTEREST
 
 IF PARENT ANSWERS NO TO ALL QUESTIONS   
 "Thank you. {child’s name} is eligible for our study. We have appointments available on {state next set of available appointments}. What would be most convenient for you?"  
-    - available EEG appointments are listed on the psubrainlab gmail calendar.  
-    - Visits last 1-1.5 hours, when scheduling more than one visit per day, leave at least 30 minutes between appointments.  
-
+      - available EEG appointments are listed on the psubrainlab gmail calendar.  
+      - Visits last 1-1.5 hours, when scheduling more than one visit per day, leave at least 30 minutes between appointments.  
 - Once a timeslot is selected say “Your appointment is {day of the week}, {date},{time}”  
 
 - Determine whether the parent will need childcare from our lab on the day of the visit: “Do you have other children that you will be bringing to the visit? If so, how many children and what are their ages?”  
