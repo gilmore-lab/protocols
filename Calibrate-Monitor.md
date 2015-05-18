@@ -53,6 +53,8 @@
 
 ##MRI
 
+Projector calibration should be run every time the projector screen, lightbulb or projector PC are changed.
+
 ### Prepare scan room
 
 All mirrors and the projector screen have marks on the floor indicating their proper position.
@@ -62,12 +64,26 @@ All mirrors and the projector screen have marks on the floor indicating their pr
 - Exit the room.
 - Turn off all lights in the scanner room.
 
-### Prepare Light Meter
+### Prepare Photometer
 
-- Take the light meter out of the box. 
-- Set it up by plugging in the power and the 
+- Take the photometer out of the box. 
+- Set it up by plugging in the power and the light meter.
+- Turn on the photometer
+- Ensure the following settings:
+- Zero the photometer by placing the cap on the light meter and pressing the 'zero' button
+
 
 
 ### Run Matlab Script
 
+- At a minimum a black (0,0,0) and white (255,255,255) image must be displayed on the projector screen 
+- The script to do this is located on the Projector PC in 7A the scanner control room
+  - INSERT THE LOCATION OF THIS SCRIPT
+ 
+### Measure Luminance
+
+- Measure the value of each image on the projector screen with the light meter.
+
 ### Log values
+
+- Log the values in the file Box Sync/gilmore-lab/protocols-procedures/projector-calibration.xls
