@@ -18,7 +18,7 @@ IF PARENT IS HOME AND AVAILABLE TO SPEAK
 IF PARENT SAYS YES  
 "The study focuses on how the brain responds to visual information and how brain responses change as children mature. We are testing children who are {age of children desired} in our lab on campus."  
 
-	- FOR EEG: "The testing involves recording the brain’s electrical responses while children watch changing images on a computer screen. This is done by placing a cap similar to a swim cap onto their head." 
+  - FOR EEG: "The testing involves recording the brain’s electrical responses while children watch changing images on a computer screen. This is done by placing a cap similar to a swim cap onto their head." 
    
 "It would take about one hour in total and we would provide you with a thank you gift of $10 and a special “Junior Brain Scientist” certificate in appreciation. If you are interested, I would need more information about your child to determine if {he or she} is eligible for the study."  
 
@@ -35,6 +35,7 @@ IF PARENT EXPRESSES INTEREST
 
 IF PARENT ANSWERS NO TO ALL QUESTIONS  
 "Thank you. {child’s name} is eligible for our study. We have appointments available on {state next set of available appointments}. What would be most convenient for you?"   
+
 	- Available EEG appointments are listed on the psubrainlab gmail calendar.  
 	- Visits last 1-1.5 hours, when scheduling more than one visit per day, leave at least 30 minutes between appointments.  
 
@@ -51,8 +52,8 @@ IF PARENT ANSWERS NO TO ALL QUESTIONS
 FOR STUDIES AT THE MOORE BUILDING  
 “The lab is located in the Moore Building. We’re not far from the Nittany Lion Inn. Do you know where the Allen Street entrance is to campus off of Park Avenue? Moore is on Fischer Road, the first right after you turn on Allen from Park. Moore is the first tall building on your left."  
 
-	IF GIVING PARKING PASS  
-	"We’ll have a researcher meet you there and give you a parking pass for the Nittany Lion parking deck.”  
+  - IF GIVING PARKING PASS  
+"We’ll have a researcher meet you there and give you a parking pass for the Nittany Lion parking deck.”  
 
 “Thank you for scheduling an appointment with us. We look forward to seeing you at the lab.”  
 
