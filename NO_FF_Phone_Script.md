@@ -12,7 +12,7 @@ The goal of this conversation is to provide the potential participant’s parent
 IF PARENT IS HOME AND AVAILABLE TO SPEAK  
 “How are you this evening? I am calling to follow up on the letter we sent recently about a study we are conducting in the brain development lab. In our study, we are investigating how the brain responds to visual information and how this response develops from infancy to adulthood. We are currently recruiting infants and children and I would like to know if you are interested in letting your child participate”
 
-	-If YES continue with the script
+  -If YES continue with the script
 
   -If NO ask “Would you be interested in joining the FIRSt Families Database so that you can be contacted for future studies by other researchers at Penn State?”
     -If YES or NO make note of this in the additional information column on the Excel spreadsheet
@@ -35,8 +35,8 @@ IF PARENT EXPRESSES INTEREST
 
 IF PARENT ANSWERS NO TO ALL QUESTIONS   
 Thank you. {child’s name} is eligible for our study. We have appointments available on {state next set of available appointments}. What would be most convenient for you? 
-  -	open EEG available appointments are listed on the psubrainlab gmail calendar.
-  -	Visits last 1-1.5 hours, when scheduling more than one visit per day, leave at least 30 minutes between appointments.
+  - open EEG available appointments are listed on the psubrainlab gmail calendar.
+  - Visits last 1-1.5 hours, when scheduling more than one visit per day, leave at least 30 minutes between appointments.
 
 - Once a timeslot is selected say “Your appointment is (day of the week), (date), (time)”
 
@@ -48,8 +48,8 @@ Thank you. {child’s name} is eligible for our study. We have appointments avai
 
 - After you get the email ask “Would you be interested in joining the FIRSt Families Database so that you can be contacted for future studies by other researchers at Penn State?”
 
-  o	If YES type **Wants to join FIRSt Families** in the notes column  
-  o	If NO type **Does not want to join FIRSt Families** in the notes column 
+  - If YES type **Wants to join FIRSt Families** in the notes column  
+  - If NO type **Does not want to join FIRSt Families** in the notes column 
 
 “That’s great. Let me tell you how to get to the lab and where we will meet you.”
 
@@ -57,7 +57,6 @@ FOR STUDIES AT THE MOORE BUILDING
 “The lab is located in the Moore Building. We’re not far from the Nittany Lion Inn. Do you know where the Allen Street entrance is to campus off of Park Avenue? Moore is on Fischer Road, the first right after you turn on Allen from Park. Moore is the first tall building on your left. We’ll have a researcher meet you there and give you a parking pass for the Nittany Lion parking deck.”
 
 “Thank you for scheduling an appointment with us. We look forward to seeing you at the lab.”
-
 
 FOR STUDIES AT SLEIC  
 “The lab is located in Chandlee Lab. We’re in the middle of campus, across Pollock Road from Old Main. Do you know where the Shortlidge Street entrance is to campus off of College Avenue? Take Shortledge until the T-intersection with Pollock Road. Turn left. Tell the Parking Attendant at the Kiosk that you are coming to Chandlee Lab for an appointment at the imaging center. We can have a researcher meet you there if your would like. We will give you a parking pass when you arrive at the SLEIC parking spaces.”
