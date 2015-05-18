@@ -19,9 +19,9 @@ IF PARENT IS HOME AND AVAILABLE TO SPEAK
     - If NO for FIRST Families say “Thank you for your time.”  
 
 IF PARENT SAYS YES  
-The study focuses on how the brain responds to visual information and how brain responses change as children mature. We are testing children who are {age of children desired} in our lab on campus.  
-  FOR EEG: The testing involves recording the brain’s electrical responses while children watch changing images on a computer screen. This is done by placing a cap similar to a swim cap onto their head.  
-It would take about one hour in total and we would provide you with a thank you gift of $10 and a special “Junior Brain Scientist” certificate in appreciation. If you are interested, I would need more information about your child to determine if {he or she} is eligible for the study.  
+"The study focuses on how the brain responds to visual information and how brain responses change as children mature. We are testing children who are {age of children desired} in our lab on campus."  
+  - FOR EEG: "The testing involves recording the brain’s electrical responses while children watch changing images on a computer screen. This is done by placing a cap similar to a swim cap onto their head."  
+"It would take about one hour in total and we would provide you with a thank you gift of $10 and a special “Junior Brain Scientist” certificate in appreciation. If you are interested, I would need more information about your child to determine if {he or she} is eligible for the study."    
 
 IF PARENT EXPRESSES INTEREST  
 “Is your child’s name {state child name}?  
@@ -35,7 +35,7 @@ IF PARENT EXPRESSES INTEREST
 “Has {child’s name} ever had seizures when {he or she} was sick?” 
 
 IF PARENT ANSWERS NO TO ALL QUESTIONS   
-Thank you. {child’s name} is eligible for our study. We have appointments available on {state next set of available appointments}. What would be most convenient for you?  
+"Thank you. {child’s name} is eligible for our study. We have appointments available on {state next set of available appointments}. What would be most convenient for you?"  
   - available EEG appointments are listed on the psubrainlab gmail calendar.  
   - Visits last 1-1.5 hours, when scheduling more than one visit per day, leave at least 30 minutes between appointments.  
 
@@ -60,7 +60,7 @@ FOR STUDIES AT THE MOORE BUILDING
 “Thank you for scheduling an appointment with us. We look forward to seeing you at the lab.”  
 
 FOR STUDIES AT SLEIC  
-“The lab is located in Chandlee Lab. We’re in the middle of campus, across Pollock Road from Old Main. Do you know where the Shortlidge Street entrance is to campus off of College Avenue? Take Shortledge until the T-intersection with Pollock Road. Turn left. Tell the Parking Attendant at the Kiosk that you are coming to Chandlee Lab for an appointment at the imaging center. We can have a researcher meet you there if your would like. We will give you a parking pass when you arrive at the SLEIC parking spaces.”  
+“The lab is located in Chandlee Laboratory. We’re in the middle of campus, across Pollock Road from Old Main. Do you know where the Shortlidge Street entrance is to campus off of College Avenue? Take Shortledge until the T-intersection with Pollock Road. Turn left. Tell the Parking Attendant at the Kiosk that you are coming to Chandlee Lab for an appointment at the imaging center. We can have a researcher meet you there if your would like. We will give you a parking pass when you arrive at the SLEIC parking spaces.”  
 (Researcher gives more instructions about how to meet parent).  
 “Thank you for scheduling an appointment with us. We look forward to seeing you at the lab.”  
 
@@ -77,5 +77,5 @@ IF PARENT DOES NOT WANT TO BE CONTACTED AGAIN
 "That’s fine. I will make a note in our files that you do not want to be contacted again. Thank you. Good-bye.”  
 
 IF PARENT IS UNAVAILABLE TO SPEAK TO THE CALLER  
-I would like to call back at a more convenient time. When would be a good time to call? (Parent answers). Very good, I will make a note and have someone call you back then. Thank you. Good-bye.  
+"I would like to call back at a more convenient time. When would be a good time to call? (Parent answers). Very good, I will make a note and have someone call you back then. Thank you. Good-bye."  
 
