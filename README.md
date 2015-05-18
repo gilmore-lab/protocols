@@ -9,7 +9,7 @@ protocols
 - Recruitment
 
   - Phone Script 
-    - [Part of FIRSt Families Database](.md)
+    - [Part of FIRSt Families Database](FIRSt_Families_Phone_Script.md)
     - [NOT part of FIRSt Families Database](.md)
 
 - Set-up
