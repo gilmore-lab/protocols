@@ -14,14 +14,14 @@ IF PARENT IS HOME AND AVAILABLE TO SPEAK
 
   - If YES continue with the script  
 
-  - If NO ask “Would you be interested in joining the FIRSt Families Database so that you can be contacted for future studies by other researchers at Penn State?”  
+  - If NO ask “Would you be interested in joining the FIRSt Families Database so that you can be contacted for future studies by other researchers at Penn State?”    
     - If YES or NO make note of this in the additional information column on the Excel spreadsheet  
     - If NO for FIRST Families say “Thank you for your time.”  
 
 IF PARENT SAYS YES  
 "The study focuses on how the brain responds to visual information and how brain responses change as children mature. We are testing children who are {age of children desired} in our lab on campus."  
 
-  - FOR EEG: "The testing involves recording the brain’s electrical responses while children watch changing images on a computer screen. This is done by placing a cap similar to a swim cap onto their head."  
+  FOR EEG: "The testing involves recording the brain’s electrical responses while children watch changing images on a computer screen. This is done by placing a cap similar to a swim cap onto their head."  
 
 "It would take about one hour in total and we would provide you with a thank you gift of $10 and a special “Junior Brain Scientist” certificate in appreciation. If you are interested, I would need more information about your child to determine if {he or she} is eligible for the study."    
 
@@ -37,8 +37,8 @@ IF PARENT EXPRESSES INTEREST
 “Has {child’s name} ever had seizures when {he or she} was sick?” 
 
 IF PARENT ANSWERS NO TO ALL QUESTIONS   
-"Thank you. {child’s name} is eligible for our study. We have appointments available on {state next set of available appointments}. What would be most convenient for you?"  
-      - available EEG appointments are listed on the psubrainlab gmail calendar.  
+"Thank you. {child’s name} is eligible for our study. We have appointments available on {state next set of available appointments}. What would be most convenient for you?"    
+      - Available EEG appointments are listed on the psubrainlab gmail calendar.  
       - Visits last 1-1.5 hours, when scheduling more than one visit per day, leave at least 30 minutes between appointments.  
 - Once a timeslot is selected say “Your appointment is {day of the week}, {date},{time}”  
 
