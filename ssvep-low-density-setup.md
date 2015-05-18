@@ -30,17 +30,17 @@
   - ONE15A54.set (what is this?)
 - Make sure the window to the right says **Connected**, If so, hit **Use** button on the left.
 
-[Insert Link15 picture here]() 
+![Link15 Icon](imgs/) 
 
 - Using KVM switch, toggle from **Link 15** computer to **PD Video** computer.
 - On PD Video computer, open Power Diva Video 3.4 software
 
-- In Power Diva Video, go to Configuration --> Video Manager. In **Mode** window, make sure our calibrated video setting of "800 x 600, 72 Hz, 8 bit" is selected. 
-- 
+- In Power Diva Video, go to Configuration --> Video Manager. In **Mode** window, make sure our calibrated video setting of "800 x 600, 72 Hz, 8 bit" is selected.  
+
  ![Power Diva Video Manager](imgs/2015-04-28-calibration.jpg)
 
 - On PD Host computer, open Power Diva Host 3.4 software. (icon says alias)
-- 
+
 ![Power Diva Host Alias](imgs/)
 
 - Go to New Session, fill out session info, and choose the appropriate session models.
@@ -49,13 +49,13 @@
 
 ### ELECTRODES
 
-- In 120HA, retrieve set of 5 electrodes, a paper towel, and a pack of earplugs.
+- In 120A, retrieve set of 5 electrodes, a paper towel, and a pack of earplugs.
 
 - In 120G, set up work station with NuPrep gel, 1020 paste, calipers, measuring tape, red pencil, 1 piece electrical tape, 7 squares of cut cloth, Q-tips, vet wrap, and the impedance meter.  
 	
 - Measure subject’s head circumference (in centimeters). Set calipers to 1/20 of the circumference.
 
-- Measure and mark for Cz.
+- Measure and mark for Cz. (How is this done?)
 
 - Use electrical tape to fasten electrodes to subject’s right shoulder.
 	
@@ -82,6 +82,7 @@
 - Hand subject the game controller, and instruct them to use button R1 to trigger onset of stimulus, and a second time to record. 
 
 - Give earplugs to participant.
+
 - Using Power Diva Host, change conditions when necessary.
 
 
