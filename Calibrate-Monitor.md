@@ -41,21 +41,32 @@
 
 - Click **Calibrate Lum**  
 
-![Luminance Calibration](imgs/LuminanceCalibration.jpg) 
+<IMG SRC="/imgs/LuminanceCalibration.jpg" ALT="Luminance Calibration" align="center" width="50%">
 
 - Enter the Monitor Screen Width in centimeters
 - Select **Start**
-- ![Luminance Calibration - Enter Value](imgs/LuminanceCalibration_EnterValue.jpg) 
+
+<IMG SRC="/imgs/LuminanceCalibration_EnterValue.jpg" ALT="Luminance Calibration - Enter Value" align="center" width="50%">
 
 
-- 
 
 
 ##MRI
 
 ### Prepare scan room
 
+All mirrors and the projector screen have marks on the floor indicating their proper position.
+- Move the projector screen into the scanner room doorway
+- Move the mirror behind the scanner next to the mirror in the corner of the room so that the image will reflect back to the projector screen
+- Adjust the angle of the mirror until the entire image is visible on the projector screen.
+- Exit the room.
+- Turn off all lights in the scanner room.
+
 ### Prepare Light Meter
+
+- Take the light meter out of the box. 
+- Set it up by plugging in the power and the 
+
 
 ### Run Matlab Script
 
