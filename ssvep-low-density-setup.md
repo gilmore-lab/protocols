@@ -18,16 +18,25 @@
 
 - Make sure that white round switch on top of the left KVM switch is set to A.
 
+<IMG SRC="/imgs/Serial_Switch_A.jpg" ALT="White Switch on top of Black KVM Switch" align="center" width="50%" style="image-orientation: 90deg">
+
 - Keep the plug in the external timebase outlet labeled OUT.
 
-- Log onto the Link 15 computer and use account name rog1, password Chandlee1(symbol) *Check yellow post-it next to keyboard*
+- Log onto the Link 15 computer and use account name **rog1**, password **Chandlee1)**
 
-- Launch Link 15 software (icon with yellow triangle). In Model 15 menu, go to Connect, and choose appropriate setting. Make sure the window to the right says “Connected,” If so, hit Use button on the left.
+- Launch Link 15 software (icon with yellow triangle). In **Model 15** menu, go to **Connect**, and choose appropriate setting. 
+  - infant.set
+  - adult.set
+  - ONE15A54.set (what is this?)
+- Make sure the window to the right says **Connected**, If so, hit **Use** button on the left.
 
+[Insert Link15 picture here]() 
+
+- Using KVM switch, toggle from **Link 15** computer to **PD Video** computer.
 - On PD Video computer, open Power Diva Video 3.4 software
 
 - In Power Diva Video, go to Configuration --> Video Manager. In "Mode" window, make sure our calibrated video setting of "80- x 600, 72 Hz, 8 bit" is selected. 
-
+- 
 - On PD Host computer, open Power Diva Host 3.4 software. (icon says alias)
 
 - Go to New Session, fill out session info, and choose the appropriate session models.
