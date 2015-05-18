@@ -15,6 +15,7 @@ IF PARENT IS HOME AND AVAILABLE TO SPEAK
   -If YES continue with the script  
 
   -If NO ask “Would you be interested in joining the FIRSt Families Database so that you can be contacted for future studies by other researchers at Penn State?”  
+  
     -If YES or NO make note of this in the additional information column on the Excel spreadsheet  
     -If NO for FIRST Families say “Thank you for your time.”  
 
