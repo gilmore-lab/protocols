@@ -50,7 +50,9 @@
 
 	- 800 x 600, 72 Hz, 8 bit
  
- ![Power Diva Video Manager](imgs/2015-04-28-calibration.jpg)
+ ![Power Diva Video Manager](imgs/2015-04-28-calibration.jpg)  
+
+- Click **OK**  
 
 ### Prepare Stimuli
 
