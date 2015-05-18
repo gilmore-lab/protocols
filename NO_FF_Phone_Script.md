@@ -6,13 +6,13 @@ The goal of this conversation is to provide the potential participant’s parent
 
 “Hello, may name is {name of researcher} from the Brain Development Laboratory at Penn State. May I speak to {Mother’s Name} or {Father’s name}?”
 
--If parent confirms their presence continue with the script
--If parent isn’t available say “I’ll call back at another time”
+-If parent confirms their presence continue with the script  
+-If parent isn’t available say “I’ll call back at another time”  
 
 IF PARENT IS HOME AND AVAILABLE TO SPEAK  
-“How are you this evening? I am calling to follow up on the letter we sent recently about a study we are conducting in the brain development lab. In our study, we are investigating how the brain responds to visual information and how this response develops from infancy to adulthood. We are currently recruiting infants and children and I would like to know if you are interested in letting your child participate”
+“How are you this evening? I am calling to follow up on the letter we sent recently about a study we are conducting in the brain development lab. In our study, we are investigating how the brain responds to visual information and how this response develops from infancy to adulthood. We are currently recruiting infants and children and I would like to know if you are interested in letting your child participate”  
 
-  -If YES continue with the script
+  -If YES continue with the script  
 
   -If NO ask “Would you be interested in joining the FIRSt Families Database so that you can be contacted for future studies by other researchers at Penn State?”
     -If YES or NO make note of this in the additional information column on the Excel spreadsheet
