@@ -10,7 +10,7 @@ protocols
 
   - Phone Script 
     - [Part of FIRSt Families Database](FIRSt_Families_Phone_Script.md)
-    - [NOT part of FIRSt Families Database](.md)
+    - [NOT part of FIRSt Families Database](NO_FF_Phone_Script.md)
 
 - Set-up
   - EEG
