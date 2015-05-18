@@ -37,7 +37,8 @@ IF PARENT EXPRESSES INTEREST
 “Has {child’s name} ever had seizures when {he or she} was sick?” 
 
 IF PARENT ANSWERS NO TO ALL QUESTIONS   
-"Thank you. {child’s name} is eligible for our study. We have appointments available on {state next set of available appointments}. What would be most convenient for you?"    
+"Thank you. {child’s name} is eligible for our study. We have appointments available on {state next set of available appointments}. What would be most convenient for you?"  
+
       - Available EEG appointments are listed on the psubrainlab gmail calendar.  
       - Visits last 1-1.5 hours, when scheduling more than one visit per day, leave at least 30 minutes between appointments.  
 - Once a timeslot is selected say “Your appointment is {day of the week}, {date},{time}”  
