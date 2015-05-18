@@ -4,13 +4,15 @@
 
 ### COMPUTERS
 
+- In room G, turn on the CRT Monitor
+
 - In room H, switch on power of large surge protector on bottom left shelf.
 
-- Switch on power of smaller, thin surge protector (ignore green lights; always on).
+- On the second shelf, switch on power of smaller, thin surge protector (ignore green lights; always on).
 
 - Turn on PD Video, Link 15, and PD Host computers, and both monitors.
 
-- If either monitor screen in unresponsive, you may need to toggle to the correct computer via the gray KVM switches on the top left (PD Video / Link 15) and right (NetStation  / PD Host) shelf.
+- If either monitor screen in unresponsive, you may need to toggle to the correct computer via the **gray KVM switches** on the top left (PD Video / Link 15) and right (NetStation  / PD Host) shelf.
 
 - Turn on external timebase, behind the monitors (switch is back, right side).
 
