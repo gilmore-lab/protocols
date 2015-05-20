@@ -89,7 +89,7 @@
 	
 - In the dock at the bottom of the screen, click on the icon for Net Station (purple icon) to open the program.
  
-![NetStation icon](imgs/start-netstation.pictClipping.jpg)
+![NetStation icon](imgs/start-netstation.jpg)
 
 - When the window pops up, there should be a key symbol with the words **Wenger** on the bottom left-hand side. If it is not there, this means that the NS HASP key is not plugged in.
 
