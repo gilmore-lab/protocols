@@ -22,14 +22,12 @@ Directions to Moore
 
 Moore Building is located off of Park Avenue near the Nittany Lion Inn. Please park in the Nittany Parking Deck between Moore Building and the Nittany Lion Inn. See the maps below for location and parking information.
 
---create and Insert New Maps--  
-
 University Park Campus Map  
-<IMG SRC="/imgs/Campus_Map.jpg" ALT="Campus Map" align="center">
+<IMG SRC="/imgs/Campus_Map_Moore.jpg" ALT="Campus Map" align="center">
 
-Chandlee Laboratory Map  
-![Chandlee Laboratory](imgs/Campus_Map_Zoom.jpg)  
+Moore Building Map  
+![Moore Building](imgs/Campus_Map_Zoom_Moore.jpg)  
 
 Driving Directions Map to Chandlee Laboratory  
-![SLEIC Parking Spaces](imgs/SLEIC_Parking.jpg)  
+![Nittany Parking Deck](imgs/Campus_Map_Moore_Parking.jpg)  
 
