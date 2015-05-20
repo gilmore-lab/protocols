@@ -7,7 +7,7 @@
 
 - In 120G Chandlee remove cables from amplifier and connect them to pegs on wall.
  
-<IMG SRC="/imgs/rear-of-amplifier.pictClipping.jpg" align="middle" ALT="Rear of NetAmps 200">
+![Rear of NetAmps 200](imgs/rear-of-amplifier.pictClipping.jpg)
 
 - Wheel amp between the monitor and the subject chair so that it is to the right of the subject chair. 
   **ALWAYS PULL AMP BACKWARDS TO PREVENT TIPPING**
@@ -40,7 +40,8 @@
 
 - Make sure that white round switch on top of the left KVM switch is set to B.
 
-<IMG SRC="/imgs/Serial_Switch_B.jpg" ALT="White Switch on top of Black KVM Switch" align="center" width="50%" style="image-orientation: 90deg">
+
+![White Switch on top of Black KVM Switch](imgs/Serial_Switch_B.jpg)
 
 - On PD Video computer, open Power Diva Video 3.4 software. (icon label says alias)
 
@@ -65,7 +66,7 @@
   - Adult
     - moco_3pat_hidens_20150428	
 
-<IMG SRC="/imgs/RunModeAutoRun.jpg" ALT="Open Stimulus Set - Auto Sequence" align="absmiddle" width="50%">
+![Open Stimulus Set - Auto Sequence](imgs/RunModeAutoRun.jpg)  
 
 #### For Infant
 - In Run mode (pull-down tab), choose **Baby Mode**. 
@@ -75,11 +76,12 @@
   - inf_2pat_lamrot_20150428
   - inf_2pat_radrot_20150428
 
-<IMG SRC="/imgs/RunModeBabyMode.jpg" ALT="Open Stimulus Set - Baby Mode" align="absmiddle" width="50%">
+
+![Open Stimulus Set - Baby Mode](imgs/RunModeBabyMode.jpg) 
 
 - Press the **Run** button. In the DAQ Rate Settings window, there is a binary code to confirm. On the side of the external time box facing you, there are silver switches (**up = 1, down = 0**). Read the binary code in the PD Video window from **RIGHT to LEFT**, and check to make sure that the switches on the timing box correspond to this code. If they don't match, notify the PI. If they do, press **Cancel**.
 
-<IMG SRC="/imgs/power-diva-autorun.pictClipping.jpg" ALT="Determine Time Base Code" align="absmiddle" width="50%">
+![Determine Time Base Code](imgs/power-diva-autorun.pictClipping.jpg) 
 
 ### Prepare Net Station
 
@@ -105,15 +107,14 @@
 
 - Run Zeros and Gains (should run automatically). The net cannot be plugged into the articulating arm at this time.
 
-![Gains](imgs/Gains.jpg)
-
-![Zeros](imgs/Zeros.jpg)
+![Zeros](imgs/Zeros.jpg)  
+![Gains](imgs/Gains.jpg)  
 
 - Complete [EEG Net Placement](Applying_EEG_Nets_and_Minimizing_Impedances.md). (separate protocol)
 
 - After netting, plug the net into the articulating arm.
 
-<IMG SRC="/imgs/Net-plugged-into-articulating-arm.jpg" ALT="Connect arm to amp" align="absmiddle" width="50%">
+![Connect articulating arm to amplifier](imgs/Net-plugged-into-articulating-arm.jpg)
 
 - Measure Impedance
   - Go to the **Panels** menu at the top of the screen and select **Impedance**
@@ -127,7 +128,8 @@
 
 - Go to the **Panels** menu at the top of the screen and select **Dense Waveform Display**.
 
-<IMG SRC="/imgs/dense-waveform-display.pictClipping.jpg" ALT="Dense waveform" align="absmiddle" width="50%">
+
+![Dense Waveform Display](imgs/Dense_Waveform.jpg)
 
 - Turn small switch on amplifier to **EXTERNAL TIMEBASE**.
 
@@ -157,7 +159,7 @@
 - **Check the box** in the Net Station Recording control window labeled **Start/Continue Net Station Recording**
 - Press **Run**.
 
-<IMG SRC="/imgs/AutoRunSettings_NS_Box_Checked.jpg" ALT="Run Session" align="absmiddle" width="50%">
+![Run Session](imgs/AutoRunSettings_NS_Box_Checked.jpg)
 
 - Try to get the following number of blocks of data:
   - Infant: 6
@@ -167,7 +169,7 @@
 - On the Net Station computer, make sure the “Recording” symbol is displayed on the upper left-hand side of the screen. Also, make sure the event flag labeled “DIN4” is present, as well as a flag below this with the condition number (e.g., “c004”).
   - the flag "p003" means that the study was paused
 
-<IMG SRC="/imgs/NS-Recording-Screenshot.jpg" ALT="NS Recording Symbol" align="absmiddle" width="75%">
+![NS Recording Symbol](imgs/NS-Recording-Screenshot.jpg)
 
 ## AFTER SESSION
 
