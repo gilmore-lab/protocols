@@ -23,7 +23,7 @@ Directions to Moore
 Moore Building is located off of Park Avenue near the Nittany Lion Inn. Please park in the Nittany Parking Deck between Moore Building and the Nittany Lion Inn. See the maps below for location and parking information.
 
 University Park Campus Map  
-<IMG SRC="/imgs/Campus_Map_Moore.jpg" ALT="Campus Map" align="center">
+<IMG SRC="/imgs/Campus_Map_Moore.jpg" ALT="Campus Map" align="center" size="50%">
 
 Moore Building Map  
 ![Moore Building](imgs/Campus_Map_Zoom_Moore.jpg)  
