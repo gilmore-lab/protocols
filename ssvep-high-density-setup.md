@@ -1,5 +1,12 @@
 # High-Density VEP Set-Up Checklist
 
+# Before Participant Arrives
+
+## EEG Net Preparation  
+- Make electrolyte solution
+  - Warm 1L water in microwave for 1 minute.
+  - Add in Potassium Chloride (2 tsp) and Baby Shampoo (1 tsp)
+
 ## MONITOR
 - Turn on the **CRT monitor** on the cart in 120G
 
@@ -21,7 +28,6 @@
   - If this is on another setting during calibration and impedance check, you will see an error stating that everything is out of specification. 
   - If there is an error, you must begin the setup from step one again.
 
- 
 ## COMPUTERS
 
 - In 120H Switch on power of large surge protector on bottom left shelf.
@@ -95,11 +101,7 @@
 
 - In the Net Station window, click **New Session**
 - Select the session template labeled **Power Diva Setup**.
-
-
-## AFTER PARTICIPANT ARRIVES
-
-- Enter participant ID, Experiment Name, Date of birth, and net serial number. Lab uses the following standard ID number for each session: YYMMDD_ID# (Test Date_Participant ID number).
+- Enter participant ID, Experiment Name, Date of birth, and net serial number. Lab uses the following standard ID number for each session: YYMMDDXXXX (TestDateParticipantIDnumber).
 
 ![Enter participant session info](imgs/ns-enter-session-info.pictClipping.jpg)
 
@@ -110,7 +112,25 @@
 ![Zeros](imgs/Zeros.jpg)  
 ![Gains](imgs/Gains.jpg)  
 
+## AFTER PARTICIPANT ARRIVES
+
+- Talk with participant to complete the following 
+  - Consent Form  
+  - Payment Form  
+  - Databrary Form (if needed)  
+  
+- Complete Vision Screening
+  - Infant - Snellen Acuity @ XX cm
+  - Child - HTOV @ 10ft
+  - Adult - HTOV @ 10ft
+  
+- Prepare EEG Net  
+  - Measure Head Circumference  
+  - Select proper net based on Head circumference
+  - Soak net for 5 minutes in electrolyte solution
+  
 - Complete [EEG Net Placement](Applying_EEG_Nets_and_Minimizing_Impedances.md). (separate protocol)
+  - Angle chair to have more room in the testing chamber. 
 
 - After netting, plug the net into the articulating arm.
 
@@ -118,22 +138,25 @@
 
 - Measure Impedance
   - Go to the **Panels** menu at the top of the screen and select **Impedance**
-  - Then click the **Measure Impedance** button.
+  - Then click the **Measure Impedance** button. (Threshold = 50 kohms)
   - Adjust channels as necessary.
+    - The person in the computer room needs to tell the person in the testing room which channels need to be adjusted. 
   - Click **Save & Close** when satisfactory.
-
+  - When this is complete, tell the person in the testing chamber that this is done and remind them to turn. 
+	
   - If the incorrect impedance check appears, double check that both connectors on the amplifier are securely plugged in.
 
 ![Measure Impedance](imgs/measure-impedance-window.pictClipping.jpg)
 
-- Go to the **Panels** menu at the top of the screen and select **Dense Waveform Display**.
-
-
-![Dense Waveform Display](imgs/Dense_Waveform.jpg)
-
 - Turn small switch on amplifier to **EXTERNAL TIMEBASE**.
 
 ![External Time Base](imgs/external-timebase-switch-on-amp.pictClipping.jpg)
+
+- Go to the **Panels** menu at the top of the screen and select **Dense Waveform Display**.
+
+![Dense Waveform Display](imgs/Dense_Waveform.jpg)
+
+
 
 ## Experimental Setup
 
@@ -162,9 +185,9 @@
 ![Run Session](imgs/AutoRunSettings_NS_Box_Checked.jpg)
 
 - Try to get the following number of blocks of data:
-  - Infant: 6
-  - Child: 10
-  - Adult: 12
+  - Infant: 3-5
+  - Child: 5-10
+  - Adult: 8-12
   
 - On the Net Station computer, make sure the “Recording” symbol is displayed on the upper left-hand side of the screen. Also, make sure the event flag labeled “DIN4” is present, as well as a flag below this with the condition number (e.g., “c004”).
   - the flag "p003" means that the study was paused
