@@ -1,6 +1,11 @@
-# Post Session Protocol High Density EEG
-## On NetStation Mac
+# Post Session Protocol High Density EEG  
+
+## On NetStation Mac  
+
 - Reminder: If you have not done so, save and close Net Station by pressing the **Close Session** button in the upper right hand corner of the NetStation window.  
+
+### Open Session  
+
 - From the Net Station startup screen, go to **File > Open** to access archived sessions.  
   - Session files are usually located in: /Users/GilmoreLab/Documents/NetStation User Data/Sessions
 
@@ -9,6 +14,8 @@
   - to find the most recent session, click on the **Date** field in the Finder window. The small arrow should face downward to sort files in reverse date order (most recent first)  
   
   ![Finder Window arrow facing downward](imgs/.jpg)  
+
+### Run Waveform Tools  
 
 - From the **Tools** menu, open **Waveform Tools**  
 
@@ -36,7 +43,8 @@
 
 - Quit the PowerDiva Video application on the PDvideo computer if you have not already done so.  
 
-### Transfer data for analyses
+### Transfer data for analyses  
+
 #### Transfer to PDVideo
 - On the NetStation computer desktop, double-click the **NetStation_Sessions@PDVideo alias** (highlighted in green)
 
@@ -66,15 +74,22 @@ Take new picture of files copying.
 
 ## On PowerDiva Computer  
 
+### Duplicate Stimulus Set  
+
 - On the PDvideo computer make a copy (**file > duplicate**) (Command + d) of the stimulus set (found in **stimulus set** folder on the desktop) and put this in the participant's folder within the NetStations session folder.
 
 ![Copy Stimulus Set to Net Station Sessions folder](imgs/.jpg)  
 
-- Open the Power Diva Host 3.4 application by double clidking the icon on the desktop  
+### Open Power Diva  
+
+- Open the Power Diva Host 3.4 application by double clicking the icon on the desktop  
 
 ![Power Diva Host 3.4.0 Alias Icon](imgs/.jpg)  
 
-  - Ignore error messages and choose to work offline.    
+  - Ignore error messages and choose to work offline.  
+  
+### Import NS Session  
+
   - Import NS Session by choosing **File > Import NS Session**  
     - Choose the file from the **NetStation_sessions** folder on the desktop. 
     
@@ -99,7 +114,7 @@ Take new picture of files copying.
 
  ![PD NS Session Info](imgs/.jpg)  
 
-  - Click **OK** to import the data into Power Dive Host. 
+  - Click **OK** to import the data into Power Diva Host. 
   
 ### Checking for Artifacts  
 
