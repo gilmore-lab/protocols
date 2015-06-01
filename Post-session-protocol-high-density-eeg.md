@@ -20,7 +20,7 @@
     - To monitor progress, press the **Jobs/Results** button    
     - To run the tool, press the **Run** button  
     
-![NS Concatenate Tool](imgs/NS_Concatenate_Tool.jpg)  
+![NS Concatenate Tool](imgs/run-concatenate-tool.jpg)  
 
 - Run the Export to Power Diva tool  
 
@@ -58,4 +58,35 @@
   - **Shift** or **command+Click** on these files and drag them to the green Net Station folder.  
     - This can take 5-10 minutes.  
 
-![NS Transfer Files](imgs/NS_TransferedFiles.jpg)  
+![NS Transfer Files](imgs/NS_TransferedFiles.jpg)   - Take New Picture  
+
+Take new picture of files copying.  
+
+- Once copied, shut own the NetStation computer  
+
+## On PowerDiva Computer  
+
+- On the PDvideo computer make a copy (**file > duplicate**) (Command + d) of the stimulus set (found in **stimulus set** folder on the desktop) and put this in the participant's folder within the NetStations session folder.
+
+![Copy Stimulus Set to Net Station Sessions folder](imgs/.jpg)  
+
+- Open the Power Diva Host 3.4 application by double clidking the icon on the desktop  
+
+![Power Diva Host 3.4.0 Alias Icon](imgs/.jpg)  
+
+  - Ignore error messages and choose to work offline.    
+  - Import NS Session by choosing **File > Import NS Session**  
+    - Choose the file from the **NetStation_sessions** folder on the desktop.  
+    ![NetStation_sessions folder on desktop](imgs/.jpg)  
+
+- Session window: Enter operator and participant information   
+  - Operator: Complete First and Last Name  
+  - Participant  
+    - First Name = blank  
+    - Last name = participant ID Code (e.g. yymmddXXXX)  
+    - Birthday and Due Date = Birthday  
+  -Net Station Recording  
+    - Raw EEGs: Select the NetStation Session file by clicking **choose**.
+
+
+
