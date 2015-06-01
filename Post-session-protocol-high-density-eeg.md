@@ -8,7 +8,7 @@
   
   - to find the most recent session, click on the **Date** field in the Finder window. The small arrow should face downward to sort files in reverse date order (most recent first)  
   
-  ![Take new Picture](imgs/NS_Open_Archived_Files.jpg)  
+  ![Finder Window arrow facing downward](imgs/.jpg)  
 
 - From the **Tools** menu, open **Waveform Tools**  
 
@@ -76,7 +76,8 @@ Take new picture of files copying.
 
   - Ignore error messages and choose to work offline.    
   - Import NS Session by choosing **File > Import NS Session**  
-    - Choose the file from the **NetStation_sessions** folder on the desktop.  
+    - Choose the file from the **NetStation_sessions** folder on the desktop. 
+    
     ![NetStation_sessions folder on desktop](imgs/.jpg)  
 
 - Session window: Enter operator and participant information   
@@ -85,8 +86,124 @@ Take new picture of files copying.
     - First Name = blank  
     - Last name = participant ID Code (e.g. yymmddXXXX)  
     - Birthday and Due Date = Birthday  
-  -Net Station Recording  
-    - Raw EEGs: Select the NetStation Session file by clicking **choose**.
+  - Net Station Recording  
+    - Raw EEGs: Click **choose** then select the .raw file in the NetStation_sessions folder you just copied the files to.   
+    
+   ![PD Choose Rawfile](imgs/PD_Choosing_Rawfile.jpg)  
+
+    - Zeros/Gains: Click **choose** then **shift-click** on both the .ZERO and .GAIN files within the participant's session folder.  
+  - Stimuli  
+    - Stim Set/Ssn: Click **choose** then navigate to the duplicate file within the participant's session folder.  
+
+  - If loaded correctly you should see valid data appear in the Video System, Display Type and Video Mode fields. 
+
+ ![PD NS Session Info](imgs/.jpg)  
+
+  - Click **OK** to import the data into Power Dive Host. 
+  
+### Checking for Artifacts  
+
+  - Power Diva will automatically check for artifacts, after which you may change the rejection threshold.
+  
+ ![Power Diva Artifact Check](imgs/PD_Artifact_Check.jpg)  
+
+  - Change rejection threshold  
+    - Adults = 50  
+    - Children = 60  
+  - Click **Repeat Detection**  
+  - Click **OK** to continue  
+  
+   ![Power Diva Channel Substitution Parameters](imgs/.jpg)  
+
+### Analysis Parameters  
+
+- Set **Processing Task**-harmonics of interest for analysis
+  - This is usually set up beforehand, but be sure to select all multiples of F1 (1F1, 2F1, 3F1, 4F1, 5F1, 6F1, 7F1, 8F1, 9F1). Then select 1F2, 1F1 + 1F2, and 1F1 - 1F2
+  - Click **Set To All** above the title 'Processing Task'
+- Set **Epoch Rejection Parameters** 
+  - Change Raw Threshold Detector (adults 50, **children 60**)
+  - Click **Set To All** above the title 'Epoch Rejection Parameters'
+- Click **Continue** to view the imported PD session
+  - This takes ~10 minutes to run  
+  
+  ![Power Diva Analysis Parameters](imgs/.jpg)   
+
+### Export MATLAB data  
+
+- Go to **File > Export**  
+- Export Window  
+  - Export as: Matlab Files
+  - Matlab Options  
+    - Under **Axx Filter**, change P-thresh to **0.05**
+  - Data Types  
+    - Check the box for **Axx**
+  - Click **Export**
+  - When exported, click **Done**
+  
+   ![Power Diva Export to Matlab files](imgs/.jpg)   
+  
+- Close the session
+  - Click the **Close** button net to the Session window
+  
+ ![Close Session](imgs/.jpg) 
+
+### Export RLS data  
+
+- Go to **R&D > Batch Export ODBC...**  
+- A window will open concerning bins  
+  - **Export No Bins**  
+  - sweeps = **Export Bins**  
+   
+   ![Bins](imgs/.jpg) 
+
+- Window **Choose Source Folder**  
+  - Navigate to the desktop and double click on the Power Diva alias folder
+  - Highlight the session of choice
+  - Press **Choose**  
+  
+   ![Choose Source Folder](imgs/.jpg)  
+
+- Window **Choose Export Folder**  
+  - Navigate to the desktop and select an external storage devic (such as a USB)  
+  - Double Click on this device  
+  - Press the **New Folder** button  
+  - Name this folder according the participant id and project name.  
+  - Highlight this folder and press the **Choose** button.  
+  
+![Choose Export Folder](imgs/.jpg)  
+
+### Compress and Save Files  
+
+- Duplicate the files below and compress them using **Dropstuff**  
+  - .pdh file  
+  - Data_mtg0  
+  - Data  
+  - Exp_MATL_HCN_128_Avg  
+  - *Stimulus_Set_*Copy  
+
+- Add the files below to the Participant's folder on the external drive:  
+  - .pdh file.sit  
+  - Data_mtg0.sit  
+  - Data.sit   
+  - Exp_MATL_HCN_128_Avg.sit  
+  - *Stimulus_Set_*Copy.sit  
+  -  **original Net Station session file**  
+  -  **Net Station raw data file** (.raw)  
+  -  **Net Station cat data file** (.cat)  
+  -  **Net Station gains file** (.GAIN)  
+  -  **Net Station zero file** (.ZERO)  
+  -  **Net Station impedance file** (.IMP) 
+  -  RLS.txt file  
+  -  CndParams file  
+  -  QETXT file  
+  -  SCHEMA.INI file  
+  -  SSNHeader.txt file  
+  
+- Remove storage device and load onto computer with Matlab for analysis (separate protocol)  
+
+
+ 
+  
 
 
 
