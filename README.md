@@ -24,7 +24,7 @@ protocols
 	
 - Data Export
 
-	- [High and low density export](ssvep-data-export.md)
+	- [High density export](Post-session-protocol-high-density-eeg.md)
 	
 ## Power Diva
 
