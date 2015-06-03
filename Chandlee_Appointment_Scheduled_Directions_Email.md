@@ -11,9 +11,9 @@ Andrea Seisler: 814-933-9201
 Please let me know if you have any questions. I look forward to seeing you.
 
 Thank you,  
-Andrea 
-Lab Manager
-Brain Development Laboratory
+Andrea   
+Lab Manager  
+Brain Development Laboratory  
 
 
 Directions to SLEIC  
