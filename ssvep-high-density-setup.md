@@ -19,7 +19,8 @@
 - Wheel amp between the monitor and the subject chair so that it is to the right of the subject chair. 
   **ALWAYS PULL AMP BACKWARDS TO PREVENT TIPPING**
 
-- Plug the 4 cords from the wall ports connecting rooms G and H into respective ports (Digital input, USB, and TTL input external timebase) of the amplifier. 
+- Plug the 4 cords from the wall ports connecting rooms G and H into respective ports (Digital input, USB, and TTL input external timebase) of the amplifier.  
+- TTL Input (BNC cable) must be pushed in all the way and then turned clockwise.
 - Turn power on (I = on).
 
 ![Rear of NetAmps 200 Data Cables](imgs/rear-of-amplifier-data-cables.pictClipping.jpg)
