@@ -143,7 +143,7 @@
   - Adjust channels as necessary.
     - The person in the computer room needs to tell the person in the testing room which channels need to be adjusted. 
   - Click **Save & Close** when satisfactory.
-  - When this is complete, tell the person in the testing chamber that this is done and remind them to turn. 
+  - When this is complete, tell the person in the testing chamber that this is done and remind them to turn the switch on the front of the amplifier to 'External Timebase'. 
 	
   - If the incorrect impedance check appears, double check that both connectors on the amplifier are securely plugged in.
 
