@@ -81,12 +81,17 @@ If this works, remove the public key from your home directory
 
 # Make "aliases" for specific machines you connect to often
 
+It doesn't take _that_ long to type `hammer.rcc.psu.edu` or `linux.imaging.psu.edu`, but time is money, or something like that. Anyway, you can save some of that good stuff by creating ssh aliases to specific computers (hosts) you connect to often. For me that would be hammer, hoth, the SLEIC imaging machine, and my own server. By creating a special configuration file in `~/.ssh`, I can issue commands like `ssh hammer` or `ssh hoth` and go there immediately. Do you feel the power? I do, and it feels good.
+
+Ok, here's how to do it.
+
 ## 1. From your local machine
 
-### A. Create or edit ~/.ssh/config
+### A. Create or edit ~/.ssh/config file
+
 `nano ~/.ssh/config`
 
-For each computer (host) you want to connect to, you need an entry like this:
+For each computer (host) you want to connect to, you will need an entry like this:
 
     # hammer
      Host hammer
@@ -105,10 +110,14 @@ So, I have entries like this:
         HostName linux.imaging.psu.edu
         User rog1
 
-Change the User lines in the above to your own PSU access IDs unless you want your computer to think you are me.
+Change the User lines in the above to your own PSU access IDs unless you want your computer to think you are me. Of course, you can also call the host computers any name you like by editing the `Host hammer` or `Host hoth` lines, but, as in all things computing, be thoughtful.
+
+Once you've edited and saved the file, test it out.
 
 ### B. Test your new "alias"
 
 `ssh hammer`
 
-This should connect you to hammer without having to type `hammer.rcc.psu.edu`
+This should connect you to hammer without having to type `hammer.rcc.psu.edu`.
+
+Now, it's time to do the computer happy dance. Go ahead. Almost everyone I know has some celebratory ritual they do when they master some arcane or difficult computer-based problem.
