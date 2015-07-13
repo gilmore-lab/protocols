@@ -30,7 +30,7 @@
 
 	- MOCO Paradigm
 
-		- iSess	
+		- iSess, YYYYMMDD_HHMMSS	
 		- iCond	
 		- NTrials	
 		- Eye	
@@ -78,10 +78,56 @@
 		- FK_Prc	
 		- FK_Sess	
 		- PK_Cond
+	- MOFO Paradigm (MOFO_v3.txt)
+		- iSess
+		- iCond
+		- NTrials
+		- Eye
+		- DomNon
+		- CondNotes
+		- Treatment
+		- Level
+		- iPdm
+		- PdmVer
+		- ViewDist
+		- MeanLum
+		- SweepType
+		- Step
+		- Start
+		- End
+		- ModType
+		- ModInfoName
+		- ModInfo
+		- Fig Phase
+		- Fig Type
+		- Fig Shape
+		- Temp Freq1
+		- Contrast
+		- Pix size
+		- Density1
+		- Diameter1
+		- Dir
+		- Mean1
+		- Dir Range1
+		- Displ1
+		- Lifetime1
+		- NPerSide
+		- PctCoher1
+		- Temp Freq2
+		- Density2
+		- Diameter2
+		- Dir Mean2
+		- Dir Range2
+		- Displ2
+		- Lifetime2
+		- PctCoher2
+		- FK_Prc
+		- FK_Sess
+		- PK_Cond
 
 - RLS.txt
 
-	- iSess, YYYYMMDD_HHMM	
+	- iSess, YYYYMMDD_HHMMSS	
 	- iCond, condition number
 	- iTrial, trial index, typically 0 for non sweep	
 	- iCh, channel index, hc001-Avg ... hc128-Avg 	
@@ -116,7 +162,7 @@
 
 - SsnHeader.txt
 
-	- iSess	
+	- iSess, YYYYMMDD_HHMMSS	
 	- SessDate	
 	- Operator	
 	- LastName	
