@@ -154,12 +154,12 @@ A full folder for a PowerDiva session should contain a series of files. The fold
 
 	- Montage_ssn.mat
 	
-	- See [power-diva-metadata.md](power-diva-metadata.md) for more information about the format of these files.
+	- See [power-diva-export-metadata.md](power-diva-export-metadata.md) for more information about the format of these files.
 
 
 - RLS export data (ODBC export)
 
-	- See [power-diva-metadata.md](power-diva-metadata.md) for more information about the format of these files.
+	- See [power-diva-export-metadata.md](power-diva-export-metadata.md) for more information about the format of these files.
 
 	- **QETXT.INI**
 
