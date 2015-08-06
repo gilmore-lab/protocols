@@ -5,10 +5,10 @@ Directions to the SLEIC are located below.
 
 Here is some important contact information for you:
 
-120 Chandlee Laboratory: 814-867-2968  (only if you are lost or running late)
+120 Chandlee Laboratory: 814-867-2968  (only if you are lost or running late)  
 Andrea Seisler: 814-933-9201
 
-Can you please send me the color/make/model of your vehicle so I may have a team member meet you with a parking pass at the parking lot?
+Can you please send me the color/make/model of your vehicle so I may have a team member meet you with a parking pass at the parking lot?  
 
 Please let me know if you have any questions. I look forward to seeing you.
 
