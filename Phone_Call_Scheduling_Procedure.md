@@ -8,6 +8,7 @@
   - Log into http://box.psu.edu/
   - Navigate to: b-gilmore-lab-group Shared > gilmore-lab > recruitment > FIRSt Families Recruitment
   - Look at either the Child or Baby list
+  - Download the list that you will be working on to the desktop
 
 4. Call assigned families to set up appointment
   - Local Calls dial "8" then the rest of the number without area code
@@ -23,6 +24,6 @@
   3. Fill in the template
   4. Subject line: EEG Study on [Day of week][MM/DD/YYY] at [Time HH:MM AM/PM]
   
-
+8. When you are finished working with the Excel Spreadsheet, upload it back to the FIRSt Families Recruitment folder on box.
   
   
