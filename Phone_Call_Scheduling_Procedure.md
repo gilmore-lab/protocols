@@ -17,11 +17,11 @@
 
 6. Log all appointment information into the Child or Baby list Excel Spreadsheet
 
-7. Send confirmation email to the participant's parent with Andrea CC'd
-  - Template located on https://github.com/gilmore-lab/protocols
-  - Copy and past the template (Chandlee_Appointment_Scheduled_Directions_Email.md) as the email text
-  - Fill in the template
-  - Subject line: EEG Study on [Day of week][MM/DD/YYY] at [Time HH:MM AM/PM]
+7. Send confirmation email to the participant's parent and CC the lab email (psubrainlab@gmail.com)
+  1. Template located on https://github.com/gilmore-lab/protocols
+  2. Copy and paste the template (Chandlee_Appointment_Scheduled_Directions_Email.md) as the email text
+  3. Fill in the template
+  4. Subject line: EEG Study on [Day of week][MM/DD/YYY] at [Time HH:MM AM/PM]
   
 
   
