@@ -25,5 +25,12 @@
   4. Subject line: EEG Study on [Day of week][MM/DD/YYY] at [Time HH:MM AM/PM]
   
 8. When you are finished working with the Excel Spreadsheet, upload it back to the FIRSt Families Recruitment folder on box.
+  1. Save the changes to your list to the Desktop
+  2. Navigate to: b-gilmore-lab-group Shared > gilmore-lab > recruitment > FIRSt Families Recruitment
+  3. Choose the __Upload__ box in the upper left corner
+  4. Select __files__
+  5. Choose the updated list from the Desktop
+  6. Select __Open__
+  7. You should notice that the version changes in front of the file name.
   
   
