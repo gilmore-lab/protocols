@@ -11,8 +11,8 @@
   - Download the list that you will be working on to the desktop
 
 4. Call assigned families to set up appointment
-  - Local Calls dial "8" then the rest of the number without area code
-  - Long Distance Calls dial "81" then the rest of the number with the areea code
+  - Local Calls dial __"8"__ then the rest of the number __without__ area code
+  - Long Distance Calls dial __"81"__ then the rest of the number __with__ the areea code
   
 5. Follow the " Yes FIRSt Families" or No FIRSt Families script (Documents next to phone)
 
