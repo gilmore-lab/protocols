@@ -2,6 +2,10 @@
 
 # Before Participant Arrives
 
+## Vision Screening Preparation
+- infant
+- child/adult
+-
 ## EEG Net Preparation  
 - Make electrolyte solution
   - Warm 1L water in microwave for 1 minute.
