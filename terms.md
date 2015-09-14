@@ -30,7 +30,7 @@
 
 *ICIS*: International Conference on Infant Studies.
 
-*Kadath*: Computer server maintained by SLEIC. It is a temporary storage place for data from the MRI scanner before data is transferred to Hammer.
+*Hoth*: Computer server maintained by SLEIC. It is a temporary storage place for data from the MRI scanner before data is transferred to Hammer.
 
 *Low density*: EEG collected using a small number of Grass gold-cup electrodes and the Grass Amplifier.
 
