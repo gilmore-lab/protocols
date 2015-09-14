@@ -3,13 +3,26 @@
 # Before Participant Arrives
 
 ## Vision Screening Preparation
-- infant
-- child/adult
--
+ - Infant
+   - Place Teller Acuity Cards on Table
+   - Make sure that some images are on the Left and some on the Right
+   - Show the cards at 55 cm away from the infant 
+    
+ - Child/Adult
+   - Make sure the black tape is on the floor 10ft from the HVOT Snellen Acuity Chart
+   - Place Stereo Acuity Test on table
+   - Place Color Vision Test on table (adult only)
+
 ## EEG Net Preparation  
+- Place Practice Net on the table
 - Make electrolyte solution
   - Warm 1L water in microwave for 1 minute.
   - Add in Potassium Chloride (2 tsp) and Baby Shampoo (1 tsp)
+  
+## Rolling Cart
+- 3 Towels
+- 2 Pipettes
+- Measuring Tape
 
 ## MONITOR
 - Turn on the **CRT monitor** on the cart in 120G
@@ -72,10 +85,8 @@
 - In Run mode (pull-down tab), choose **Auto Sequence**. 
 - In Msg mode (pull-down tab), choose **Net Station**.
 - In Stim Set, Go to Open, and choose the appropriate stimulus set.
-  - Child
-    - mofo_tuning_child_20150428
-  - Adult
-    - moco_3pat_hidens_20150428	
+  - Child: mofo_tuning_child_20150428
+  - Adult: moco_3pat_hidens_20150428	
 
 ![Open Stimulus Set - Auto Sequence](imgs/RunModeAutoRun.jpg)  
 
@@ -106,7 +117,7 @@
 
 - In the Net Station window, click **New Session**
 - Select the session template labeled **Power Diva Setup**.
-- Enter participant ID, Experiment Name, Date of birth, and net serial number. Lab uses the following standard ID number for each session: YYMMDDXXXX (TestDateParticipantIDnumber).
+- Enter participant ID, Experiment Name, Date of birth, and net serial number. Lab uses the following standard ID number for each session: YYMMDDXXXX (TestDateParticipantIDnumber). The Net Serial number will be added after the session is complete.
 
 ![Enter participant session info](imgs/ns-enter-session-info.pictClipping.jpg)
 
@@ -124,15 +135,20 @@
   - Payment Form  
   - Databrary Form (if needed)  
   
-- Complete Vision Screening
-  - Infant - Snellen Acuity @ XX cm
-  - Child - HTOV @ 10ft
-  - Adult - HTOV @ 10ft
+- Complete Head Measurements
+  - Head Circumference
   
-- Prepare EEG Net  
-  - Measure Head Circumference  
-  - Select proper net based on Head circumference
+- Prepare EEG Net
+  - Select proper net based on Head circumferenct
   - Soak net for 5 minutes in electrolyte solution
+  - Log net in the red net log folders
+      
+- While the net is soaking
+  - Measure and mark the vertex point (not on infants)
+  - Complete Vision Screening
+    - Infant - Snellen Acuity @ 55 cm
+    - Child - HTOV @ 10ft
+    - Adult - HTOV @ 10ft
   
 - Complete [EEG Net Placement](Applying_EEG_Nets_and_Minimizing_Impedances.md). (separate protocol)
   - Angle chair to have more room in the testing chamber. 
@@ -165,7 +181,7 @@
 
 ## Experimental Setup
 
-- The monitor should be located 60cm from the bridge of the nose on the participant
+- The monitor should be located **60cm** from the bridge of the nose on the participant
 - The chair height should be set so the participant is looking directly at the **X** in the middle of the screen.
 - High Density
   - Baby Mode (Researcher in the room)
@@ -193,8 +209,10 @@
   - Infant: 3-5
   - Child: 5-10
   - Adult: 8-12
+    - We need at least 4 blocks to have a viable dataset
   
 - On the Net Station computer, make sure the “Recording” symbol is displayed on the upper left-hand side of the screen. Also, make sure the event flag labeled “DIN4” is present, as well as a flag below this with the condition number (e.g., “c004”).
+  - If these flags are not aligned, the switch was not changed from **Normal** to **External Timebase**.
   - the flag "p003" means that the study was paused
 
 ![NS Recording Symbol](imgs/NS-Recording-Screenshot.jpg)
@@ -203,6 +221,9 @@
 
 - Once recording is complete, select the **close session** button on the Net Station computer (this saves the session).
 
+- Make sure the Net Number and Birthdate are entered into the Info section ()
+  - Open the Session File in Net Station
+  - Navigate to Edit > File Info > 
 - Return computers and other devices to their default settings.
 
 - Return and replug amplifier to its default setup.

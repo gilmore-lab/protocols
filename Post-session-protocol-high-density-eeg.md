@@ -45,7 +45,7 @@
 
 ### Transfer data for analyses  
 
-#### Transfer to PDVideo
+#### Transfer to PDVideo (currently not used)
 - On the NetStation computer desktop, double-click the **NetStation_Sessions@PDVideo alias** (highlighted in green)
 
 ![NS Sessions @ PDvideo alias](imgs/NS_@PDVideo.jpg)  
@@ -68,20 +68,48 @@
 
 ![NS Transfer Files](imgs/NS_TransferedFiles.jpg)   - Take New Picture  
 
-Take new picture of files copying.  
-
-- Once copied, shut own the NetStation computer  
-
-## On PowerDiva Computer  
-
-### Duplicate Stimulus Set  
-
 - On the PDvideo computer make a copy (**file > duplicate**) (Command + d) of the stimulus set (found in **stimulus set** folder on the desktop) and put this in the participant's folder within the NetStations session folder.
 
-![Copy Stimulus Set to Net Station Sessions folder](imgs/.jpg)  
+Take new picture of files copying.  
 
-### Open Power Diva  
+- Once copied, shut down the NetStation computer  
 
+#### Transfer to Data Transfer USB drive 
+- Insert the USB device into the USB port above the NetStation computer
+- Open USB drive folder
+- Create a new folder with the participant ID (e.g. YYMMDDXXXX - test date (year, month, day) 4 digit participant ID #  
+
+- Select the files for copy to the PDVideo machine (via the green folder)  
+  -  Copy the following:  
+    -  **original session file**  
+    -  **raw data file** (.raw)  
+    -  **cat data file** (.cat)  
+    -  **gains file** (.GAIN)  
+    -  **zero file** (.ZERO)  
+    -  **impedance file** (.IMP)  
+  - **Shift** or **command+Click** on these files and drag them to the green Net Station folder.  
+    - This can take 5-10 minutes.  
+
+![NS Transfer Files](imgs/NS_TransferedFiles.jpg)   - Take New Picture  
+ 
+
+- Once copied, shut down the NetStation computer 
+
+ 
+
+
+
+## Bring USB Drive to 449 Chandlee
+   
+   
+
+## On Power Diva Laptop  
+
+- Insert the USB drive into the laptop
+- Copy the participant folder from the USB drive to: GilmorePB12_HD > Applications (MacOS9) > eeg-data
+- Copy the appropriate stimulus set from GilmorePB12_HD > Applications (MacOS9) > eeg-data > Stimulus_Sets_20150428 to the appropriate folder
+
+### Open Power Diva
 - Open the Power Diva Host 3.4 application by double clicking the icon on the desktop  
 
 ![Power Diva Host 3.4.0 Alias Icon](imgs/.jpg)  
@@ -125,6 +153,7 @@ Take new picture of files copying.
   - Change rejection threshold  
     - Adults = 50  
     - Children = 60  
+    - Infants = 200
   - Click **Repeat Detection**  
   - Click **OK** to continue  
   
@@ -136,7 +165,8 @@ Take new picture of files copying.
   - This is usually set up beforehand, but be sure to select all multiples of F1 (1F1, 2F1, 3F1, 4F1, 5F1, 6F1, 7F1, 8F1, 9F1). Then select 1F2, 1F1 + 1F2, and 1F1 - 1F2
   - Click **Set To All** above the title 'Processing Task'
 - Set **Epoch Rejection Parameters** 
-  - Change Raw Threshold Detector (adults 50, **children 60**)
+  - Change Raw Threshold Detector (adults 50, **children 60**, **infants 200**)
+  - Change Blink Threshold (adults, children = 60, **infants = 200**)
   - Click **Set To All** above the title 'Epoch Rejection Parameters'
 - Click **Continue** to view the imported PD session
   - This takes ~10 minutes to run  
@@ -179,29 +209,31 @@ Take new picture of files copying.
    ![Choose Source Folder](imgs/.jpg)  
 
 - Window **Choose Export Folder**  
-  - Navigate to the desktop and select an external storage devic (such as a USB)  
-  - Double Click on this device  
-  - Press the **New Folder** button  
-  - Name this folder according the participant id and project name.  
+  - Navigate to GilmorePB12_HD > Applications (MacOS9) > eeg-data > participant IDcode folder
   - Highlight this folder and press the **Choose** button.  
   
 ![Choose Export Folder](imgs/.jpg)  
 
 ### Compress and Save Files  
 
-- Duplicate the files below and compress them using **Dropstuff**  
-  - .pdh file  
-  - Data_mtg0  
-  - Data  
-  - Exp_MATL_HCN_128_Avg  
-  - *Stimulus_Set_*Copy  
-
-- Add the files below to the Participant's folder on the external drive:  
-  - .pdh file.sit  
-  - Data_mtg0.sit  
-  - Data.sit   
-  - Exp_MATL_HCN_128_Avg.sit  
-  - *Stimulus_Set_*Copy.sit  
+- Within the participant ID folder, highlight the files below by holding down the apple key and left clicking each file until all of the needed files are highlighted
+  -  Matlab export folder (YYMMDDXXXX_YYMMDD_HHMM)
+    - .pdh file  
+    - Data_mtg0 folder 
+    - Data folder
+    - Exp_MATL_HCN_128_Avg folder
+  - *Stimulus_Set_* Copy   
+- Compress by dragging to the **Dropstuff** icon on the desktop  
+- The file Archive.sit will be generated and located in the same folder as the above files.
+ 
+### Archive Files
+- Copy participant folder containing the files below to the Participant's folder on the external drive (Gilmore-700GB):
+  - Archive.sit
+    - .pdh file  
+    - Data_mtg0 folder 
+    - Data folder
+    - Exp_MATL_HCN_128_Avg folder
+    - *Stimulus_Set_* Copy 
   -  **original Net Station session file**  
   -  **Net Station raw data file** (.raw)  
   -  **Net Station cat data file** (.cat)  
