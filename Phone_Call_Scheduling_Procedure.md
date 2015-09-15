@@ -42,9 +42,9 @@
   7. You should notice that the version changes in front of the file name.
 
 10. Create a calendar event for the study
-  - Title: rog1_ssvp(XXXX)
-  - Location: 120 Chandlee
-  - Invite: Andrea Seisler (ars17psu@gmail.com) and at least 2 RAs that are listed as available on the __Student Schedule__ calendar
-  - 
+  - Title: rog1_ssvp(XXXX)  
+  - Location: 120 Chandlee  
+  - Invite: Andrea Seisler (ars17psu@gmail.com) and at least 2 RAs that are listed as available on the __Student Schedule__ calendar    
+  -
   
   
