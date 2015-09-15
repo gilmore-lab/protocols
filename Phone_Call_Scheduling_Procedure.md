@@ -22,7 +22,7 @@
   - Local Calls dial __"8"__ then the rest of the number __without__ area code
   - Long Distance Calls dial __"81"__ then the rest of the number __with__ the areea code
   
-6. Follow the "Yes FIRSt Families" or No FIRSt Families script (Documents next to phone)
+6. Follow the __Yes FIRSt Families__ or __No FIRSt Families script__ (Documents next to phone)
 
 7. Log all appointment information into the Child or Baby list Excel Spreadsheet
 
