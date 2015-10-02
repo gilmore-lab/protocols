@@ -1,0 +1,3 @@
+# Recruitment Voicemail
+
+Hello, my name is [your name] from the Brain Development Laboratory at Penn State. I am contacting you to see if you are interesting in having your child [name of infant/child] participate in an EEG study. In this research we are observing how the brain responds to visual information and how this response develops from infancy to adulthood. If you are interested, please contact the lab at 814-863-3116. I look forward to hearing from you. Have a great day!
