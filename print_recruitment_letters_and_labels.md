@@ -3,8 +3,14 @@
 ## Log onto PSYCMORMC014
 
 ### Letter Mail Merge
-- Open Recruitment Letter in Word  
-  - Recruitment letter is located:  
+
+
+- Download letters from: psubrainlab google drive (My Drive > participants > Recruiting) 
+  - Child_NO_FF_Merge_120605
+  - Child_YES_FF_Merge_120910
+  - Infant_NO_FF_Merge_120917
+  - Infant_YES_FF_Merge_120917
+- Open Recruitment Letter in Word 
   - Select: Tools > Mail Merge Manager
     1. Create New > Form Letters 
     2. Get List > Open Data Source  
@@ -21,6 +27,7 @@
     5. Complete Merge
        - Merge to a new document
        - Print document
+- Complete this procedure for all 4 recruitment letters
     
 ### Label Mail Merge
 - Open blank Word document   
