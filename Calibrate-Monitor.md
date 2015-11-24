@@ -17,7 +17,7 @@
 
 - Make sure that white round switch on top of the left KVM switch is set to B.
 
-<IMG SRC="/imgs/Serial_Switch_B.jpg" ALT="White Switch on top of Black KVM Switch" align="center" width="50%" style="image-orientation: 90deg">
+    ![White Switch on top of Black KVM Switch](imgs/Serial_Switch_B.jpg)
 
 - On PD Video computer, open Power Diva Video 3.4 software. (icon label says alias)
 
@@ -32,25 +32,25 @@
 
 - Choose **Cancel**
 
-### Prepare Light Meter
+### Prepare Photometer
 
-
+- Take the photometer out of the box. 
+- Set it up by plugging in the power and the light meter.
+- Turn on the photometer
+- Ensure the following settings: 
+- Zero the photometer by placing the cap on the light meter and pressing the 'zero' button
 
 
 ### Start Calibrating Luminance
 
 - Click **Calibrate Lum**  
 
-    ![Luminance Calibration](/imgs/LuminanceCalibration.jpg)
+    ![Luminance Calibration](imgs/LuminanceCalibration2.jpg)
 
 
 - Enter the Monitor Screen Width in centimeters
 - Select **Start**  
-    ![Luminance Calibration - Enter Value](/imgs/LuminanceCalibration_EnterValue.jpg)
-
-
-
-
+    ![Luminance Calibration - Enter Value](imgs/LuminanceCalibration_EnterValue2.jpg)
 
 ##MRI
 
@@ -72,7 +72,6 @@ All mirrors and the projector screen have marks on the floor indicating their pr
 - Turn on the photometer
 - Ensure the following settings:
 - Zero the photometer by placing the cap on the light meter and pressing the 'zero' button
-
 
 
 ### Run Matlab Script
