@@ -13,7 +13,7 @@
 
 - Remove the plug from the external timebase outlet labeled **OUT**. (Clock Out stays in).  - What is this for alibration
  
-![Rear of External Timebase](imgs/rear-of-ext-timebase.pictClipping.jpg)
+    ![Rear of External Timebase](imgs/rear-of-ext-timebase.pictClipping.jpg)
 
 - Make sure that white round switch on top of the left KVM switch is set to B.
 
@@ -21,14 +21,14 @@
 
 - On PD Video computer, open Power Diva Video 3.4 software. (icon label says alias)
 
-![Power Diva Video icon](imgs/power-diva-video-icon.pictClipping.jpg)
+    ![Power Diva Video icon](imgs/power-diva-video-icon.pictClipping.jpg)
  
 - In Power Diva Video, go to Configuration > Video Manager. In **Mode** window, make sure the calibrated video setting is selected: 
 
 	- 800 x 600, 72 Hz, 8 bit
 
  
- ![Power Diva Video Manager](imgs/2015-04-28-calibration.jpg)  
+     ![Power Diva Video Manager](imgs/2015-04-28-calibration.jpg)  
 
 - Choose **Cancel**
 
@@ -41,12 +41,13 @@
 
 - Click **Calibrate Lum**  
 
-<IMG SRC="/imgs/LuminanceCalibration.jpg" ALT="Luminance Calibration" align="center" width="50%">
+    ![Luminance Calibration](/imgs/LuminanceCalibration.jpg)
+
 
 - Enter the Monitor Screen Width in centimeters
-- Select **Start**
+- Select **Start**  
+    ![Luminance Calibration - Enter Value](/imgs/LuminanceCalibration_EnterValue.jpg)
 
-<IMG SRC="/imgs/LuminanceCalibration_EnterValue.jpg" ALT="Luminance Calibration - Enter Value" align="center" width="50%">
 
 
 
