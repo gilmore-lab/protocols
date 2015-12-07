@@ -36,7 +36,7 @@ Collect data from 25 participants
 ### Goal
 - Collect Data from 20 participants
 - Process, Analyze data along with 11 datasets collected previously 
-- Submit to:
+- Submit to: XXXXX
 
 ### Participants
 - 22 additional participants
@@ -46,13 +46,29 @@ Collect data from 25 participants
 
 - *Where are the demographic data for the 11 previous datasets located?*
 
-
 ### Data Processing
 - R script is being created by Michelle and Rick
 
+### To Do
+- Process data after R script is created
+- Put demographic data on databrary - create new volume
+- what are the questions in the exit interview used for?
+
 ## MOCO Psychophysics
 ### Goal
-- Collect data from X Child participants  
+- Collect data from 25 4-8 year old Child participants  
+
+### Paradigm Status
+- Instructions located  on Github repo: moco-3-pattern-psychophysics
+  - How to run an experiment: moco-3-pattern-psychophysics-checklist.md
+  - How to alter, generate and run an experiment: moco-3-pattern-psychophysics-instructions.md
+
+
+### To Do
+- purchase a game controller: http://www.walmart.com/ip/29016209
+- pilot with kids
+- Determine parking procedure for Moore. 
+
 
 ## Status of lab computers  
 - The computers that were taken off the network cannot be put back on the network  
@@ -155,13 +171,14 @@ Collect data from 25 participants
 
 
 ## Mt. Nittany IRB Application   
+### Application
 - Completed application located: Box Sync ▸ b-gilmore-lab-group Shared ▸ gilmore-lab ▸ irb ▸ protocols ▸ active ▸ MtNittanyRecruiting  
   
 ### To Do   
 - Please review (Rick)   
 
 ## Video Coding 
-
+### Coding for Indiana/India data
 - All files are located on ars17psu google drive 
   - 'Andrea-Everything you need to start working' slides
   - Participant information: Locomotion_codinglog2015
@@ -169,5 +186,8 @@ Collect data from 25 participants
 - Complete coding for a few participants
 - Train students to complete coding
 
-- Problem: Error connecting to server using instructions on slide 6 - connect to mac slide 3/5
-- An email was sent to Swapnaa to check that I have the correct server address.
+- Problem: Error connecting to server using instructions on slide 6 - connect to mac slide 3/5 (12/4/2015)
+- An email was sent to Swapnaa (12/4/2015) to check that I have the correct server address.
+
+### Keep Datavyu notes
+- keep notes of things that work well or don't work well.
