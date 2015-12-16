@@ -1,27 +1,42 @@
 # Gilmore Lab Projects  
+
+## EEG Projects
+- update protocols
+  - Calibrate-Monitor.md
+  - Post-session-protocol-high-density-eeg.md
+  - ssvep-high-density-setup.md
+  - mofo-3-pattern-psychophysics **completed**
+  
+ 
 ## MOFO Child Tuning
 ### Goal
 Collect data from 25 participants
 ### Participants
 - 10 previous Participants  
-- 25 additional participants  
+- 27 additional participants  
 - all demographic data is located on databrary: https://nyu.databrary.org/volume/144
 
 ### Data Processing
-- 10 participants processed with PD Video  
+- 10 participants reprocessed with PD Video  
   - Raw Threshold Detector = 60 / Blink Threshold = 60  
+  - Raw Threshold Detector = 100 / Blink Threshold = 100 
 - additional participants processed with PD Video using two threshold detector settings
   - Raw Threshold Detector = 60 / Blink Threshold = 60
   - Raw Threshold Detector = 100 / Blink Threshold = 100  
 
 ### To Do
-- Create R script to prepare output files from PD Video for the analysis script pipeline
-- Reprocess the 10 previous participants at the settings Raw Threshold Detector = 100 / Blink Threshold = 100
+- **completed** Create R script to prepare output files from PD Video for the analysis script pipeline - R script converted from moco  
+ 
+ 
+- fix R script to run as a function through all datasets in the sessions folder
+   
+- **Completed** Reprocess the 10 previous participants at the settings Raw Threshold Detector = 100 / Blink Threshold = 100
   - *Difficulty: After copying the data from Box to the PowerBook G4, no files are showing up in PD Video, just directories. However everything shows up in the Finder Window.*
+     - raw data was copied from data collection computers and completely reprocessed.
   
 ## MOCO INF_2Pat_LamRad
 ### Goal
-- Collect data from X participants
+- Collect data from 25 participants
 ### Participants
 - 5 Participants
 - all demographic data is located on databrary: https://nyu.databrary.org/volume/146
@@ -60,12 +75,12 @@ Collect data from 25 participants
 
 ### Paradigm Status
 - Instructions located  on Github repo: moco-3-pattern-psychophysics
-  - How to run an experiment: moco-3-pattern-psychophysics-checklist.md
-  - How to alter, generate and run an experiment: moco-3-pattern-psychophysics-instructions.md
+  - How to run an experiment: moco-3-pattern-psychophysics-experiment-instructions.md **complete**
+  - How to alter, generate and run an experiment: moco-3-pattern-psychophysics-checklist.md **complete**
 
 
 ### To Do
-- purchase a game controller: http://www.walmart.com/ip/29016209
+- purchase a game controller: http://www.walmart.com/ip/29016209 **complete**
 - pilot with kids
 - Determine parking procedure for Moore. 
 

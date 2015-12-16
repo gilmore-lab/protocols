@@ -6,14 +6,20 @@
 
 ### Open Session  
 
-- From the Net Station startup screen, go to **File > Open** to access archived sessions.  
+- From the Net Station startup screen, go to **View > Select** to access archived sessions.  
   - Session files are usually located in: /Users/GilmoreLab/Documents/NetStation User Data/Sessions
 
-    ![NS Open Archived Files](imgs/NS_Open_Archived_Files.jpg)  
+    ![NS Open Archived Files](imgs/OpenNSFiles.jpg)  
   
   - to find the most recent session, click on the **Date** field in the Finder window. The small arrow should face downward to sort files in reverse date order (most recent first)  
   
-    ![Finder Window arrow facing downward](imgs/.jpg)  
+    ![Finder Window arrow facing downward](imgs/DateModifiedArrowDown.jpg)  
+   
+  - Make sure the Net Number and Birthdate are entered into the Info section
+    - Open the Session File: NetStation > Vew:Select > Date Modified V > Pick Session File > Open
+    - Navigate to Edit > File Info > Fields > Insert Information 
+    - Close Info Window
+    - Close Session File
 
 ### Run Waveform Tools  
 
@@ -45,6 +51,7 @@
 
 ### Transfer data for analyses  
 
+
 #### Transfer to PDVideo (currently not used)
 - On the NetStation computer desktop, double-click the **NetStation_Sessions@PDVideo alias** (highlighted in green)
 
@@ -66,13 +73,13 @@
   - **Shift** or **command+Click** on these files and drag them to the green Net Station folder.  
     - This can take 5-10 minutes.  
 
-    ![NS Transfer Files](imgs/NS_TransferedFiles.jpg)   - Take New Picture  
+    ![NS Transfer Files](imgs/FilesToCopy.jpg)    
 
 - On the PDvideo computer make a copy (**file > duplicate**) (Command + d) of the stimulus set (found in **stimulus set** folder on the desktop) and put this in the participant's folder within the NetStations session folder.
 
 Take new picture of files copying.  
 
-- Once copied, shut down the NetStation computer  
+- Once copied, shut down the NetStation computer
 
 #### Transfer to Data Transfer USB drive 
 - Insert the USB device into the USB port above the NetStation computer
@@ -90,7 +97,7 @@ Take new picture of files copying.
   - **Shift** or **command+Click** on these files and drag them to the green Net Station folder.  
     - This can take 5-10 minutes.  
 
-![NS Transfer Files](imgs/NS_TransferedFiles.jpg)   - Take New Picture  
+![NS Transfer Files](imgs/FilesToCopy.jpg)  
  
 
 - Once copied, shut down the NetStation computer 
@@ -252,15 +259,15 @@ Take new picture of files copying.
 -  When you are finished, safely eject the target Mac as if it’s any other disk
  
 ### Archive Files
-- Copy participant folder containing the files below to the Participant's folder on the external drive (Gilmore-700GB):
+- Copy participant folder containing the files below to the Participant's folder on the external drive (Gilmore-700GB) -this drive may be ready by the PowerBookG4:
   - Archive.sit
+    - *Stimulus_Set_* Copy  
     - ThreshblinkXX folder  
       - Matlab Export folder (participantID_TestDate_time)
         - .pdh file  
         - Data_mtg0 folder 
         - Data folder
         - Exp_MATL_HCN_128_Avg folder
-      - *Stimulus_Set_* Copy 
       -  RLS.txt file  
       -  CndParams file  
       -  QETXT file  
@@ -273,6 +280,7 @@ Take new picture of files copying.
   -  **Net Station zero file** (.ZERO)  
   -  **Net Station impedance file** (.IMP) 
 
+-Copy participant folder containing the files below to the appropriate location on Box.
   
 
 

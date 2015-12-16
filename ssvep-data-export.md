@@ -12,42 +12,45 @@
 
 - From NetStation startup screen, go to File > Open to access archived sessions. Session files are usually located in: /Users/GilmoreLab/Documents/NetStation User Data/Sessions
 
-![Net Station Open Archived Files](imgs/NS_Open_Archived_Files.png)
+![Net Station Open Archived Files](imgs/NS_Open_Archived_Files.jpg)
 
 - To find the most recent session, click on the **Date** field in the Finder window. The small arrow should face downward to sort files in reverse date order.
 
+![Net Station Arrow faces down](imgs/DateModifiedArrowDown.jpg)
+
+
 - Go to **Tools > Waveform Tools** 
  
-![Net Station Open Waveform Tools](imgs/NS_Open_Waveform_Tools)
+![Net Station Open Waveform Tools](imgs/NS_Open_Waveform_Tools.jpg)
 
   - Run the Concatenate tool:
-    - Press the **Add** button, and add the .raw session file you wish to process
+    - Press the **Add** button, and add the .raw session file you wish to process  
     
-![Net Station Add Inputs](imgs/NS_Concatenate_Tool)
+![Net Station Add Inputs](imgs/NS_Concatenate_Tool.jpg)  
 
-    - Select the **Concatenate Epochs for PowerDiva** tool from the lower window
-    - Click on **Jobs/Results** button to monitor progress
-    - To run the tool, press the **Run** button
+   - Select the **Concatenate Epochs for PowerDiva** tool from the lower window  
+   - Click on **Jobs/Results** button to monitor progress  
+   - To run the tool, press the **Run** button  
       
-  - Run the Export for Power Diva tool
+  - Run the Export for Power Diva tool  
     
-![Net Station Export to Power Diva](imgs/NS_Export_PowerDiva)
+![Net Station Export to Power Diva](imgs/NS_Export_PowerDiva.jpg)
 
-    - Add the .cat file you just created to the upper window by pressing the **Add** button
-    - Select the Export for PowerDiva tool from the lower window
-    - Press the **Run** button to run the tool. This can take 3-8 minutes.
+   - Add the .cat file you just created to the upper window by pressing the **Add** button  
+   - Select the Export for PowerDiva tool from the lower window  
+   - Press the **Run** button to run the tool. This can take 3-8 minutes.  
 
 - Quit NetStation.
 
 - Transfer exported files to the PowerDiva Video machine for analysis. 
   - On the NetStation computer desktop, double-click the **NetStation_Sessions@PDVideo** alias (highlighted in green). This opens a connection via Ethernet to the PowerDiva Video computer.
   
-![Net Station @ PD Video](imgs/NS@PDVideo)
+![Net Station @ PD Video](imgs/NS_@PDVideo.jpg)
 
   - Create a new folder with ParticipantID code and project name within the NetStation_Sessions folder.
   - Double-click on **Sessions@Local** alias (highlighted in red). This opens a separate window to the local NetStation Sessions folder.
   
-![Sessions @ Local](imgs/NS_Sessions_Local)
+![Sessions @ Local](imgs/NS_Sessions_Local.jpg)
 
   - Select the files for copy to the PowerDiva Video machine. (Via the green folder)
     - Copy the raw data file (.raw), and the gains (.gains) and zeroes (.zeros) files and impedances (.imp)
