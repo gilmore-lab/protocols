@@ -15,6 +15,12 @@ Collect data from 25 participants
 - 10 previous Participants  
 - 27 additional participants  
 - all demographic data is located on databrary: https://nyu.databrary.org/volume/144
+- Discarded Data
+  - Too Few Blocks (1)
+  - Channels Over Threshold (2)
+  - Refusal to Wear Net (1)
+  - Experimenter Error (3)
+   
 
 ### Data Processing
 - 10 participants reprocessed with PD Video  
@@ -25,14 +31,22 @@ Collect data from 25 participants
   - Raw Threshold Detector = 100 / Blink Threshold = 100  
 
 ### To Do
-- **completed** Create R script to prepare output files from PD Video for the analysis script pipeline - R script converted from moco  
- 
- 
-- fix R script to run as a function through all datasets in the sessions folder
-   
 - **Completed** Reprocess the 10 previous participants at the settings Raw Threshold Detector = 100 / Blink Threshold = 100
   - *Difficulty: After copying the data from Box to the PowerBook G4, no files are showing up in PD Video, just directories. However everything shows up in the Finder Window.*
-     - raw data was copied from data collection computers and completely reprocessed.
+     - raw data was copied from data collection computers and completely reprocessed.  
+
+- **Completed** Create R script to prepare output files from PD Video for the analysis script pipeline - R script converted from moco  
+  
+- **Completed**R script (mofo-RLS-file-convert.R) will run in individual folders  
+
+  - Sample code:
+    - setwd("/Users/ars17/Box Sync/b-gilmore-lab-group Shared/gilmore-lab/projects/optic-flow/optic-flow-eeg/mofo/mofo-child-tuning/sessions/060310lesu/ThreshBlink100")
+    - source('~/Desktop/Rscript/mofo-RLS-file-convert.R')
+    - mofo.RLS.file.convert()  
+
+- fix R script to run as a function through all datasets in the sessions folder
+   
+
   
 ## MOCO INF_2Pat_LamRad
 ### Goal
@@ -40,6 +54,12 @@ Collect data from 25 participants
 ### Participants
 - 5 Participants
 - all demographic data is located on databrary: https://nyu.databrary.org/volume/146
+- Discarded Data
+  - Too Few Blocks ()
+  - Channels Over Threshold (2)
+  - Refusal to Wear Net (2)
+  - Experimenter Error (4)
+  - no RLS file created (1) - rerun this dataset through processing!
 
 ### Data Processing
 - 5 participants processed with PD Video  
@@ -196,6 +216,7 @@ Collect data from 25 participants
 ### Coding for Indiana/India data
 - All files are located on ars17psu google drive 
   - 'Andrea-Everything you need to start working' slides
+     - updated to include correct server address
   - Participant information: Locomotion_codinglog2015
 
 - Complete coding for a few participants
@@ -203,6 +224,7 @@ Collect data from 25 participants
 
 - Problem: Error connecting to server using instructions on slide 6 - connect to mac slide 3/5 (12/4/2015)
 - An email was sent to Swapnaa (12/4/2015) to check that I have the correct server address.
+- Received correct server address (12/16/2015). I am ready to go.
 
 ### Keep Datavyu notes
-- keep notes of things that work well or don't work well.
+- keep notes of things that work well or don't work well while coding Indiana/India data
