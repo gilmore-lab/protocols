@@ -220,11 +220,19 @@ Collect data from 25 participants
   - Participant information: Locomotion_codinglog2015
 
 - Complete coding for a few participants
-- Train students to complete coding
+- Train students to complete coding - started on 1/15/2016
 
 - Problem: Error connecting to server using instructions on slide 6 - connect to mac slide 3/5 (12/4/2015)
 - An email was sent to Swapnaa (12/4/2015) to check that I have the correct server address.
 - Received correct server address (12/16/2015). I am ready to go.
+
+- Datavyu scripts
+  - script to make sure all codes are lowercase
+  - template .opf file
+  - complete reliability coding for 20% of participants
+    - copy coding column with blank codes have a different coder complete this
+  - put all coded data back on the server
+  - 
 
 ### Keep Datavyu notes
 - keep notes of things that work well or don't work well while coding Indiana/India data
