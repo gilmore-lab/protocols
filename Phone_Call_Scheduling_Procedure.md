@@ -13,8 +13,10 @@
 - psubrainlab drive 
   - file: participants > vep-session-log 
   - all-participants tab
-- http://box.psu.edu/ - log in with your username and password  
-- https://github.com/gilmore-lab/protocols - log in with your username and password  
+- http://box.psu.edu/ 
+  - log in with your username and password  
+- https://github.com/gilmore-lab/protocols 
+  - log in with your username and password  
   
 ### Open Excel Spreadsheet with family contact information
 - Log into http://box.psu.edu/
@@ -30,6 +32,21 @@
 
 ### Log all appointment information into the Child or Baby list Excel Spreadsheet
 - Columns S through the end to the best of your ability
+
+### Update PSU Brain Lab calendar
+- **Make sure that room G on the HEF Calendar is available.**  
+
+- Create an event on the **PSU_Brain_Lab** calendar for the study
+  - Title: rog1_ssvp(XXXX) G   
+    - where XXXX is the participant number
+  - Date/Time
+  - Where: 120G Chandlee  
+  - Description: 
+    - List RAs attenting study
+    - child/infant - M/F - age
+    - Make/Model of Vechicle
+    - child care needed/no child care
+  - Guests: Andrea Seisler (ars17psu@gmail.com) and at least 2 RAs that are listed as available on the **Student Schedule** calendar    
 
 ### Send confirmation email 
   - Send this to the participant's parent and CC the lab email (psubrainlab@gmail.com)  
@@ -57,18 +74,6 @@
   - DOB
   - Age-Group 
   
-### Update PSU Brain Lab calendar
-- Create an event on the **PSU_Brain_Lab** calendar for the study
-  - Title: rog1_ssvp(XXXX) G   
-    - where XXXX is the participant number
-  - Date/Time
-  - Where: 120G Chandlee  
-  - Description: 
-    - List RAs attenting study
-    - child/infant - M/F - age
-    - Make/Model of Vechicle
-    - child care needed/no child care
-  - Guests: Andrea Seisler (ars17psu@gmail.com) and at least 2 RAs that are listed as available on the **Student Schedule** calendar    
   
 
   
