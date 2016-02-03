@@ -199,10 +199,14 @@ Collect data from 25 participants
 
 #### To Do
 - Problem: Memory usage is currently 60% with no applications running
-  - Solution: Beef up RAM- Order 1 or 2: [(4GBx2) DDR3 1333 MT/s](http://www.amazon.com/Crucial-PC3-10600-204-Pin-CT2K4G3S1339M-Notebook/dp/B008LTBIT4/ref=sr_1_1?s=pc&ie=UTF8&qid=1449252336&sr=1-1&keywords=PC3-10600+%281333%29+DDR3+204-pin+SO-DIMM#Ask) from Amazon - currently on sale
+  - Solution: Beef up RAM- Order 1: [(4GBx2) DDR3 1333 MT/s](http://www.amazon.com/Crucial-PC3-10600-204-Pin-CT2K4G3S1339M-Notebook/dp/B008LTBIT4/ref=sr_1_1?s=pc&ie=UTF8&qid=1449252336&sr=1-1&keywords=PC3-10600+%281333%29+DDR3+204-pin+SO-DIMM#Ask) from Amazon - completed
+- Install new RAM - completed 2/3/2016
 - After memory upgraded
   - Install Box Sync
   - Install Git
+  - python/web items
+  - 1 password
+  
 
 
 ## Mt. Nittany IRB Application   
@@ -225,11 +229,13 @@ Collect data from 25 participants
 - Problem: Error connecting to server using instructions on slide 6 - connect to mac slide 3/5 (12/4/2015)
 - An email was sent to Swapnaa (12/4/2015) to check that I have the correct server address.
 - Received correct server address (12/16/2015). I am ready to go.
+- Students completing video tutorial then everyone is coding the same dataset. 
+- After coding the same dataset is complere, I want to look similarities and differences between coders.
 
 - Datavyu scripts
   - script to make sure all codes are lowercase
   - template .opf file
-  - complete reliability coding for 20% of participants
+  - complete reliability coding for 20% of participants (entire dataset)
     - copy coding column with blank codes have a different coder complete this
   - put all coded data back on the server
   - 
