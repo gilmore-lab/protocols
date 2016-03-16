@@ -23,6 +23,10 @@
 - Navigate to: b-gilmore-lab-group Shared > gilmore-lab > recruitment > FIRSt Families Recruitment
 - Look at either the Child or Baby list
 - Download the list that you will be working on to the desktop
+- Add the date and time to the end of the filename. 
+    - Baby-List-2010-009-Visuals-DatasetJ-Sept2015-YYYYMMDDTTTT.xls
+	- Baby-List-2010-009-Visuals-DatasetJ-Sept2015-201603140953.xls
+	  
 
 ### Call assigned families to set up appointment
 - Local Calls dial __"8"__ then the rest of the number __without__ area code
@@ -61,6 +65,7 @@
 - Choose the __Upload__ box in the upper left corner
 - Select __files__
 - Choose the updated list from the Desktop
+   - e.g. Baby-List-2010-009-Visuals-DatasetJ-Sept2015-YYYYMMDDTTTT.xls
 - Select __Open__
 - You should notice that the version changes in front of the file name.
 
