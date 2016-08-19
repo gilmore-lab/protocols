@@ -55,7 +55,7 @@ updated: 2016-03-18 by ars
 - Commit changes to GitHub
     + *git status* to view changed files
     + *git add <changed-files>* to add to commit  
-    	+ *git add --all* add all changed files to commit  
+    	+ *git add -A* add all changed files to commit  
     + *git commit -m "commit message* to commit  
     	+ *git commit -a -m "commit mesage"* commit all changed files and add message  
     + *git push origin master* to push changes back to GitHub  
