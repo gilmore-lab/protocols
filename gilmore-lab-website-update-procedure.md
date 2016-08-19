@@ -44,11 +44,11 @@ updated: 2016-03-18 by ars
     - *make serve*
     - A window opens asking permission to create webserver - this does not show up on Andrea's machine  
 
-![](img/warning-pelican-webserver.jpg)
+![](imgs/warning-pelican-webserver.jpg)
 
 - The site may be viewed in a browser by navigating to <http://localhost:8000/>
 
-![](img/localhost-screenshot.jpg)
+![](imgs/localhost-screenshot.jpg)
 
 - When done viewing in the browser, go back to the terminal and push 'control + c' to get back to the prompt.
 - Repeat editing/generating/viewing cycle until satisfied.
