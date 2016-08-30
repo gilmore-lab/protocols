@@ -16,7 +16,7 @@ New Staff Onboarding
 
 5. *New RA* creates an account on [PSU Box](http://box.psu.edu/)
 
-6. Lab Manager adds the New RA to the Gilmore-Lab folder on Box using the PSU access ID (abc123)
+6. *Lab Manager* adds the New RA to the Gilmore-Lab folder on Box using the PSU access ID (abc123)
 
 7. *New RA* adds contact information to [Box-gilmore-lab-staff-contact-list]( https://psu.app.box.com/files/0/f/2115018490/staff) 
 
