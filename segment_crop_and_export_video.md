@@ -2,6 +2,18 @@
 
 - Open Final Cut Pro
 
+Project:
+Event: different scenes
+Library: multiple events
+
+
+## Load Data
+
+Load data
+File > New > Event
+
+Load Media
+Load > Import > Media
 ## Crop Video
 
 ## Segment Video
