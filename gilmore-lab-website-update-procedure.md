@@ -21,10 +21,11 @@ updated: 2016-03-18 by ars
 
 - Pull latest changes from GitHub
 	+ Open Terminal
+	+ cd to gilmore-lab.github.io/
+    + git pull
     + cd to gilmore-lab.github.io-src/
     + git pull
-    + cd to gilmore-lab.github.io/
-    + git pull
+
     
 - Edit/add Markdown documents in gilmore-lab.github.io-src/content
     * Most of the static pages are under content/pages
