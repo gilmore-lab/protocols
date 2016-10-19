@@ -13,7 +13,7 @@ Load data
 File > New > Event  
 
 Load Media  
-Load > Import > Media  
+File > Import > Media  
 ## Crop Video
 
 ## Segment Video
