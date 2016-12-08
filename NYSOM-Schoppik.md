@@ -29,7 +29,7 @@ Date: November 24, 2016
 
 As the Authorized Organizational Representative (AOR), my signature below indicates that I have authority to bind my Institution under this agreement.
 
-Institution: **___________________________**
+Institution: [u]                  [/u] ___________________________
 
 Name & Title of AOR: ___________________________
 
