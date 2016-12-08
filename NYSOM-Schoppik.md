@@ -114,9 +114,12 @@ Authorized Investigators may authorize other users as their Affiliates. Authoriz
 
 _______ Initials of AOR  
 
-<div style="display:none;">  
+<div style="display:none;">
 
-\newpage  
+\pagebreak
+
+</div>
+
 
 # Annex II  
 
