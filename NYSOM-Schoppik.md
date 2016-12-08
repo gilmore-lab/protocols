@@ -112,30 +112,30 @@ Authorized Investigators must have the right to share with Databrary any data th
 
 Authorized Investigators may authorize other users as their Affiliates. Authorized Investigators assume the responsibility for choosing Affiliates who meet Databrary's qualifications and who agree to follow Databrary's ethical principles. Authorized Investigators agree to be responsible for the conduct of Affiliates that they select
 
-_______ Initials of AOR
+_______ Initials of AOR  
 
-<div style="display:none;">
+<div style="display:none;">  
 
-\newpage
+\newpage  
 
-# Annex II
+# Annex II  
 
-## Additional Authorized Investigators
+## Additional Authorized Investigators  
 
-Institution: ___________________________
+Institution: ___________________________  
 
-As an Investigator, I acknowledge that I have read and understand the terms of this agreement.
+As an Investigator, I acknowledge that I have read and understand the terms of this agreement.  
 
-Name and title of Authorized Investigator: ___________________________
+Name and title of Authorized Investigator: ___________________________  
 
-Signature of Authorized Investigator: ___________________________
+Signature of Authorized Investigator: ___________________________  
 
-As the Authorized Organizational Representative (AOR), my signature below indicates that I have authority to bind my Institution under this agreement.
+As the Authorized Organizational Representative (AOR), my signature below indicates that I have authority to bind my Institution under this agreement.  
 
-Name & Title of AOR: ___________________________
+Name & Title of AOR: ___________________________  
 
-Signature of AOR: ___________________________
+Signature of AOR: ___________________________  
 
-Date: ___________________________
+Date: ___________________________  
 
 </div>
