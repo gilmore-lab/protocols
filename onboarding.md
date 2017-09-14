@@ -5,44 +5,66 @@ New Staff Onboarding
 ## On-boarding Process ##
 
 ### File Sharing ###
+#### Share Google Calendar ####
+1. *New RA* created a Google calendar with their class and work schedules
 
-1. *New RA* shares Google calendar with psubrainlab@gmail.com.
+2. *New RA* shares Google calendar with psubrainlab@gmail.com.
 
-2. *New RA* Create an account on [ASANA](https://app.asana.com/)
+#### Create Asana Account ####
+1. *New RA* Create an account on [ASANA](https://app.asana.com/)
 
-3. *New RA* shares Asana username with psubrainlab@gmail.com
+2. *New RA* shares Asana username with psubrainlab@gmail.com
 
-4. *Lab manager* adds new members to Gimore Lab Tasks.
+3. *Lab manager* adds new members to Gimore Lab Tasks.
 
-5. *New RA* creates an account on [PSU Box](http://box.psu.edu/)
+#### Create PSU Box Account ####
 
-6. *Lab Manager* adds the New RA to the Gilmore-Lab folder on Box using the PSU access ID (abc123)
+1. *New RA* creates an account on [PSU Box](http://box.psu.edu/)
 
-7. *New RA* adds contact information to [Box-gilmore-lab-staff-contact-list]( https://psu.app.box.com/files/0/f/2115018490/staff) 
+2. *Lab Manager* adds the New RA to the Gilmore-Lab folder on Box using the PSU access ID (abc123)
 
-8. *New RA* creates an account on [GitHub](https://github.com/)
+3. *New RA* adds contact information to [Box-gilmore-lab-staff-contact-list](https://psu.app.box.com/files/0/f/2115018490/staff) 
 
-9. *New RA* shares GitHub username with psubrainlab@gmail.com
+#### Create GitHub Account ####
+1. *New RA* creates an account on [GitHub](https://github.com/)
+
+2. *New RA* shares GitHub username with psubrainlab@gmail.com
+3. *Lab Manager* adds the New RA to 
+
+#### Create Databrary Account ####
+1. *New RA* creates an account on [Databrary] (https://nyu.databrary.org/user/register?page=create)
+  - Complete the first 5 tabs on the left hand side
+  - When completing the 'Request Authorization' Tab, please request authorization from Rick O. Gilmore.
 
 ### Human Participants Training ###
+#### CITI Training ####
+1. *New RA* completes [Social and Behavioral Human Participants Training & Biomedical Human Participants Training](http://citi.psu.edu/). 
 
-1. *New RA* completes [Social and Behavioral Human Participants Training & Biomedical Human Participants Training](http://citi.psu.edu/). When completed, *New RA* sends completion certificate to the Lab email account, psubrainlab@gmail.com.
+2. When completed, *New RA* sends completion certificate to the Lab email account, psubrainlab@gmail.com.
 
-2. *Lab Manager* uploads completion certificate to [Box-Citi-Training-Certificates](https://psu.app.box.com/files/0/f/2114534728/citi-training-certificates).
+3. *Lab Manager* uploads completion certificate to [Box-Citi-Training-Certificates](https://psu.app.box.com/files/0/f/2114534728/citi-training-certificates).
 
 3. *Lab Manager* updates the file [Lab Training](https://psu.app.box.com/files/0/f/2115018490/1/f_25313038037).
 
-4. *New RA* completes Online Training: [Reporting Child Abuse Training](http://lrn.psu.edu/). When completed, *New RA* sends training certificate to the Lab email account, psubrainlab@gmail.com.
+#### Building a Safe Penn State: Reporting Child Abuse ####
 
-5. *Lab Manager* uploads completion certificate to [Box-Reporting-Child-Abuse-Certificates](https://psu.app.box.com/files/0/f/3062368383/training-certificates).
+1. *New RA* completes Online Training: [Reporting Child Abuse Training](http://lrn.psu.edu/). 
 
-6. *Lab Manager* updates the file [Lab Training](https://psu.app.box.com/files/0/f/2115018490/1/f_25313038037).
+2. When completed, *New RA* sends training certificate to the Lab email account, psubrainlab@gmail.com.
 
-7. *New RA* completes Online Training: [Clery Act Training](http://lrn.psu.edu/). When completed, *New RA* sends training certificate to the Lab email account, psubrainlab@gmail.com.
+3. *Lab Manager* uploads completion certificate to [Box-Reporting-Child-Abuse-Certificates](https://psu.app.box.com/files/0/f/3062368383/training-certificates).
 
-8. *Lab Manager* uploads completion certificate to [Box-Clery-Act-Certificates](https://psu.app.box.com/files/0/f/3062368383/training-certificates).
+4. *Lab Manager* updates the file [Lab Training](https://psu.app.box.com/files/0/f/2115018490/1/f_25313038037).
+#### Clery Act Training ####
 
-9. *Lab Manager* updates the file [Lab Training](https://psu.app.box.com/files/0/f/2115018490/1/f_25313038037).
+1. *New RA* completes Online Training: [Clery Act Training](http://lrn.psu.edu/). 
+
+2. When completed, *New RA* sends training certificate to the Lab email account, psubrainlab@gmail.com.
+
+3. *Lab Manager* uploads completion certificate to [Box-Clery-Act-Certificates](https://psu.app.box.com/files/0/f/3062368383/training-certificates).
+
+4. *Lab Manager* updates the file [Lab Training](https://psu.app.box.com/files/0/f/2115018490/1/f_25313038037).
+
 
 10. *New RA* views the 'Epilepsy Video'. This is a DVD located in 449 Moore.
 
@@ -52,7 +74,8 @@ New Staff Onboarding
 
 ### Access to facilities ###
 
-1. *New RA* completes a [Facility Access Authorization Request](https://www.imaging.psu.edu/sites/sleic/files/SLEIC%20FAR%20Form%20Student%20-%20card%20swipe.pdf) and turns it in to the Lab Manager.
+#### Chandlee ####
+1. *New RA* completes a [Facility Access Authorization Request] (https://www.imaging.psu.edu/sites/sleic/files/SLEIC%20FAR%20Form%20Student%20-%20card%20swipe.pdf) and turns it in to the Lab Manager.
 
 2. *Lab Manager* The code to the lockbox outside of 449 Moore shall be given to the *RAs* so they may access the lab space on the 4th floor of Moore Building
 
