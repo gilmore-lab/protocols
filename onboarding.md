@@ -34,13 +34,23 @@ New Staff Onboarding
 5. *Lab Manager* adds the New RA as a member of the [gilmore-lab](https://github.com/orgs/gilmore-lab/teams/gilmore-lab/members) team 
 
 #### Create Databrary Account ####
-1. *New RA* creates an account on [Databrary] (https://nyu.databrary.org/user/register?page=create)
+1. *New RA* creates an account on [Databrary](https://nyu.databrary.org/user/register?page=create)
   - Complete the first 5 tabs on the left hand side
-  - When completing the 'Request Authorization' Tab, please request authorization from Rick O. Gilmore.
+  - When completing the 'Request Authorization' Tab, please request affiliate authorization from Rick O. Gilmore.
+  
 #### Create Slack Account ####
+1. *New RA* provides the email address that they would like to use for Slack
+2. *Lab Manager* invites New RA to [Slack](https://slack.com/) 
+  - Lab Manager logs in
+  - Left click on top left of screen where the Lab Manager's user name is located
+  - Choose 'Invite People' under the 'gilmore-lab.slack.com' section
+  - Enter preferred email address and First and Last name of New RA
+3. *New RA* accepts request
 
 #### Create DataCamp Account ####
-
+1. *New RA* creates an account on [DataCamp](https://www.datacamp.com/)
+2. *New RA* shares email address used to sign up for DataCamp psubrainlab@gmail.com
+3. *Lab Manager* shares the email addresses for the semester with Dr. Gilmore so they may be added to the class.
 
 ### Human Participants Training ###
 #### CITI Training ####
@@ -70,20 +80,26 @@ New Staff Onboarding
 3. *Lab Manager* uploads completion certificate to [Box-Clery-Act-Certificates](https://psu.app.box.com/files/0/f/3062368383/training-certificates).
 
 4. *Lab Manager* updates the file [Lab Training](https://psu.app.box.com/files/0/f/2115018490/1/f_25313038037).
+#### Watch Epilepsy Video ####
 
+1. *New RA* views the 'Epilepsy Video'. This is a DVD located in 449 Moore.
 
-10. *New RA* views the 'Epilepsy Video'. This is a DVD located in 449 Moore.
+2. *Lab Manager* updates the file [Lab Training](https://psu.app.box.com/files/0/f/2115018490/1/f_25313038037).
 
-11. *Lab Manager* updates the file [Lab Training](https://psu.app.box.com/files/0/f/2115018490/1/f_25313038037).
+#### Background Check #### 
+Only Required when working with minors
+1. See the Administrative Support Assistant in Room 140 Moore Building
 
-12. *Lab Manager* modifies IRB research protocols to add staff.
+### Update IRB Protocol(s) ###
+1. *Lab Manager* modifies IRB research protocols to add staff.
 
 ### Access to facilities ###
 
 #### Chandlee ####
 1. *New RA* completes a [Facility Access Authorization Request] (https://www.imaging.psu.edu/sites/sleic/files/SLEIC%20FAR%20Form%20Student%20-%20card%20swipe.pdf) and turns it in to the Lab Manager.
 
-2. *Lab Manager* The code to the lockbox outside of 449 Moore shall be given to the *RAs* so they may access the lab space on the 4th floor of Moore Building
+#### Moore ####
+1. *Lab Manager* provides the code to the lockbox outside of 503 Moore to the *New RAs* so they may access the lab space.
 
 ### Create Lab Notebook ###
 
