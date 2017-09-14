@@ -29,7 +29,9 @@ New Staff Onboarding
 1. *New RA* creates an account on [GitHub](https://github.com/)
 
 2. *New RA* shares GitHub username with psubrainlab@gmail.com
-3. *Lab Manager* adds the New RA to 
+3. *Lab Manager* invites the New RA to the [gilmore-lab repository](https://github.com/orgs/gilmore-lab/people)
+4. *New RA* accepts the GitHub invitation
+5. *Lab Manager* adds the New RA as a member of the [gilmore-lab](https://github.com/orgs/gilmore-lab/teams/gilmore-lab/members) team 
 
 #### Create Databrary Account ####
 1. *New RA* creates an account on [Databrary] (https://nyu.databrary.org/user/register?page=create)
