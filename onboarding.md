@@ -37,6 +37,10 @@ New Staff Onboarding
 1. *New RA* creates an account on [Databrary] (https://nyu.databrary.org/user/register?page=create)
   - Complete the first 5 tabs on the left hand side
   - When completing the 'Request Authorization' Tab, please request authorization from Rick O. Gilmore.
+#### Create Slack Account ####
+
+#### Create DataCamp Account ####
+
 
 ### Human Participants Training ###
 #### CITI Training ####
