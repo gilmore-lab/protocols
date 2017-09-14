@@ -82,7 +82,7 @@ New Staff Onboarding
 4. *Lab Manager* updates the file [Lab Training](https://psu.app.box.com/files/0/f/2115018490/1/f_25313038037).
 #### Watch Epilepsy Video ####
 
-1. *New RA* views the 'Epilepsy Video'. This is a DVD located in 449 Moore.
+1. *New RA* views the 'Epilepsy Video'. This is a DVD located in 503 Moore.
 
 2. *Lab Manager* updates the file [Lab Training](https://psu.app.box.com/files/0/f/2115018490/1/f_25313038037).
 
@@ -101,7 +101,7 @@ Only Required when working with minors
 #### Moore ####
 1. *Lab Manager* provides the code to the lockbox outside of 503 Moore to the *New RAs* so they may access the lab space.
 
-### Create Lab Notebook ###
+### Create Lab Notebook ### - Do we still do this?
 
 1. *New RA* creates lab folder notebook in Google docs. Format should be gilmore-lab-notebook-smith-joe ?????
 
@@ -109,7 +109,7 @@ Only Required when working with minors
 
 ### EEG Net Application Training (optional) ###
 
-1. View the ‘Hydrocel GSN Application and Care Training Video’. This is a DVD located in 449 Moore.
+1. View the ‘Hydrocel GSN Application and Care Training Video’. This is a DVD located in 503 Moore.
 
 2. Read the [EEG Net Placement Documentation](https://github.com/gilmore-lab/protocols/blob/master/Applying_EEG_Nets_and_Minimizing_Impedances.md)
 
