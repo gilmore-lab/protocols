@@ -67,6 +67,11 @@ Account needed to access RStudio Online
 1. Log in to http://rstudio.aci.ics.psu.edu
 2. Add directory /storage/home/rog1/rstudio. (How do we do this?)
 
+##### Rescources for using R #####
+https://www.rstudio.com/resources/webinars/
+
+Using Git and R together: http://happygitwithr.com/
+
 ### Human Participants Training ###
 Required training
 #### CITI Training ####
