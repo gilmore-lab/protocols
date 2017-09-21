@@ -26,7 +26,7 @@
 4. If it is an existing label, it will show in the list
 5. If it is not an existing label, then click on 'Create new label' on bottom of the pop-up box
 
-**How to add a folder*
+**How to add a folder**
 
 1. You can add a folder in the same way you add labels
 2. 'Add/Remove Folder' option will be available once you select a paper
