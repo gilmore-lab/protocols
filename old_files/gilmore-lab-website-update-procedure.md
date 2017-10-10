@@ -1,4 +1,4 @@
-# Gilmore Lab Website Update Procedure
+# Gilmore Lab Website Update Procedure - Pelican
 
 author: Rick O. Gilmore, rick.o.gilmore@gmail.com
 date: 2015-04-24
