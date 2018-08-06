@@ -1,5 +1,5 @@
-#Calibrate Monitor
-##EEG
+# Calibrate Monitor
+## EEG
 ### Prepare Computers
 - In 120H Switch on power of large surge protector on bottom left shelf.
 
@@ -52,7 +52,7 @@
 - Select **Start**  
     ![Luminance Calibration - Enter Value](imgs/LuminanceCalibration_EnterValue2.jpg)
 
-##MRI
+## MRI
 
 Projector calibration should be run every time the projector screen, lightbulb or projector PC are changed.
 
@@ -78,7 +78,7 @@ All mirrors and the projector screen have marks on the floor indicating their pr
 
 - At a minimum a black (0,0,0) and white (255,255,255) image must be displayed on the projector screen 
 - The script to do this is located on the Projector PC in 7A the scanner control room
-  - INSERT THE LOCATION OF THIS SCRIPT
+  - **INSERT THE LOCATION OF THIS SCRIPT**
  
 ### Measure Luminance
 
