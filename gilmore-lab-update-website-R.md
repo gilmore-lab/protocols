@@ -38,6 +38,8 @@ GitHub syncing capabilities
 
 - Commit all .Rmd and .html files
 
+- Push Files
+
 
 ## To Do
 
