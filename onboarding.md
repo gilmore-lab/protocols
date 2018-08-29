@@ -70,6 +70,9 @@ Account needed to access RStudio Online
 ### Sync RStudio Online and Github
 
 -Write Instructions!
+[Version Control with Git and RStudio](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN)
+
+[Create SSH RSH Key](https://www.r-bloggers.com/rstudio-and-github/)
 
 ##### Rescources for using R #####
 https://www.rstudio.com/resources/webinars/
