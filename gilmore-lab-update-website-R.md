@@ -31,6 +31,7 @@ GitHub syncing capabilities
 - Edit/add Markdown documents in gilmore-lab.github.io
 	+ update .Rmd files
 	+ knit HTML after every change
+	+ save the files
 
 
 - Build Website
@@ -51,7 +52,6 @@ If you have trouble push the files,
   "error: The requested URL returned error: 403 Forbidden while accessing https://github.com/gilmore-lab/gilmore-lab.github.io.git/info/refs
   fatal: HTTP request failed"
 try this code in the shell:
-git remote add origin https://github.com/gilmore-lab/child-motion-psychophysics.git
 git config remote.origin.url git@github.com:gilmore-lab/child-motion-psychophysics.git
 git pull -u origin master
 git push -u origin master

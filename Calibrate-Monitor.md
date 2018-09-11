@@ -77,8 +77,7 @@ All mirrors and the projector screen have marks on the floor indicating their pr
 ### Run Matlab Script
 
 - At a minimum a black (0,0,0) and white (255,255,255) image must be displayed on the projector screen 
-- The script to do this is located on the Projector PC in 7A the scanner control room
-  - **INSERT THE LOCATION OF THIS SCRIPT**
+- The script to do this is located on Github: https://github.com/gilmore-lab/photometer_proj
  
 ### Measure Luminance
 
