@@ -53,5 +53,3 @@ If you have trouble push the files,
   fatal: HTTP request failed"
 try this code in the shell:
 git config remote.origin.url git@github.com:gilmore-lab/child-motion-psychophysics.git
-git pull -u origin master
-git push -u origin master
