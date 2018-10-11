@@ -11,7 +11,7 @@
 
 - Turn on external timebase, behind the monitors (switch is back, right side).
 
-- Remove the plug from the external timebase outlet labeled **OUT**. (Clock Out stays in).  - What is this for alibration
+- Remove the plug from the external timebase outlet labeled **OUT**. (Clock Out stays in).  - What is this for calibration
  
     ![Rear of External Timebase](imgs/rear-of-ext-timebase.pictClipping.jpg)
 
