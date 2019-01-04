@@ -62,9 +62,18 @@ Databrary: https://nyu.databrary.org/volume/218
 
 #### moco-behavior-adult 
 
+Databrary: https://nyu.databrary.org/volume/73  
 
 #### symmetry-sorting  
 
 Materials on Databrary: https://nyu.databrary.org/volume/77  
+
+Session Log:  https://docs.google.com/spreadsheets/d/1bo8HlpTJz51LNB63NErvJSvnRIjTctgF255Lg-5TPno/edit#gid=0  
+
+Raw Sorting Data: https://github.com/gilmore-lab/symmetry-sorting/blob/master/analysis/data/xlsx/Raw_Sorting_Data_151102.xlsx  
+
+Project File: https://github.com/gilmore-lab/symmetry-sorting  
+
+
 
 
