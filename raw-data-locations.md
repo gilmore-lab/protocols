@@ -8,7 +8,9 @@ VEP-session-log: https://docs.google.com/spreadsheets/d/1Y9GoJU6EFUxcNmbWOLr52en
 
 Stimset Name: inf_2pat_lamrad
 
-Raw Data: moco-eeg-lamrad-infant: /Box Sync/b-gilmore-lab-group Shared/gilmore-lab/projects/optic-flow/optic-flow-eeg/moco/moco-eeg-lamrad-infant/analysis/data/raw-sessions 
+Raw Data: moco-eeg-lamrad-infant: /Box Sync/b-gilmore-lab-group Shared/gilmore-lab/projects/optic-flow/optic-flow-eeg/moco/moco-eeg-lamrad-infant/analysis/data/raw-sessions   
+
+Databrary: https://nyu.databrary.org/volume/146  
 
 #### moco-3-pattern-child
 
@@ -28,7 +30,9 @@ Raw Data: /Box Sync/b-gilmore-lab-group Shared/gilmore-lab/projects/optic-flow/o
 
 Stimset Name: mofo_tuning_hidens(child)
 
-Raw Data: /Box Sync/b-gilmore-lab-group Shared/gilmore-lab/projects/optic-flow/optic-flow-eeg/mofo/mofo-eeg-tuning-child/raw-data
+Raw Data: /Box Sync/b-gilmore-lab-group Shared/gilmore-lab/projects/optic-flow/optic-flow-eeg/mofo/mofo-eeg-tuning-child/raw-data  
+
+Databrary: https://nyu.databrary.org/volume/144  
 
 
 #### mofo-coh-tunelife
@@ -52,6 +56,15 @@ Stimset Name: mofo_direction_infant
 
 Stimset Name: moco_child_behavior
 
-moco-behavior-child: /Box Sync/b-gilmore-lab-group Shared/gilmore-lab/projects/optic-flow/optic-flow-psychophysics/projects/moco-behavior/moco-behavior-child/analysis/session-data
+moco-behavior-child: /Box Sync/b-gilmore-lab-group Shared/gilmore-lab/projects/optic-flow/optic-flow-psychophysics/projects/moco-behavior/moco-behavior-child/analysis/session-data  
+
+Databrary: https://nyu.databrary.org/volume/218  
 
 #### moco-behavior-adult 
+
+
+#### symmetry-sorting  
+
+Materials on Databrary: https://nyu.databrary.org/volume/77  
+
+
