@@ -59,4 +59,9 @@ id_rsa  id_rsa.pub  known_hosts
     - Paste the repository link you copies from GitHub into the `Repository URL` field.
     - Select a name for the local repository. I usually keep the name from GitHub, so in this case, I would use `protocols`.
     - Select a directory/folder where the repository will be copied to. I have an `rstudio/` folder I use for this. If you need to create a folder, you may do so.
-    - Click on the `Create Project` button. This will copy the repository from GitHub to your personal (PASS) file space on PSU's servers. 
+    - Click on the `Create Project` button. This will copy the repository from GitHub to your personal (PASS) file space on PSU's servers.
+    
+## On your computer
+
+1. Download and install R from <https://cran.r-project.org/>
+2. Download and install RStudio from <https://www.rstudio.com/products/rstudio/download/#download>. Choose your platform from the 'Installers' (e.g., Windows, Mac, Ubuntu, or Fedora Linux).
