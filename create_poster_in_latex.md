@@ -3,7 +3,6 @@
 ## Poster template
 - The template file baposter.cls is needed
 
-
 ## Create .bib file
 Create a poster_landscape.bib file
 
