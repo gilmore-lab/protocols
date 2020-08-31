@@ -1,90 +1,101 @@
-New Staff Onboarding
+# Gilmore Lab
 
-# Gilmore Lab #
+## On-boarding Process - New Staff
 
-## On-boarding Process ##
+### File Sharing 
 
-### File Sharing ###
-#### Share Google Calendar ####
+#### Share Google Calendar 
 Google Calendar is used for gathering lab member schedules, determining meeting and data collection times
+
 1. *New RA* created a Google calendar with their class and work schedules
 
 2. *New RA* shares Google calendar with psubrainlab@gmail.com.
 
-#### Create Asana Account ####
+#### Create Asana Account 
 Asana is used for task management
+
 1. *New RA* Create an account on [ASANA](https://app.asana.com/)
 
 2. *New RA* shares Asana username with psubrainlab@gmail.com
 
 3. *Lab manager* adds new members to Gimore Lab Tasks.
 
-#### Create PSU Box Account ####
-Box used to store data which may contain PII
+<!-- #### Create PSU Box Account #### -->
+<!-- Box used to store data which may contain PII -->
+<!-- -->
+<!-- 1. *New RA* creates an account on [PSU Box](http://box.psu.edu/) -->
+<!-- -->
+<!-- 2. *Lab Manager* adds the New RA to the Gilmore-Lab folder on Box using the PSU access ID (abc123) -->
+<!-- -->
+<!-- 3. *New RA* adds contact information to [Box-gilmore-lab-staff-contact-list](https://psu.app.box.com/files/0/f/2115018490/staff)  -->
 
-1. *New RA* creates an account on [PSU Box](http://box.psu.edu/)
-
-2. *Lab Manager* adds the New RA to the Gilmore-Lab folder on Box using the PSU access ID (abc123)
-
-3. *New RA* adds contact information to [Box-gilmore-lab-staff-contact-list](https://psu.app.box.com/files/0/f/2115018490/staff) 
-
-#### Create GitHub Account ####
+#### Create GitHub Account 
 GitHub used to store and update documents
+
 1. *New RA* creates an account on [GitHub](https://github.com/)
 
 2. *New RA* shares GitHub username with psubrainlab@gmail.com
+
 3. *Lab Manager* invites the New RA to the [gilmore-lab repository](https://github.com/orgs/gilmore-lab/people)
+
 4. *New RA* accepts the GitHub invitation
+
 5. *Lab Manager* adds the New RA as a member of the [gilmore-lab](https://github.com/orgs/gilmore-lab/teams/gilmore-lab/members) team 
 
-#### Create Databrary Account ####
+#### Create Databrary Account
+
 Databrary used as a place to store and share project data
+
 1. *New RA* creates an account on [Databrary](https://nyu.databrary.org/user/register?page=create)
-  - Complete the first 5 tabs on the left hand side
-  - When completing the 'Request Authorization' Tab, please request affiliate authorization from Rick O. Gilmore.
+
+    - Complete the first 5 tabs on the left hand side  
+    - When completing the 'Request Authorization' Tab, please request affiliate authorization from Rick O. Gilmore.  
   
-#### Create Slack Account ####
-Slack used for team communication
-1. *New RA* provides the email address that they would like to use for Slack
-2. *Lab Manager* invites New RA to [Slack](https://slack.com/) 
-  - Lab Manager logs in
-  - Left click on top left of screen where the Lab Manager's user name is located
-  - Choose 'Invite People' under the 'gilmore-lab.slack.com' section
-  - Enter preferred email address and First and Last name of New RA
+#### Create Discord Account 
+Discord used for team communication
+
+1. *New RA* creates an account on [Discord](https://discord.com/)
+2. *Lab Manager* invites New RA to Discord
+    - Lab Manager logs in
+    - Click on 'Invite People' in the 'Gilmore Lab' channel
+    - Send the server invite link to everyone via Asana
 3. *New RA* accepts request
 
-#### Create DataCamp Account ####
-DataCamp used for R training programs
-1. *New RA* creates an account on [DataCamp](https://www.datacamp.com/)
-2. *New RA* shares email address used to sign up for DataCamp psubrainlab@gmail.com
-3. *Lab Manager* shares the email addresses for the semester with Dr. Gilmore so they may be added to the class.
+#### Create DataCamp Account 
+DataCamp used for R training programs  
 
-#### Create ACI-ICS Account ####
-Account needed to access RStudio Online
-1. *New RA* requests an account on [ACI-ICS](https://ics.psu.edu/advanced-cyberinfrastructure/accounts/)
+1. *New RA* creates an account on [DataCamp](https://www.datacamp.com/)  
+2. *New RA* shares email address used to sign up for DataCamp psubrainlab@gmail.com  
+3. *Lab Manager* shares the email addresses for the semester with Dr. Gilmore so they may be added to the class.  
 
-### RStudio Online ###
-1. Log in to http://rstudio.aci.ics.psu.edu
+<!-- #### Create ACI-ICS Account #### -->
+<!-- Account needed to access RStudio Online -->
+<!-- 1. *New RA* requests an account on [ACI-ICS](https://ics.psu.edu/advanced-cyberinfrastructure/accounts/) -->
+
+### RStudio Online
+
+1. Log in to http://rstudio.aci.ics.psu.edu  
 2. Add directory /storage/home/rog1/rstudio. (How do we do this?)
 
 ### Sync RStudio On ACI and Github
 
 -Write Instructions!
 
-[Happy Git and GitHub for the useR](http://happygitwithr.com/)
-[Version Control with Git and RStudio](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN)
-[Create SSH RSH Key](https://www.r-bloggers.com/rstudio-and-github/)
+[Happy Git and GitHub for the useR](http://happygitwithr.com/)  
+[Version Control with Git and RStudio](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN)  
+[Create SSH RSH Key](https://www.r-bloggers.com/rstudio-and-github/)  
 
-##### Rescources for using R #####
+##### Rescources for using R
 https://www.rstudio.com/resources/webinars/
 
 Using Git and R together: http://happygitwithr.com/
 
-### Human Participants Training ###
-Required training
-#### CITI Training ####
-Renew every 3 years
-1. *New RA* completes [Social and Behavioral Human Participants Training & Biomedical Human Participants Training](http://citi.psu.edu/). 
+### Human Participants Training 
+
+#### CITI Training
+Renew every 3 years  
+
+1. *New RA* completes [Social and Behavioral Human Participants Training & Biomedical Human Participants Training](http://citi.psu.edu/).   
 
 2. When completed, *New RA* sends completion certificate to the Lab email account, psubrainlab@gmail.com.
 
@@ -92,7 +103,7 @@ Renew every 3 years
 
 3. *Lab Manager* updates the file [Lab Training](https://psu.app.box.com/files/0/f/2115018490/1/f_25313038037).
 
-#### Building a Safe Penn State: Reporting Child Abuse ####
+#### Building a Safe Penn State: Reporting Child Abuse
 Renew every calendar year
 
 1. *New RA* completes Online Training: [Reporting Child Abuse Training](http://lrn.psu.edu/). 
@@ -102,7 +113,8 @@ Renew every calendar year
 3. *Lab Manager* uploads completion certificate to [Box-Reporting-Child-Abuse-Certificates](https://psu.app.box.com/files/0/f/3062368383/training-certificates).
 
 4. *Lab Manager* updates the file [Lab Training](https://psu.app.box.com/files/0/f/2115018490/1/f_25313038037).
-#### Clery Act Training ####
+
+#### Clery Act Training 
 Renew every 365 days
 
 1. *New RA* completes Online Training: [Clery Act Training](http://lrn.psu.edu/). 
@@ -112,35 +124,37 @@ Renew every 365 days
 3. *Lab Manager* uploads completion certificate to [Box-Clery-Act-Certificates](https://psu.app.box.com/files/0/f/3062368383/training-certificates).
 
 4. *Lab Manager* updates the file [Lab Training](https://psu.app.box.com/files/0/f/2115018490/1/f_25313038037).
-#### Watch Epilepsy Video ####
+
+#### Watch Epilepsy Video
 
 1. *New RA* views the 'Epilepsy Video'. This is a DVD located in 503 Moore.
 
 2. *Lab Manager* updates the file [Lab Training](https://psu.app.box.com/files/0/f/2115018490/1/f_25313038037).
 
-#### Background Check #### 
+#### Background Check 
 Only Required when working with minors
+
 1. See the Administrative Support Assistant in Room 140 Moore Building
 
-### Update IRB Protocol(s) ###
+### Update IRB Protocol(s) 
 1. *Lab Manager* modifies IRB research protocols to add staff.
 
-### Access to facilities ###
+### Access to facilities
 
-#### Chandlee ####
-Needed when collecting EEG or MRI data
-1. *New RA* completes a [Facility Access Authorization Request] (https://www.imaging.psu.edu/sites/sleic/files/SLEIC%20FAR%20Form%20Student%20-%20card%20swipe.pdf) and turns it in to the Lab Manager.
+#### Chandlee
+Needed when collecting EEG or MRI data  
 
-#### Moore ####
+1. *New RA* completes a [Facility Access Authorization Request](https://www.imaging.psu.edu/sites/sleic/files/SLEIC%20FAR%20Form%20Student%20-%20card%20swipe.pdf) and turns it in to the Lab Manager.
+
+#### Moore 
 1. *Lab Manager* provides the code to the lockbox outside of 503 Moore to the *New RAs* so they may access the lab space.
 
-### Create Lab Notebook ### - Do we still do this?
+<!-- ### Create Lab Notebook ### - Do we still do this? -->
 
-1. *New RA* creates lab folder notebook in Google docs. Format should be gilmore-lab-notebook-smith-joe ?????
+<!-- 1. *New RA* creates lab folder notebook in Google docs. Format should be gilmore-lab-notebook-smith-joe ????? -->
+<!-- 2. *New RA* shares lab notebook folder with psubrainlab@gmail.com, thatrickgilmore@gmail.com  ????? -->
 
-2. *New RA* shares lab notebook folder with psubrainlab@gmail.com, thatrickgilmore@gmail.com  ?????
-
-### EEG Net Application Training (optional) ###
+### EEG Net Application Training (optional)
 
 1. View the ‘Hydrocel GSN Application and Care Training Video’. This is a DVD located in 503 Moore.
 
@@ -150,7 +164,7 @@ Needed when collecting EEG or MRI data
 
 4. *Lab Manager* updates the file [Lab Training](https://psu.app.box.com/files/0/f/2115018490/1/f_25313038037).
 
-### MRI Training (optional) ###
+### MRI Training (optional) 
 
 1. Complete all 5 parts of the MRI Safety Training. Follow the instructions found on the [SLEIC MRI Safety Training website](https://www.imaging.psu.edu/for-investigators/3t-mri-facility/3t-mri-safety-training). 
 
