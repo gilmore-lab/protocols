@@ -3,10 +3,10 @@ protocols
 
 ## Lab protocols and procedures:
 
-- [R and RStudio set-up](r-rstudio-setup.html)
+- [R and RStudio set-up](https://gilmore-lab.github.io/protocols/r-rstudio-setup.html)
 
 - New Lab Members
-  - [Duties and Training](onboarding.html)  
+  - [Duties and Training](https://gilmore-lab.github.io/protocols/onboarding.html)  
 
 - Recruitment
 
