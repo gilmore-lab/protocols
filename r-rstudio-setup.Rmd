@@ -4,11 +4,12 @@
 
 1. If on campus, make sure you are on the `psu` network. 
 If you are off-campus, you must connect to PSU using a Virtual Private Network (VPN) client.
-Cisco AnyConnect is the recommended VPN client.
-If you do not have Cisco AnyConnect installed, visit <https://pennstate.service-now.com/sp?id=kb_article_view&sys_kb_id=ee330252db212788a318fb671d961981&sysparm_tsqueryId=5d397a69db1ea34497c9ffe61d961965&sysparm_rank=1> for installation instructions.
+Global Protect is the recommended VPN client.
+If you do not have Global Connect installed, visit here for [Windows](https://ithelp.ssri.psu.edu/penn-state-vpn) and [Mac](https://ithelp.ssri.psu.edu/penn-state-vpn-mac) installation instructions.
+
 1. Log on to PSU TLT's RStudio server instance using your PSU access ID (e.g., `rog1` and password):
 
-<https://lxclusterapps.tlt.psu.edu:8787/>
+<https://rstudio.tlt.psu.edu/auth-sign-in>
 
 This gives you a full R and RStudio environment in a web browser.
 You don't have to install R or RStudio.

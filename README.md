@@ -3,10 +3,10 @@ protocols
 
 ## Lab protocols and procedures:
 
-- [R and RStudio set-up](r-rstudio-setup.md)
+- [R and RStudio set-up](r-rstudio-setup.html)
 
 - New Lab Members
-  - [Duties and Training](onboarding.md) 
+  - [Duties and Training](onboarding.html)  
 
 - Recruitment
 

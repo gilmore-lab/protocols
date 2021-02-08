@@ -1,3 +1,10 @@
+---
+title: "Onboarding"
+author: "Andrea Seisler & Rick Gilmore"
+output: 
+  html_document
+---
+
 # Gilmore Lab
 
 ## On-boarding Process - New Staff
@@ -68,14 +75,33 @@ DataCamp used for R training programs
 2. *New RA* shares email address used to sign up for DataCamp psubrainlab@gmail.com  
 3. *Lab Manager* shares the email addresses for the semester with Dr. Gilmore so they may be added to the class.  
 
-<!-- #### Create ACI-ICS Account #### -->
-<!-- Account needed to access RStudio Online -->
-<!-- 1. *New RA* requests an account on [ACI-ICS](https://ics.psu.edu/advanced-cyberinfrastructure/accounts/) -->
-
 ### RStudio Online
 
-1. Log in to http://rstudio.aci.ics.psu.edu  
-2. Add directory /storage/home/rog1/rstudio. (How do we do this?)
+1. If you are using RStudio remotely (off campus) you need to install and connect to VPN **FIRST**.
+    - VPN installation and connection instructions for [Windows](https://ithelp.ssri.psu.edu/penn-state-vpn) and [Mac](https://ithelp.ssri.psu.edu/penn-state-vpn-mac)  
+  
+2. Log in to R Studio
+    - Go to: https://lat.tlt.psu.edu/home/remoteaccess/oss-web-apps/
+    
+    - Scroll down to the RStudio Server Section  
+    
+     ![R Studio Server Section](../protocols/imgs/RStudioServerInfo.JPG)  
+    - Click on **Login to RStudio**, the blue box on the Left.
+    
+    - Use your PSU Access Account Username and Password to sign in to RStudio.  
+     ![Sign In Page RStudio](../protocols/imgs/SignInRStudio.JPG)
+
+3. Access the Shared Space on R Studio  
+    - Go to the **File** menu and click on **Open Project**  
+    
+      ![Open Project](../protocols/imgs/ROpenProject.JPG)  
+    - Then you will see  
+    
+      ![My Projects](../protocols/imgs/RMyProjects.JPG)  
+    - Click on **Shared with Me**  
+    
+      ![Shared Projects](../protocols/imgs/RSharedProject.JPG)  
+    - Highlight the shared project you want to open and Click on **Open Project**  
 
 ### Sync RStudio On ACI and Github
 
