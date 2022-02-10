@@ -102,9 +102,9 @@ Renew every 3 years
 
 2. When completed, *New RA* sends completion certificate to the Lab email account, psubrainlab@gmail.com.
 
-3. *Lab Manager* uploads completion certificate to [Box-Citi-Training-Certificates](https://psu.app.box.com/files/0/f/2114534728/citi-training-certificates).
+3. *Lab Manager* uploads completion certificate to [OneDrive-Citi-Training-Certificates](https://pennstateoffice365.sharepoint.com/:f:/r/sites/b-gilmore-lab-group/Shared%20Documents/gilmore-lab/irb/citi-training-certificates?csf=1&web=1&e=RBNZCV).
 
-3. *Lab Manager* updates the file [Lab Training](https://psu.app.box.com/files/0/f/2115018490/1/f_25313038037).
+3. *Lab Manager* updates the file [Lab Training](https://pennstateoffice365.sharepoint.com/:f:/r/sites/b-gilmore-lab-group/Shared%20Documents/gilmore-lab/people/staff/training-certificates?csf=1&web=1&e=TtRakY).
 
 #### Building a Safe Penn State: Reporting Child Abuse
 Renew every calendar year
@@ -113,9 +113,9 @@ Renew every calendar year
 
 2. When completed, *New RA* sends training certificate to the Lab email account, psubrainlab@gmail.com.
 
-3. *Lab Manager* uploads completion certificate to [Box-Reporting-Child-Abuse-Certificates](https://psu.app.box.com/files/0/f/3062368383/training-certificates).
+3. *Lab Manager* uploads completion certificate to [OneDrive-Training-Certificates](https://pennstateoffice365.sharepoint.com/:f:/r/sites/b-gilmore-lab-group/Shared%20Documents/gilmore-lab/people/staff/training-certificates?csf=1&web=1&e=TtRakY).
 
-4. *Lab Manager* updates the file [Lab Training](https://psu.app.box.com/files/0/f/2115018490/1/f_25313038037).
+4. *Lab Manager* updates the file [Lab Training](https://pennstateoffice365.sharepoint.com/:f:/r/sites/b-gilmore-lab-group/Shared%20Documents/gilmore-lab/people/staff/training-certificates?csf=1&web=1&e=TtRakY).
 
 #### Clery Act Training 
 Renew every 365 days
@@ -124,9 +124,9 @@ Renew every 365 days
 
 2. When completed, *New RA* sends training certificate to the Lab email account, psubrainlab@gmail.com.
 
-3. *Lab Manager* uploads completion certificate to [Box-Clery-Act-Certificates](https://psu.app.box.com/files/0/f/3062368383/training-certificates).
+3. *Lab Manager* uploads completion certificate to [One-Drive-Training-Certificates](https://pennstateoffice365.sharepoint.com/:f:/r/sites/b-gilmore-lab-group/Shared%20Documents/gilmore-lab/people/staff/training-certificates?csf=1&web=1&e=TtRakY).
 
-4. *Lab Manager* updates the file [Lab Training](https://psu.app.box.com/files/0/f/2115018490/1/f_25313038037).
+4. *Lab Manager* updates the file [Lab Training](https://pennstateoffice365.sharepoint.com/:f:/r/sites/b-gilmore-lab-group/Shared%20Documents/gilmore-lab/people/staff/training-certificates?csf=1&web=1&e=TtRakY).
 
 #### Watch Epilepsy Video
 
