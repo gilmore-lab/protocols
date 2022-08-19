@@ -31,6 +31,19 @@ Type the following in to the Command line
 $ `git config --global user.email "user@psu.edu"`
 $ `git config --global user.name "First Last"`
 
+# Each person needs to have their own or project branch
+
+First request from the Lab Manager to create your own branch and provide the Name of the Branch (e.g. firstname_lastname).
+
+The lab manager will create this branch on the Github repository site.
+
+# Enter your branch into the repository in Rstudio.
+
+- Navigate to the Terminal Tab in R Studio
+Type the following in to the Command line
+
+$ `git branch -m <branchName>`
+
 
 # Create an Access Token in Git
 
