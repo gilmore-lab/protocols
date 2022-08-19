@@ -20,6 +20,31 @@
     
     - Use your PSU Access Account Username and Password to sign in to RStudio.  
      ![Sign In Page RStudio](../protocols/imgs/SignInRStudio.JPG)
+     
+## How to Connect Github and RStudio on the TLT Server using a GitHub Access Token
+
+# Create an Access Token in Git
+
+Follow the [Create a Personal Access Token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) instructions.
+
+Be sure to copy this token into a safe place. If it is lost, one must be re-created.
+
+# Clone a Git Repository to RSTudio on TLT Server.
+
+- Navigate to the GitHub project page (e.g. https://github.com/gilmore-lab/student-testbed)
+- Press the button  `Code`
+- Copy the HTTPS link of the project by clicking the little icon to the right of the URL. The link will be something like https://github.com/gilmore-lab/student-testbed.git
+
+![Clone with HTTPS](../protocols/imgs/GitHub-copy-repo-https.png)  
+
+Copy this to another blank page. This will need to be altered to the following:
+`https://oath2:<PersonalAccessToken>@github.com/<repository>/<project>`
+
+The `Personal Access Token` created in Git will be used in the above location.
+`https://oath2:<PersonalAccessToken>@github.com/gilmore-lab/student
+
+
+
 
 3. Access the Shared Space on R Studio  
     - Go to the **File** menu and click on **Open Project**  
