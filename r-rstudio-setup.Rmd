@@ -23,6 +23,15 @@
      
 ## How to Connect Github and RStudio on the TLT Server using a GitHub Access Token
 
+# enter your email (used to log into R Studio) and username into RStudio
+
+- Navigate to the Terminal Tab in R Studio
+Type the following in to the Command line
+
+$ `git config --global user.email "user@psu.edu"`
+$ `git config --global user.name "First Last"`
+
+
 # Create an Access Token in Git
 
 Follow the [Create a Personal Access Token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) instructions.
@@ -42,6 +51,7 @@ Copy this to another blank page. This will need to be altered to the following:
 
 The `Personal Access Token` created in Git will be used in the above location.
 `https://oath2:<PersonalAccessToken>@github.com/gilmore-lab/student
+
 
 
 
