@@ -31,6 +31,19 @@ Type the following in to the Command line
 $ `git config --global user.email "user@psu.edu"`
 $ `git config --global user.name "First Last"`
 
+# Each person needs to have their own or project branch
+
+First request from the Lab Manager to create your own branch and provide the Name of the Branch (e.g. firstname_lastname).
+
+The lab manager will create this branch on the Github repository site.
+
+# Enter your branch into the repository in Rstudio.
+
+- Navigate to the Terminal Tab in R Studio
+Type the following in to the Command line
+
+$ `git branch -m <branchName>`
+
 
 # Create an Access Token in Git
 
@@ -53,8 +66,11 @@ The `Personal Access Token` created in Git will be used in the above location.
 `https://oath2:<PersonalAccessToken>@github.com/gilmore-lab/student
 
 
+# Make changes to branch on repository. 
 
+- Ensure the branch name is listed in the Git window in R
 
+![Git Window in R](../protocols/imgs/Git-Window-R.png)  
 
 3. Access the Shared Space on R Studio  
     - Go to the **File** menu and click on **Open Project**  
