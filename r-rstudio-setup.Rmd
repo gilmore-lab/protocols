@@ -13,14 +13,15 @@
     
     - Scroll down to the RStudio Server Section  
     
-     ![R Studio Server Section](../protocols/imgs/RStudioServerInfo.JPG)  
-    - Click on **Login to RStudio**, the blue box on the Left.
+     ![R Studio Server Section](../protocols/imgs/RStudio-ServerInfo.png)  
+    - Click on the blue box **Login to RStudio**
     
     * This link: https://rstudio.tlt.psu.edu/s/af233cfc78a318b9e0671/auth-sign-in may work instead of the above steps  
     
     - Use your PSU Access Account Username and Password to sign in to RStudio.  
      ![Sign In Page RStudio](../protocols/imgs/SignInRStudio.JPG)
      
+
 ## How to Connect Github and RStudio on the TLT Server using a GitHub Access Token
 
 # enter your email (used to log into R Studio) and username into RStudio
@@ -43,7 +44,6 @@ The lab manager will create this branch on the Github repository site.
 Type the following in to the Command line
 
 $ `git branch -m <branchName>`
-
 
 # Create an Access Token in Git
 
@@ -72,7 +72,17 @@ The `Personal Access Token` created in Git will be used in the above location.
 
 ![Git Window in R](../protocols/imgs/Git-Window-R.png)  
 
-3. Access the Shared Space on R Studio  
+Always run 'Git Pull' before changes are made
+commit changes
+Run 'Git Push' to Your Branch on Github.
+
+Go to github.com/gilmorelab/<repository name> and create a Pull request.
+
+Notify the lab manager that a pull request is available on GitHub for <repository name>
+
+
+
+## How to  Access the Shared Space on R Studio  
     - Go to the **File** menu and click on **Open Project**  
     
       ![Open Project](../protocols/imgs/ROpenProject.JPG)  
