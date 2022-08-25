@@ -1,0 +1,53 @@
+---
+title: "Psych_494_Syllabus"
+author: "Andrea Seisler & Rick Gilmore"
+date: "`r Sys.time()`"
+output: html_document
+---
+# Brain and  Behavioral Development Lab
+
+## Meetings
+
+We will meet on **Thursday** mornings from **8-8:50am** in person in room 127 Moore or by Zoom. Details will be provided as to which location at least 24 hours before the next meeting time.
+
+## Expectations
+
+- Attend all meetings.
+- If a meeting will be missed, notify the lab manager PRIOR to missing the meeting.
+- Check out the Lab Website to see what was missed.
+
+
+
+## Required Training
+
+- CITI
+- 
+
+
+## Software we will use and/or learn
+
+- Learn R Markdown. Here is my favorite [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) but you will find plenty if you look.
+- Use [Discord](https://discord.com/) for team communication
+- Learn R on [Datacamp](https://www.datacamp.com/)
+- 
+
+## Contact Information
+
+Dr. Rick Gilmore
+114 Moore Building
+Department of Psychology
+The Pennsylvania State University
+University Park, PA 16801
+814-865-3664, voice
+814-863-7002, fax
+rogilmore AT-SIGN psu DOT edu
+
+Andrea Seisler
+Lab Manager
+503 Moore Building or Remote
+Department of Psychology
+The Pennsylvania State University
+University Park, PA 16802
+ars17 AT-SIGN psu DOT edu
+
+
