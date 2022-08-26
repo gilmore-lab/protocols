@@ -12,24 +12,36 @@ We will meet on **Thursday** mornings from **8-8:50am** in person in room 127 Mo
 
 ## Expectations
 
-- Attend all meetings.
-- If a meeting will be missed, notify the lab manager PRIOR to missing the meeting.
-- Check out the Lab Website to see what was missed.
+- Attend and Participate in all meetings
+- If a meeting will be missed, notify the lab manager PRIOR to missing the meeting by Discord or email
+- Check out the meeting minutes on the [Lab Website](https://gilmore-lab.github.io/lab-meetings.html) to see what was missed.
+- Come prepared for the meeting by completing any homework assigments.
 
 
 
 ## Required Training
 
-- CITI
-- 
+- [CITI Training](https://citi.psu.edu/)
+- 2022 Annual Compliance Training
+- Understanding Title IX at Penn State
+- Building a Safe Penn State: Reporting Child Abuse
+- Clery Act Training
 
+## Accounts needed
 
-## Software we will use and/or learn
+Account creation requests will be sent out with instructions via Asana.
+
+- Use [Asana](https://app.asana.com/) for task assignment
+- Use [Discord](https://discord.com/) for team communication
+- Use [Git Hub](https://github.com/) for collaboration and version control
+- Use [Datacamp](https://www.datacamp.com/) to learn R
+- Use [R Studio on the TLT Server](https://lat.tlt.psu.edu/home/remoteaccess/oss-web-apps/)
+
+## Frequenly Used Resources
 
 - Learn R Markdown. Here is my favorite [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) but you will find plenty if you look.
-- Use [Discord](https://discord.com/) for team communication
-- Learn R on [Datacamp](https://www.datacamp.com/)
-- 
+
+
 
 ## Contact Information
 
