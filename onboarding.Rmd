@@ -27,15 +27,6 @@ Asana is used for task management
 
 3. *Lab manager* adds new members to Gimore Lab Tasks.
 
-<!-- #### Create PSU Box Account #### -->
-<!-- Box used to store data which may contain PII -->
-<!-- -->
-<!-- 1. *New RA* creates an account on [PSU Box](http://box.psu.edu/) -->
-<!-- -->
-<!-- 2. *Lab Manager* adds the New RA to the Gilmore-Lab folder on Box using the PSU access ID (abc123) -->
-<!-- -->
-<!-- 3. *New RA* adds contact information to [Box-gilmore-lab-staff-contact-list](https://psu.app.box.com/files/0/f/2115018490/staff)  -->
-
 #### Create GitHub Account 
 GitHub used to store and update documents
 
@@ -80,10 +71,11 @@ DataCamp used for R training programs
 1. *New RA* log into [RStudio](https://rstudio.tlt.psu.edu/s/af233cfc78a318b9e0671/auth-sign-in) 
 2. *New RA* Ensures that they can accss the Shared Projects
 
-### Sync RStudio On ACI and Github
+### Sync RStudio On TLT and Github
 
--Write Instructions!
+[Instrcutions Specific to Gilmore Lab](../protocols/r-rstudio-setup.html)
 
+[PSU Teaching and Learning Technology (TLT) Server Options](https://lat.tlt.psu.edu/home/remoteaccess/oss-web-apps/)
 [Happy Git and GitHub for the useR](http://happygitwithr.com/)  
 [Version Control with Git and RStudio](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN)  
 [Create SSH RSH Key](https://www.r-bloggers.com/rstudio-and-github/)  
