@@ -73,7 +73,7 @@ DataCamp used for R training programs
 
 ### Sync RStudio On TLT and Github
 
-[Instrcutions Specific to Gilmore Lab](../protocols/r-rstudio-setup.html)
+[Instrcutions Specific to Gilmore Lab](r-rstudio-setup.html)
 
 [PSU Teaching and Learning Technology (TLT) Server Options](https://lat.tlt.psu.edu/home/remoteaccess/oss-web-apps/)
 [Happy Git and GitHub for the useR](http://happygitwithr.com/)  
