@@ -47,6 +47,7 @@ $ `git branch -m <branchName>`
 
 #### Create an Access Token in Git
 
+
   - Follow the [Create a Personal Access Token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) instructions. 
 
   - Be sure to copy this token into a safe place. If it is lost, one must be re-created. 
@@ -77,9 +78,11 @@ $ `git branch -m <branchName>`
 
   - Go to `github.com/gilmorelab/<repository name>` and create a Pull request 
 
+
 - Notify the lab manager that a pull request is available on GitHub for `<repository name>` 
 
 ### How to  Access the Shared Space on R Studio  
+
 - Go to the **File** menu and click on **Open Project**  
  
   ![Open Project](../protocols/imgs/ROpenProject.JPG){ width=50% }  
