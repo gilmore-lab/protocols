@@ -6,6 +6,8 @@ output: html_document
 ---
 # Brain and  Behavioral Development Lab
 
+![Gilmore Lab Logo](../protocols/imgs/GilmoreLabLogo.png)  
+
 ## Meetings
 
 We will meet on **Thursday** mornings from **8-8:50am** in person in room 127 Moore or by Zoom. Details will be provided as to which location at least 24 hours before the next meeting time.
@@ -26,6 +28,7 @@ We will meet on **Thursday** mornings from **8-8:50am** in person in room 127 Mo
 - Understanding Title IX at Penn State
 - Building a Safe Penn State: Reporting Child Abuse
 - Clery Act Training
+- Background Check (only if collecting data on minors)
 
 ## Accounts needed
 
@@ -40,7 +43,6 @@ Account creation requests will be sent out with instructions via Asana.
 ## Frequenly Used Resources
 
 - Learn R Markdown. Here is my favorite [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) but you will find plenty if you look.
-
 
 
 ## Contact Information
