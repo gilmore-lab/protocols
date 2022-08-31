@@ -47,9 +47,9 @@ $ `git branch -m <branchName>`
 
 #### Create an Access Token in Git
 
-Follow the [Create a Personal Access Token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) instructions.
+- Follow the [Create a Personal Access Token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) instructions.
 
-Be sure to copy this token into a safe place. If it is lost, one must be re-created.
+- Be sure to copy this token into a safe place. If it is lost, one must be re-created.
 
 #### Clone a Git Repository to RSTudio on TLT Server.
 
@@ -57,42 +57,35 @@ Be sure to copy this token into a safe place. If it is lost, one must be re-crea
 - Press the button  `Code`
 - Copy the HTTPS link of the project by clicking the little icon to the right of the URL. The link will be something like https://github.com/gilmore-lab/student-testbed.git
 
-![Clone with HTTPS](../protocols/imgs/GitHub-copy-repo-https.png)  
+![Clone with HTTPS](../protocols/imgs/GitHub-copy-repo-https.png)
+- Copy this to another blank page. This will need to be altered to the following:
+`https://oath2:<PersonalAccessToken>@github.com/<repository>/<project>` 
 
-Copy this to another blank page. This will need to be altered to the following:
-`https://oath2:<PersonalAccessToken>@github.com/<repository>/<project>`
-
-The `Personal Access Token` created in Git will be used in the above location.
-`https://oath2:<PersonalAccessToken>@github.com/gilmore-lab/student
-
+- The `Personal Access Token` created in Git will be used in the above location.
+`https://oath2:<PersonalAccessToken>@github.com/gilmore-lab/student` 
 
 #### Make changes to branch on repository. 
 
-- Ensure the branch name is listed in the Git window in R
+- Ensure the branch name is listed in the Git window in R 
 
-![Git Window in R](../protocols/imgs/Git-Window-R.png)  
+![Git Window in R](../protocols/imgs/Git-Window-R.png) 
+- Always run 'Git Pull' before changes are made 
+- Make Changes to File 
+- Commit changes 
+- Run 'Git Push' to Your Branch on Github 
 
-Always run 'Git Pull' before changes are made
-commit changes
-Run 'Git Push' to Your Branch on Github.
+- Go to `github.com/gilmorelab/<repository name>` and create a Pull request 
 
-Go to github.com/gilmorelab/<repository name> and create a Pull request.
-
-Notify the lab manager that a pull request is available on GitHub for <repository name>
-
-
+- Notify the lab manager that a pull request is available on GitHub for `<repository name>` 
 
 ### How to  Access the Shared Space on R Studio  
-    - Go to the **File** menu and click on **Open Project**  
-    
-      ![Open Project](../protocols/imgs/ROpenProject.JPG)  
-    - Then you will see  
-    
-      ![My Projects](../protocols/imgs/RMyProjects.JPG)  
-    - Click on **Shared with Me**  
-    
-      ![Shared Projects](../protocols/imgs/RSharedProject.JPG)  
-    - Highlight the shared project you want to open and Click on **Open Project**  
+- Go to the **File** menu and click on **Open Project** 
+![Open Project](../protocols/imgs/ROpenProject.JPG) 
+- Then you will see  
+![My Projects](../protocols/imgs/RMyProjects.JPG) 
+- Click on **Shared with Me** 
+![Shared Projects](../protocols/imgs/RSharedProject.JPG) 
+- Highlight the shared project you want to open and Click on **Open Project**  
 
 ### Configure RStudio for `git` integration
 
