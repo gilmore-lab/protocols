@@ -4,7 +4,7 @@ author: "Andrea Seisler & Rick Gilmore"
 date: "`r Sys.time()`"
 output: html_document
 ---
-# Brain and  Behavioral Development Lab
+# Brain and  Behavioral Dynamics Lab
 
 ![Gilmore Lab Logo](../protocols/imgs/GilmoreLabLogo.png)  
 
@@ -40,7 +40,7 @@ Account creation requests will be sent out with instructions via Asana.
 - Use [Datacamp](https://www.datacamp.com/) to learn R
 - Use [R Studio on the TLT Server](https://lat.tlt.psu.edu/home/remoteaccess/oss-web-apps/)
 
-## Frequenly Used Resources
+## Frequently Used Resources
 
 - Learn R Markdown. Here is my favorite [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) but you will find plenty if you look.
 
@@ -51,7 +51,7 @@ Dr. Rick Gilmore
 114 Moore Building
 Department of Psychology
 The Pennsylvania State University
-University Park, PA 16801
+University Park, PA 16802
 814-865-3664, voice
 814-863-7002, fax
 rogilmore AT-SIGN psu DOT edu
