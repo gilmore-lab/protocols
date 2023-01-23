@@ -22,6 +22,7 @@ Dear [Dr. Gilmore],
 Please request that [Student Name] and myself be added as a researcher to SONA.
 
 Email: psychsonaupwc@psu.edu
+CC: [lab manager][student][any other PI on study]
 
 Dear Subject Pool Administrator,
 
@@ -82,14 +83,52 @@ Go to: https://pennstate.sona-systems.com/
   ![SONA Log in](imgs/sona-login.png)
   ![Select Role](imgs/sona-role.png)
 
-  
+## How to create a study in SONA
 
 
+----more here----
 
 
+## Wait for researcher approval in SONA
 
-## Wait for approval
+The PI (and maybe the lab manager and researcher) will receive a return email when the researchers are added to SONA
+
+## Add researcher to study in SONA
 
 Once the PI, Graduate student and lab manager are added to SONA, the lab manager needs to add the graduate student to the study.
 
+To do this complete the following steps:
 
+ - Lab manager logs into to SONA
+ - Select *View and edit your studies*
+  ![My Studies](imgs/sona-mystudies.png)
+
+ - Select *Study Info* 
+  ![Study Info](imgs/sona-studyinfo.png)
+  
+  - Select *Study Menu* then *Change Study Info*
+ 
+![Study Menu](imgs/sona-studymenu-change.png)
+
+- Scroll down to view the *Researcher* section in *Basic Study Information*
+- Select researcher from the box
+
+![Add Researcher](imgs/sona-add-researcher.png)
+
+- Lab manager then emails the student to let them know they have been added to the study in SONA.
+
+## Add timeslots to study in SONA
+
+
+The researcher adds timeslots for the study
+
+- Log in as Researcher
+
+- Choose *View, add or edit timeslots*
+ ![My Studies](imgs/sona-mystudies.png)
+
+- Select *Timeslots*
+![Timeslots](imgs/sona-timeslots.png)
+- On the add timeslots page there are options to add a single timeslot or multiple timeslots
+
+![Add timeslots](imgs/sona-add-timeslot.png)
