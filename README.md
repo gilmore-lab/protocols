@@ -1,6 +1,8 @@
 protocols
 =========
 
+**This is the new 'bookdown' branch of the repository.**
+
 ## Lab protocols and procedures:
 
 - test change
