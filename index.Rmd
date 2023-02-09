@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "Gilmore Lab Master Protocols"
 author: "Rick Gilmore"
 date: "`r Sys.Date()`"
 output: html_document

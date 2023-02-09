@@ -3,6 +3,16 @@ protocols
 
 **This is the new 'bookdown' branch of the repository.**
 
+## Contents
+
+## How to use
+
+- Clone the repository to your local machine.
+- From the RStudio (or R) console, run `bookdown::render_book()`.
+- The rendered website will be available in `docs/`.
+
+----
+
 ## Lab protocols and procedures:
 
 - test change
