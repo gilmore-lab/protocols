@@ -3,7 +3,7 @@ bookdown::bs4_book:
   theme:
     primary: "#096B72"
   repo:
-    base: https://github.com/gilmore-lab/databrary-analytics
+    base: https://github.com/gilmore-lab/protocols
     branch: main
 
 bookdown::gitbook:
@@ -11,7 +11,7 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">Databrary Analytics</a></li>
+        <li><a href="./">Gilmore Lab Protocols</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     edit: https://github.com/USERNAME/REPO/edit/main/%s

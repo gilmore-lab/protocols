@@ -1,9 +1,14 @@
 protocols
 =========
 
-**This is the new 'bookdown' branch of the repository.**
-
 ## Contents
+
+- `*.Rmd` source files for protocol
+- `docs/`: output from bookdown render (HTML site).
+- `imgs/`: image resources.
+- `pdf/`: PDF files.
+- `rmd/`: Archival files from old site.
+- `*.yml`: YAML parameter files for bookdown.
 
 ## How to use
 
