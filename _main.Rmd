@@ -34,3 +34,31 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+<!--chapter:end:index.Rmd-->
+
+# Section 1
+
+## Some content
+
+
+<!--chapter:end:01-section.Rmd-->
+
+# Section 2
+
+## Some other content
+
+<!--chapter:end:02-section.Rmd-->
+
+# Trainings
+
+## IRB training
+
+## Other PSU-required trainings
+
+
+
+
+
+<!--chapter:end:03-training.Rmd-->
+
