@@ -1,5 +1,6 @@
 protocols
 =========
+These files are rendered the gilmore lab research protocol.
 
 ## Contents
 
