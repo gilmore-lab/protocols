@@ -4,6 +4,33 @@
 
 ## Other PSU-required trainings
 
+### Annual Compliance Training {-}
 
+This training has to be completed every 365 Days.  
 
+Employees and anyone with an active Penn State Access Account (WebAccess) should access the training through http://lrn.psu.edu/.  
 
+#### Login with PSU Access Account {-}
+
+- Click the box `Faculty, Staff & Part time`  
+- Then `Login with Access Account`   
+
+- In the Search box, type `Annual Compliance Training`
+- Choose `2022 Annual Compliance Training`
+
+#### Login with a LRN Account {-}
+
+If you have difficulty logging in go to: http://lrn.psu.edu/  
+
+- Select `Volunteer/Non-Paid Student/Other`  
+- Click the box `Volunteer/Student/Other Create LRN Account`  
+- Supervisory Organization: Choose `Affiliate PENN STATE STUDENT`  
+- Location: Choose `Penn State University Park`  
+- Position Type: `Student`  
+- Enter your password  
+- Click the `I'm not a robot` box  
+- Click the `Log In` box  
+
+Keep this login information. You will need it to complete these trainings every calendar year.
+
+Email your training certificate to the [lab email](mailto:psubrainlab@gmail.com) once this is complete.
