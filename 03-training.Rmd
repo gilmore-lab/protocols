@@ -2,13 +2,40 @@
 
 ## IRB training
 
+### CITI Training {-}
+
+For Access, go to [CITI training](http://citi.psu.edu/)
+Expiration: every 3 years
+
+- Choose the `University Park, Commonwealth, and other non-Hershey personnel` option  
+- Click `LOG IN TO CITI`  
+
+Login = PSU Access ID  
+
+Click `View Courses` next to **Pennsylvania State University**  
+
+#### If you have never taken an IRB course before {-}
+
+- Under the **Learner Tools for Pennsylvania State University** click `Add a course`  
+- choose `Institutional Review Board (IRB) training for human subjects research` then `Next`  
+- choose `NO, I have Not completed the Human Subjects Research (IRB) Course through CITI. I need to complete the Human Subjects Research (IRB) Course` then `Next`  
+- choose `Social Science Research` then `Next`  
+- choose `Research with Children` then `Next`  
+
+Take the 'Social and Behavioral Human Subjects Research (IRB) Course'.  
+
+Email your training certificate to the [lab email](mailto:psubrainlab@gmail.com) once this is complete.  
+
+If you have completed this training previously, please email your training certificate.  
+
+#### If you are taking a renewal IRB course {-}
+
 ## Other PSU-required trainings
 
 ### Annual Compliance Training {-}
 
-This training has to be completed every 365 Days.  
-
-Employees and anyone with an active Penn State Access Account (WebAccess) should access the training through http://lrn.psu.edu/.  
+For Access go to the [Learning Resource Network](http://lrn.psu.edu/)   
+Expiration: Every 365 Days  
 
 #### Login with PSU Access Account {-}
 
@@ -34,3 +61,4 @@ If you have difficulty logging in go to: http://lrn.psu.edu/
 Keep this login information. You will need it to complete these trainings every calendar year.
 
 Email your training certificate to the [lab email](mailto:psubrainlab@gmail.com) once this is complete.
+
