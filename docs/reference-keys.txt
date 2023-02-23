@@ -1,6 +1,5 @@
 about
-r-markdown
-including-plots
+the-authors
 section-1
 some-content
 section-2
