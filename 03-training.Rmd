@@ -17,6 +17,10 @@ For Access, go to [CITI training](http://citi.psu.edu/).
 
 Expiration: every 3 years.
 
+```{r, echo=FALSE}
+knitr::include_graphics("imgs/")
+```
+
 - Choose the `University Park, Commonwealth, and other non-Hershey personnel` option  
 - Click `LOG IN TO CITI`  
 

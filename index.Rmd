@@ -7,6 +7,10 @@ output: html_document
 
 # About
 
+```{r, fig.align='center', echo=FALSE, out.width="50%"}
+knitr::include_graphics("imgs/GilmoreLabLogo.png")
+```
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
