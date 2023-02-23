@@ -1,0 +1,22 @@
+# Onboarding
+
+The lab uses a number of tools.
+This section describes them.
+
+## Asana {-}
+
+## Discord
+
+## DataCamp
+
+## Google Calendar
+
+## GitHub
+
+## RStudio
+
+### On your PC
+
+### On the web
+
+

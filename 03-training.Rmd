@@ -2,10 +2,20 @@
 
 ## IRB training
 
+At Penn State, research is governed by an [Institutional Review Board (IRB)](https://www.research.psu.edu/irb).
+
+All faculty, staff, and students who conduct research need to undergo training from the IRB.
+There are different training programs for different types of research, e.g., research with human participants or with non-human animals.
+
+In this lab, all students and staff must complete training in the ethics of conducting research with human participants.
+
 ### CITI Training {-}
 
-For Access, go to [CITI training](http://citi.psu.edu/)
-Expiration: every 3 years
+The [Collaborative Institutional Training Initiative (CITI Program)](https://about.citiprogram.org) provides training modules for researchers.
+
+For Access, go to [CITI training](http://citi.psu.edu/).
+
+Expiration: every 3 years.
 
 - Choose the `University Park, Commonwealth, and other non-Hershey personnel` option  
 - Click `LOG IN TO CITI`  
@@ -35,6 +45,7 @@ If you have completed this training previously, please email your training certi
 ### Annual Compliance Training {-}
 
 For Access go to the [Learning Resource Network](http://lrn.psu.edu/)   
+
 Expiration: Every 365 Days  
 
 #### Login with PSU Access Account {-}
@@ -47,10 +58,11 @@ Expiration: Every 365 Days
 
 #### Login with a LRN Account {-}
 
-If you have difficulty logging in go to: http://lrn.psu.edu/  
+If you have difficulty logging in go to: http://lrn.psu.edu/
 
 - Select `Volunteer/Non-Paid Student/Other`  
-- Click the box `Volunteer/Student/Other Create LRN Account`  
+- Click the box `Volunteer/Student/Other Create LRN Account`
+
 - Supervisory Organization: Choose `Affiliate PENN STATE STUDENT`  
 - Location: Choose `Penn State University Park`  
 - Position Type: `Student`  
