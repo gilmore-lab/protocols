@@ -16,9 +16,14 @@ github
 rstudio
 on-your-pc
 on-the-web
+connect-rstudio-to-gitgithub
+download-r
+download-r-studio
+download-git
 trainings
 irb-training
 other-psu-required-trainings
 workflow
 rmarkdown-conventions
 bookdown
+knitr
