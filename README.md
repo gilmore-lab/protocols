@@ -1,6 +1,25 @@
 protocols
 =========
 
+These files are rendered the gilmore lab research protocol.
+
+## Contents
+
+- `*.Rmd` source files for protocol
+- `docs/`: output from bookdown render (HTML site).
+- `imgs/`: image resources.
+- `pdf/`: PDF files.
+- `rmd/`: Archival files from old site.
+- `*.yml`: YAML parameter files for bookdown.
+
+## How to use
+
+- Clone the repository to your local machine.
+- From the RStudio (or R) console, run `bookdown::render_book()`.
+- The rendered website will be available in `docs/`.
+
+----
+
 ## Lab protocols and procedures:
 
 - test change

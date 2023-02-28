@@ -1,0 +1,10 @@
+# Workflow
+
+## Rmarkdown conventions
+
+### `bookdown`
+
+- To omit the automatic numbering, add ` {-}` to the end of the line for each header--e.g., lines that start with one or more hash `#` characters.
+
+
+## `knitr`

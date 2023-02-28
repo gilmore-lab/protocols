@@ -1,0 +1,40 @@
+# Onboarding
+
+The lab uses a number of tools.
+This section describes them.
+
+## Asana {-}
+
+## Discord
+
+## DataCamp
+
+## Google Calendar
+
+## GitHub
+
+## RStudio
+
+### On your PC
+
+### On the web
+
+## Connect RStudio to Git/GitHub
+
+[HappyGit and GitHub for the useR](https://happygitwithr.com/index.html) is the BEST instruction manual with ALL of the nitty gritty details! However I am going to provide a short version with some more screenshots here.
+
+The general steps are:
+- download R
+- download RStudio
+- download Git
+- connect RStudio and Git/GitHub
+
+### Download R
+
+```{r, out.width="100%", echo=FALSE}
+knitr::include_graphics("imgs/R-RStudio-install.png")
+```
+
+### Download R Studio
+
+### Download Git
