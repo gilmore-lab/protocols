@@ -25,6 +25,6 @@ It is revised and updated often.
 
 *Rick Gilmore* is Professor of Psychology at Penn State. He directs the lab.
 
-*Andrea Seisler* is the lab manager. She also serves as the Authorizations Support Specialist for [Databrary](https://databrary.org). Andrea compiled much of the information in the first version of this protocol document.
+*Andrea Seisler* is the lab manager. She also serves as the Authorizations and Support Specialist for [Databrary](https://databrary.org). Andrea compiled much of the information in the first version of this protocol document.
 
 
