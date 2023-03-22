@@ -34,3 +34,5 @@ workflow
 rmarkdown-conventions
 bookdown
 knitr
+how-to-insert-an-image
+r-echotrue-out.width100-knitrinclude_graphicsimgsgilmorelablogo.png
