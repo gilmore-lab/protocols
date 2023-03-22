@@ -93,7 +93,7 @@ It is revised and updated often.</p>
 <div id="the-authors" class="section level2" number="1.1">
 <h2><span class="header-section-number">1.1</span> The authors</h2>
 <p><em>Rick Gilmore</em> is Professor of Psychology at Penn State. He directs the lab.</p>
-<p><em>Andrea Seisler</em> is the lab manager. She also serves as the Authorizations Support Specialist for <a href="https://databrary.org">Databrary</a>. Andrea compiled much of the information in the first version of this protocol document.</p>
+<p><em>Andrea Seisler</em> is the lab manager. She also serves as the Authorizations and Support Specialist for <a href="https://databrary.org">Databrary</a>. Andrea compiled much of the information in the first version of this protocol document.</p>
 <!--chapter:end:index.Rmd-->
 </div>
 </div>
@@ -148,11 +148,8 @@ This section describes them.</p>
 </div>
 <div id="rstudio" class="section level2" number="3.5">
 <h2><span class="header-section-number">3.5</span> RStudio</h2>
-<div id="on-your-pc" class="section level3" number="3.5.1">
-<h3><span class="header-section-number">3.5.1</span> On your PC</h3>
-</div>
-<div id="on-the-web" class="section level3" number="3.5.2">
-<h3><span class="header-section-number">3.5.2</span> On the web</h3>
+<div id="on-the-web" class="section level3" number="3.5.1">
+<h3><span class="header-section-number">3.5.1</span> On the web</h3>
 </div>
 </div>
 <div id="connect-rstudio-to-gitgithub" class="section level2" number="3.6">
@@ -163,17 +160,60 @@ This section describes them.</p>
 - download RStudio
 - download Git
 - connect RStudio and Git/GitHub</p>
-<div id="download-r" class="section level3" number="3.6.1">
-<h3><span class="header-section-number">3.6.1</span> Download R</h3>
+</div>
+<div id="mac" class="section level2" number="3.7">
+<h2><span class="header-section-number">3.7</span> Mac</h2>
+<div id="download-r" class="section level3" number="3.7.1">
+<h3><span class="header-section-number">3.7.1</span> Download R</h3>
 <p><img src="imgs/R-RStudio-install.png" width="100%" /></p>
 </div>
-<div id="download-r-studio" class="section level3" number="3.6.2">
-<h3><span class="header-section-number">3.6.2</span> Download R Studio</h3>
+<div id="download-r-studio" class="section level3" number="3.7.2">
+<h3><span class="header-section-number">3.7.2</span> Download R Studio</h3>
 </div>
-<div id="download-git" class="section level3" number="3.6.3">
-<h3><span class="header-section-number">3.6.3</span> Download Git</h3>
-
+<div id="download-git" class="section level3" number="3.7.3">
+<h3><span class="header-section-number">3.7.3</span> Download Git</h3>
+</div>
+</div>
+<div id="windows" class="section level2" number="3.8">
+<h2><span class="header-section-number">3.8</span> Windows</h2>
+<div id="download-r-1" class="section level3" number="3.8.1">
+<h3><span class="header-section-number">3.8.1</span> Download R</h3>
+<p>Go to <a href="https://posit.co/download/rstudio-desktop/" class="uri">https://posit.co/download/rstudio-desktop/</a></p>
+<p>Click the button for <code>DOWNLOAD AND INSTALL R</code></p>
+<p>This should take you to <a href="https://cloud.r-project.org/" class="uri">https://cloud.r-project.org/</a></p>
+<p>Click on the link <code>Download R for Windows</code></p>
+<p><img src="imgs/RforWindows.jpg" width="100%" /></p>
+<p>Click on the link <code>install R for the first time</code></p>
+<p><img src="imgs/R-RStudio-install.png" width="100%" /></p>
+<p>Click on the link <code>Download R-4.2.3 for Windows</code> (or whatever is the most recent version of R listed)</p>
+<p><img src="imgs/RdownloadWin.jpg" width="100%" /></p>
+<p>Then open the downloaded .exe file to install</p>
+<p><img src="imgs/InstallVerR.jpg" width="100%" /></p>
+<p>Choose <code>Next</code> to install into the default folder</p>
+<p><img src="imgs/InstallR1.jpg" width="100%" /></p>
+</div>
+<div id="download-r-studio-1" class="section level3" number="3.8.2">
+<h3><span class="header-section-number">3.8.2</span> Download R Studio</h3>
+<p>Go to <a href="https://posit.co/download/rstudio-desktop/" class="uri">https://posit.co/download/rstudio-desktop/</a></p>
+<p>Click the button for <code>DOWNLOAD RSTUDIO DESKTOP FOR WINDOWS</code>
+(I think this button changes based upon the computer you are on - check on Mac)</p>
+<p>Click on the downloaded .exe file to begin installing RStudio</p>
+<p>(I don’t have screenshots of this process for windows)</p>
+</div>
+<div id="download-git-1" class="section level3" number="3.8.3">
+<h3><span class="header-section-number">3.8.3</span> Download Git</h3>
+<p>There are 15 different screens during the installation process for Windows.</p>
+</div>
+<div id="connect-rstudio-and-github" class="section level3" number="3.8.4">
+<h3><span class="header-section-number">3.8.4</span> Connect RStudio and GitHub</h3>
+</div>
+<div id="specific-to-repository-httpsgithub.comgilmore-labprotocols" class="section level3" number="3.8.5">
+<h3><span class="header-section-number">3.8.5</span> Specific to repository: <a href="https://github.com/gilmore-lab/protocols" class="uri">https://github.com/gilmore-lab/protocols</a></h3>
+<div id="install-required-packages-for-this-repository-by-running" class="section level4" number="3.8.5.1">
+<h4><span class="header-section-number">3.8.5.1</span> Install required Packages for this repository by running</h4>
+<p>install.packages(c(“rmarkdown”, “knitr”, “bookdown”, “downlit”, “xml2”))</p>
 <!--chapter:end:02-onboarding.Rmd-->
+</div>
 </div>
 </div>
 </div>
@@ -279,6 +319,11 @@ There are different training programs for different types of research, e.g., res
 </div>
 <div id="knitr" class="section level2" number="5.2">
 <h2><span class="header-section-number">5.2</span> <code>knitr</code></h2>
+</div>
+<div id="how-to-insert-an-image" class="section level2" number="5.3">
+<h2><span class="header-section-number">5.3</span> How to insert an image</h2>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">&quot;imgs/GilmoreLabLogo.png&quot;</span>)</span></code></pre></div>
+<p><img src="imgs/GilmoreLabLogo.png" width="100%" /></p>
 <!--chapter:end:10-workflow.Rmd-->
 </div>
 </div>

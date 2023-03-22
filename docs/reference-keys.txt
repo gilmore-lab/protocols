@@ -34,3 +34,4 @@ workflow
 rmarkdown-conventions
 bookdown
 knitr
+how-to-insert-an-image

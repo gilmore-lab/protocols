@@ -8,3 +8,9 @@
 
 
 ## `knitr`
+
+## How to insert an image
+
+```{r echo=TRUE, out.width="100%"}
+knitr::include_graphics("imgs/GilmoreLabLogo.png")
+```
