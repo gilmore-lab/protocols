@@ -1,3 +1,102 @@
+---
+title: "Gilmore Lab Master Protocols"
+author: "Rick Gilmore, Andrea Seisler"
+date: "2023-03-22"
+output: html_document
+---
+
+# About
+
+<img src="imgs/GilmoreLabLogo.png" width="50%" style="display: block; margin: auto;" />
+
+
+
+This document is the go-to "how-to" manual for the Gilmore Lab.
+It is where we document every imaginable procedure and task so that future lab members can get up-to-speed quickly and efficiently.
+
+The document is a group effort.
+It is revised and updated often.
+
+## The authors
+
+*Rick Gilmore* is Professor of Psychology at Penn State. He directs the lab.
+
+*Andrea Seisler* is the lab manager. She also serves as the Authorizations Support Specialist for [Databrary](https://databrary.org). Andrea compiled much of the information in the first version of this protocol document.
+
+
+
+<!--chapter:end:index.Rmd-->
+
+# Projects
+
+## Active
+
+### Play & Learning Across a Year (PLAY)
+
+<https://play-project.org>
+
+<iframe src="https://play-project.org" width="100%" height="400px" data-external="1"></iframe>
+
+Survey data from PLAY can be found here:
+
+<https://PLAY-behaviorome.github.io/KoBoToolbox/>
+
+### Databrary
+
+### Open and Reproducible Research Initiative
+
+## Past
+
+### Sex differences in vision and cognition
+
+### Optic flow
+
+
+
+
+<!--chapter:end:01-projects.Rmd-->
+
+# Onboarding
+
+The lab uses a number of tools.
+This section describes them.
+
+## Asana {-}
+
+## Discord
+
+## DataCamp
+
+## Google Calendar
+
+## GitHub
+
+## RStudio
+
+### On your PC
+
+### On the web
+
+## Connect RStudio to Git/GitHub
+
+[HappyGit and GitHub for the useR](https://happygitwithr.com/index.html) is the BEST instruction manual with ALL of the nitty gritty details! However I am going to provide a short version with some more screenshots here.
+
+The general steps are:
+- download R
+- download RStudio
+- download Git
+- connect RStudio and Git/GitHub
+
+### Download R
+
+<img src="imgs/R-RStudio-install.png" width="100%" />
+
+### Download R Studio
+
+### Download Git
+
+<!--chapter:end:02-onboarding.Rmd-->
+
 # Trainings
 
 ## IRB training
@@ -17,9 +116,7 @@ For Access, go to [CITI training](http://citi.psu.edu/).
 
 Expiration: every 3 years.
 
-```{r, echo=FALSE}
-knitr::include_graphics("imgs/")
-```
+![](imgs/)<!-- -->
 
 - Choose the `University Park, Commonwealth, and other non-Hershey personnel` option  
 - Click `LOG IN TO CITI`  
@@ -83,4 +180,20 @@ If you have difficulty logging in go to: http://lrn.psu.edu/
 Keep this login information. You will need it to complete these trainings every calendar year.
 
 Email your training certificate to the [lab email](mailto:psubrainlab@gmail.com) once this is complete.
+
+
+<!--chapter:end:03-training.Rmd-->
+
+# Workflow
+
+## Rmarkdown conventions
+
+### `bookdown`
+
+- To omit the automatic numbering, add ` {-}` to the end of the line for each header--e.g., lines that start with one or more hash `#` characters.
+
+
+## `knitr`
+
+<!--chapter:end:10-workflow.Rmd-->
 
