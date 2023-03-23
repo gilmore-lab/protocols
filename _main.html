@@ -230,7 +230,12 @@ There are different training programs for different types of research, e.g., res
 <p>The <a href="https://about.citiprogram.org">Collaborative Institutional Training Initiative (CITI Program)</a>. provides training modules for researchers.</p>
 <p>For Access, go to <a href="http://citi.psu.edu/">CITI training</a>.</p>
 <p>Expiration: every 3 years.</p>
-<p><img src="imgs" /><!-- --></p>
+<div class="figure" style="text-align: center">
+<img src="imgs/GilmoreLabLogo.png" alt="ADD PROPER FIGURE HERE" width="100%" />
+<p class="caption">
+(#fig:unnamed-chunk-9)ADD PROPER FIGURE HERE
+</p>
+</div>
 <ul>
 <li>Choose the <code>University Park, Commonwealth, and other non-Hershey personnel</code> option<br />
 </li>
@@ -265,9 +270,9 @@ There are different training programs for different types of research, e.g., res
 <div id="annual-compliance-training" class="section level3 unnumbered">
 <h3 class="unnumbered">Annual Compliance Training</h3>
 <p>The Penn State compliance training is required for all Penn State employees, graduate students, and students participating in research at Penn State. This training covers ethics and obligation required of a Penn State employee.</p>
-<p>To learn more about the compliance training or other trainings at Penn State please visit either of the following links:
-<a href="https://universityethics.psu.edu/resources-and-training" class="uri">https://universityethics.psu.edu/resources-and-training</a>
-<a href="https://universityethics.psu.edu/resources-and-training/compliance-training-plan" class="uri">https://universityethics.psu.edu/resources-and-training/compliance-training-plan</a></p>
+<p>To learn more about the compliance training or other trainings at Penn State please visit either of the following links:</p>
+<p><a href="https://universityethics.psu.edu/resources-and-training" class="uri">https://universityethics.psu.edu/resources-and-training</a></p>
+<p><a href="https://universityethics.psu.edu/resources-and-training/compliance-training-plan" class="uri">https://universityethics.psu.edu/resources-and-training/compliance-training-plan</a></p>
 <p>The compliance training has a required renewal of 365 days.</p>
 <p>For Access go to the <a href="http://lrn.psu.edu/">Learning Resource Network</a></p>
 <div id="login-with-psu-access-account" class="section level4 unnumbered">
@@ -279,6 +284,7 @@ There are different training programs for different types of research, e.g., res
 <li><p>In the Search box, type <code>Annual Compliance Training</code></p></li>
 <li><p>Choose <code>2022 Annual Compliance Training</code></p></li>
 </ul>
+<p><img src="imgs/comp-train-3.png" width="100%" /></p>
 </div>
 <div id="login-with-a-lrn-account" class="section level4 unnumbered">
 <h4 class="unnumbered">Login with a LRN Account</h4>
@@ -299,6 +305,7 @@ There are different training programs for different types of research, e.g., res
 </p></li>
 <li><p>Click the <code>Log In</code> box</p></li>
 </ul>
+<p><img src="imgs/comp-train-1.png" width="100%" /></p>
 <p>Keep this login information. You will need it to complete these trainings every calendar year.</p>
 <p>Email your training certificate to the <a href="mailto:psubrainlab@gmail.com">lab email</a> once this is complete.</p>
 <!--chapter:end:03-training.Rmd-->
@@ -308,17 +315,37 @@ There are different training programs for different types of research, e.g., res
 </div>
 <div id="workflow" class="section level1" number="5">
 <h1><span class="header-section-number">5</span> Workflow</h1>
-<div id="rmarkdown-conventions" class="section level2" number="5.1">
-<h2><span class="header-section-number">5.1</span> Rmarkdown conventions</h2>
-<div id="bookdown" class="section level3" number="5.1.1">
-<h3><span class="header-section-number">5.1.1</span> <code>bookdown</code></h3>
+<div class="rmdnote">
+<p>Here’s a possibly useful resource:</p>
+<p><a href="https://zsmith27.github.io/rmarkdown_crash-course/lesson-5-code-chunks-and-inline-code.html" class="uri">https://zsmith27.github.io/rmarkdown_crash-course/lesson-5-code-chunks-and-inline-code.html</a></p>
+</div>
+<div id="package-dependencies" class="section level2" number="5.1">
+<h2><span class="header-section-number">5.1</span> Package dependencies</h2>
+<p>There are many R packages that make writing documents like this especially easy.
+These must be installed in your system.</p>
+<pre><code>install.packages(&quot;tidyverse&quot;)</code></pre>
+</div>
+<div id="rmarkdown-conventions" class="section level2" number="5.2">
+<h2><span class="header-section-number">5.2</span> Rmarkdown conventions</h2>
+<div id="bookdown" class="section level3" number="5.2.1">
+<h3><span class="header-section-number">5.2.1</span> <code>bookdown</code></h3>
 <ul>
 <li>To omit the automatic numbering, add <code>{-}</code> to the end of the line for each header–e.g., lines that start with one or more hash <code>#</code> characters.</li>
 </ul>
+<pre><code># Top-level header without numbers {-}
+
+## Second-level header without numbers {-}</code></pre>
 </div>
 </div>
-<div id="knitr" class="section level2" number="5.2">
-<h2><span class="header-section-number">5.2</span> <code>knitr</code></h2>
+<div id="knitr" class="section level2" number="5.3">
+<h2><span class="header-section-number">5.3</span> <code>knitr</code></h2>
+</div>
+<div id="inserting-images" class="section level2" number="5.4">
+<h2><span class="header-section-number">5.4</span> Inserting images</h2>
+<p>To insert an image, you will need to insert an R code chunk (opt+command+I on MacOS; alt+ctrl+I on Windows).</p>
+<pre><code>```{r, out.width=&quot;100%&quot;, fig.align=&quot;center&quot;, fig.cap=&quot;This is a great figure from Seisler et al. 2023.&quot;}
+knitr::insert_graphics(&quot;path/to/img_file&quot;)
+```</code></pre>
 <!--chapter:end:10-workflow.Rmd-->
 </div>
 </div>
@@ -346,7 +373,7 @@ There are different training programs for different types of research, e.g., res
   <div class="container"><div class="row">
 
   <div class="col-12 col-md-6 mt-3">
-    <p>"<strong>Gilmore Lab Master Protocols</strong>" was written by Rick Gilmore, Andrea Seisler. It was last built on 2023-03-22.</p>
+    <p>"<strong>Gilmore Lab Master Protocols</strong>" was written by Rick Gilmore, Andrea Seisler. It was last built on 2023-03-23.</p>
   </div>
 
   <div class="col-12 col-md-6 mt-3">

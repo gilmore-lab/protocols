@@ -51,7 +51,9 @@ If you have completed this training previously, please email your training certi
 The Penn State compliance training is required for all Penn State employees, graduate students, and students participating in research at Penn State. This training covers ethics and obligation required of a Penn State employee.
 
 To learn more about the compliance training or other trainings at Penn State please visit either of the following links: 
+
 https://universityethics.psu.edu/resources-and-training
+
 https://universityethics.psu.edu/resources-and-training/compliance-training-plan
 
 The compliance training has a required renewal of 365 days.
@@ -66,6 +68,10 @@ For Access go to the [Learning Resource Network](http://lrn.psu.edu/)
 - In the Search box, type `Annual Compliance Training`
 - Choose `2022 Annual Compliance Training`
 
+```{r, out.width="100%", echo=FALSE}
+knitr::include_graphics("imgs/comp-train-3.png")
+```
+
 #### Login with a LRN Account {-}
 
 If you have difficulty logging in go to: http://lrn.psu.edu/
@@ -78,7 +84,11 @@ If you have difficulty logging in go to: http://lrn.psu.edu/
 - Position Type: `Student`  
 - Enter your password  
 - Click the `I'm not a robot` box  
-- Click the `Log In` box  
+- Click the `Log In` box 
+
+```{r, out.width="100%", echo=FALSE}
+knitr::include_graphics("imgs/comp-train-1.png")
+```
 
 Keep this login information. You will need it to complete these trainings every calendar year.
 
