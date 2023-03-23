@@ -41,4 +41,3 @@ knitr::insert_graphics("path/to/img_file")
 ```
 ````
 
-

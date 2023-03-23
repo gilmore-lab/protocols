@@ -11,7 +11,7 @@ In this lab, all students and staff must complete training in the ethics of cond
 
 ### CITI Training {-}
 
-The [Collaborative Institutional Training Initiative (CITI Program)](https://about.citiprogram.org) provides training modules for researchers.
+The [Collaborative Institutional Training Initiative (CITI Program)](https://about.citiprogram.org). provides training modules for researchers.
 
 For Access, go to [CITI training](http://citi.psu.edu/).
 
