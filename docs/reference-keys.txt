@@ -1,3 +1,4 @@
+fig:unnamed-chunk-4
 about
 the-authors
 projects
@@ -31,6 +32,8 @@ trainings
 irb-training
 other-psu-required-trainings
 workflow
+package-dependencies
 rmarkdown-conventions
 bookdown
 knitr
+inserting-images
