@@ -27,4 +27,4 @@ It is revised and updated often.
 
 *Andrea Seisler* is the lab manager. She also serves as the Authorizations and Support Specialist for [Databrary](https://databrary.org). Andrea compiled much of the information in the first version of this protocol document.
 
-
+*Madison Gehringer* is an undergraduate research assistant.
