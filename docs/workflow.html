@@ -19,9 +19,9 @@
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
   </style>
 <link rel="stylesheet" href="include/css/style.css">
-<meta name="description" content="5.1 Rmarkdown conventions  5.1.1 bookdown To omit the automatic numbering, add {-} to the end of the line for each header–e.g., lines that start with one or more hash # characters.   5.2 knitr">
-<meta property="og:description" content="5.1 Rmarkdown conventions  5.1.1 bookdown To omit the automatic numbering, add {-} to the end of the line for each header–e.g., lines that start with one or more hash # characters.   5.2 knitr">
-<meta name="twitter:description" content="5.1 Rmarkdown conventions  5.1.1 bookdown To omit the automatic numbering, add {-} to the end of the line for each header–e.g., lines that start with one or more hash # characters.   5.2 knitr">
+<meta name="description" content="Here’s a possibly useful resource: https://zsmith27.github.io/rmarkdown_crash-course/lesson-5-code-chunks-and-inline-code.html  5.1 Package dependencies There are many R packages that make writing...">
+<meta property="og:description" content="Here’s a possibly useful resource: https://zsmith27.github.io/rmarkdown_crash-course/lesson-5-code-chunks-and-inline-code.html  5.1 Package dependencies There are many R packages that make writing...">
+<meta name="twitter:description" content="Here’s a possibly useful resource: https://zsmith27.github.io/rmarkdown_crash-course/lesson-5-code-chunks-and-inline-code.html  5.1 Package dependencies There are many R packages that make writing...">
 </head>
 <body data-spy="scroll" data-target="#toc">
 
@@ -59,23 +59,47 @@
 <h1>
 <span class="header-section-number">5</span> Workflow<a class="anchor" aria-label="anchor" href="#workflow"><i class="fas fa-link"></i></a>
 </h1>
-<div id="rmarkdown-conventions" class="section level2" number="5.1">
+<div class="rmdnote">
+<p>Here’s a possibly useful resource:</p>
+<p><a href="https://zsmith27.github.io/rmarkdown_crash-course/lesson-5-code-chunks-and-inline-code.html" class="uri">https://zsmith27.github.io/rmarkdown_crash-course/lesson-5-code-chunks-and-inline-code.html</a></p>
+</div>
+<div id="package-dependencies" class="section level2" number="5.1">
 <h2>
-<span class="header-section-number">5.1</span> Rmarkdown conventions<a class="anchor" aria-label="anchor" href="#rmarkdown-conventions"><i class="fas fa-link"></i></a>
+<span class="header-section-number">5.1</span> Package dependencies<a class="anchor" aria-label="anchor" href="#package-dependencies"><i class="fas fa-link"></i></a>
 </h2>
-<div id="bookdown" class="section level3" number="5.1.1">
+<p>There are many R packages that make writing documents like this especially easy.
+These must be installed in your system.</p>
+<pre><code>install.packages("tidyverse")</code></pre>
+</div>
+<div id="rmarkdown-conventions" class="section level2" number="5.2">
+<h2>
+<span class="header-section-number">5.2</span> Rmarkdown conventions<a class="anchor" aria-label="anchor" href="#rmarkdown-conventions"><i class="fas fa-link"></i></a>
+</h2>
+<div id="bookdown" class="section level3" number="5.2.1">
 <h3>
-<span class="header-section-number">5.1.1</span> <code>bookdown</code><a class="anchor" aria-label="anchor" href="#bookdown"><i class="fas fa-link"></i></a>
+<span class="header-section-number">5.2.1</span> <code>bookdown</code><a class="anchor" aria-label="anchor" href="#bookdown"><i class="fas fa-link"></i></a>
 </h3>
 <ul>
 <li>To omit the automatic numbering, add <code>{-}</code> to the end of the line for each header–e.g., lines that start with one or more hash <code>#</code> characters.</li>
 </ul>
+<pre><code># Top-level header without numbers {-}
+
+## Second-level header without numbers {-}</code></pre>
 </div>
 </div>
-<div id="knitr" class="section level2" number="5.2">
+<div id="knitr" class="section level2" number="5.3">
 <h2>
-<span class="header-section-number">5.2</span> <code>knitr</code><a class="anchor" aria-label="anchor" href="#knitr"><i class="fas fa-link"></i></a>
+<span class="header-section-number">5.3</span> <code>knitr</code><a class="anchor" aria-label="anchor" href="#knitr"><i class="fas fa-link"></i></a>
 </h2>
+</div>
+<div id="inserting-images" class="section level2" number="5.4">
+<h2>
+<span class="header-section-number">5.4</span> Inserting images<a class="anchor" aria-label="anchor" href="#inserting-images"><i class="fas fa-link"></i></a>
+</h2>
+<p>To insert an image, you will need to insert an R code chunk (opt+command+I on MacOS; alt+ctrl+I on Windows).</p>
+<pre><code>```{r, out.width="100%", fig.align="center", fig.cap="This is a great figure from Seisler et al. 2023."}
+knitr::insert_graphics("path/to/img_file")
+```</code></pre>
 
 </div>
 </div>
@@ -86,10 +110,12 @@
     <nav id="toc" data-toggle="toc" aria-label="On this page"><h2>On this page</h2>
       <ul class="nav navbar-nav">
 <li><a class="nav-link" href="#workflow"><span class="header-section-number">5</span> Workflow</a></li>
+<li><a class="nav-link" href="#package-dependencies"><span class="header-section-number">5.1</span> Package dependencies</a></li>
 <li>
-<a class="nav-link" href="#rmarkdown-conventions"><span class="header-section-number">5.1</span> Rmarkdown conventions</a><ul class="nav navbar-nav"><li><a class="nav-link" href="#bookdown"><span class="header-section-number">5.1.1</span> bookdown</a></li></ul>
+<a class="nav-link" href="#rmarkdown-conventions"><span class="header-section-number">5.2</span> Rmarkdown conventions</a><ul class="nav navbar-nav"><li><a class="nav-link" href="#bookdown"><span class="header-section-number">5.2.1</span> bookdown</a></li></ul>
 </li>
-<li><a class="nav-link" href="#knitr"><span class="header-section-number">5.2</span> knitr</a></li>
+<li><a class="nav-link" href="#knitr"><span class="header-section-number">5.3</span> knitr</a></li>
+<li><a class="nav-link" href="#inserting-images"><span class="header-section-number">5.4</span> Inserting images</a></li>
 </ul>
 
       <div class="book-extra">

@@ -17,8 +17,8 @@ For Access, go to [CITI training](http://citi.psu.edu/).
 
 Expiration: every 3 years.
 
-```{r, echo=FALSE}
-knitr::include_graphics("imgs/")
+```{r, echo=FALSE, fig.cap="ADD PROPER FIGURE HERE", out.width="100%", fig.align="center"}
+knitr::include_graphics("imgs/GilmoreLabLogo.png")
 ```
 
 - Choose the `University Park, Commonwealth, and other non-Hershey personnel` option  
