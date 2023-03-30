@@ -1,0 +1,42 @@
+# Tricks and tips
+
+## `knitr` {-}
+
+`knitr` is one of the engines that turns RMarkdown into HTML, PDF, and other outputs.
+By engine we mean it's an R package.
+The package also let's us create 'chunks' of R code.
+
+### Make code chunk with `{r}` formatting {-}
+
+Here is how to make a code chunk appear with the formatting you need to type it into an R Markdown document.
+
+To see what this looks like in the R Markdown document, you have to view the code.
+
+````
+`r ''````{r, out.width="100%", fig.align="center", fig.cap="Fig 1"}
+knitr::insert_graphics("path/to/img_file")
+```
+````
+
+### Embed a video {-}
+
+````
+`r ''````{r, echo=FALSE, out.width="100%", fig.align="center", fig.cap="Data Sharing and Management Snafu in 3 Short Acts: https://youtu.be/66oNv_DJuPc"}
+knitr::include_url("https://www.youtube.com/embed/66oNv_DJuPc")
+```
+````
+
+And here is how that will look in the document.
+I've added `echo=FALSE` to the knitr parameters so that the chunk itself doesn't appear.
+
+```{r, echo=FALSE, out.width="100%", fig.align="center", fig.cap="Data Sharing and Management Snafu in 3 Short Acts: https://youtu.be/66oNv_DJuPc", echo=FALSE}
+knitr::include_url("https://www.youtube.com/embed/66oNv_DJuPc")
+```
+
+It's good practice to put the URL to the video in the figure caption.
+That way if the embedding fails, you have a fallback.
+Also, it's good academic practice to site all sources.
+
+Notice that the URL for the embedded video is slightly different from the video's landing page.
+The landing page URL has `https://youtu.be/66oNv_DJuPc` while the embedded video has `https://www.youtube.com/embed/66oNv_DJuPc`.
+The video's identifier (`66oNv_DJuPc`) is the same in both.

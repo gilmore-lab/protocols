@@ -39,8 +39,6 @@ knitr::include_graphics("imgs/R-RStudio-install.png")
 
 ### Download Git
 
-
-
 ## Windows
 
 ### Download R
@@ -62,7 +60,6 @@ Click on the link `install R for the first time`
 ```{r, out.width="100%", echo=FALSE}
 knitr::include_graphics("imgs/R-RStudio-install.png")
 ```
-
 
 Click on the link `Download R-4.2.3 for Windows` (or whatever is the most recent version of R listed)
 
@@ -94,11 +91,9 @@ Click on the downloaded .exe file to begin installing RStudio
 
 (I don't have screenshots of this process for windows)
 
-
 ### Download Git
 
 There are 15 different screens during the installation process for Windows. 
-
 
 ### Connect RStudio and GitHub
 
@@ -106,4 +101,6 @@ There are 15 different screens during the installation process for Windows.
 
 #### Install required Packages for this repository by running
 
+```
 install.packages(c("rmarkdown", "knitr", "bookdown", "downlit", "xml2"))
+```
