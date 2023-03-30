@@ -6,6 +6,12 @@
 By engine we mean it's an R package.
 The package also let's us create 'chunks' of R code.
 
+### Use chunk formatting {-}
+
+```
+This will appear in 'chunk' formatting.
+```
+
 ### Make code chunk with `{r}` formatting {-}
 
 Here is how to make a code chunk appear with the formatting you need to type it into an R Markdown document.
@@ -14,7 +20,7 @@ To see what this looks like in the R Markdown document, you have to view the cod
 
 ````
 `r ''````{r, out.width="100%", fig.align="center", fig.cap="Fig 1"}
-knitr::insert_graphics("path/to/img_file")
+knitr::include_graphics("path/to/img_file")
 ```
 ````
 

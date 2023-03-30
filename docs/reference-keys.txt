@@ -39,3 +39,4 @@ bookdown
 knitr
 inserting-images
 tricks-and-tips
+use-chunk-formatting
