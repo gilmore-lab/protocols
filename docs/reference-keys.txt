@@ -1,5 +1,4 @@
-fig:unnamed-chunk-9
-fig:unnamed-chunk-12
+fig:unnamed-chunk-22
 about
 the-authors
 projects
@@ -39,4 +38,3 @@ bookdown
 knitr
 inserting-images
 tricks-and-tips
-use-chunk-formatting

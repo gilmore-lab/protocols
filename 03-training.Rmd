@@ -17,9 +17,50 @@ For Access, go to [CITI training](http://citi.psu.edu/).
 
 Expiration: every 3 years.
 
-```{r, echo=FALSE, fig.cap="ADD PROPER FIGURE HERE", out.width="100%", fig.align="center"}
-knitr::include_graphics("imgs/GilmoreLabLogo.png")
+```{r, echo=FALSE, out.width="100%", fig.align="center"}
+knitr::include_graphics("imgs/citi_01.PNG")
 ```
+
+```{r, echo=FALSE, out.width="100%", fig.align="center"}
+knitr::include_graphics("imgs/citi_02.PNG")
+```
+
+```{r, echo=FALSE, out.width="100%", fig.align="center"}
+knitr::include_graphics("imgs/citi_03.JPG")
+```
+
+```{r, echo=FALSE, out.width="100%", fig.align="center"}
+knitr::include_graphics("imgs/citi_04.PNG")
+```
+
+```{r, echo=FALSE, out.width="100%", fig.align="center"}
+knitr::include_graphics("imgs/citi_05.jpg")
+```
+
+```{r, echo=FALSE, out.width="100%", fig.align="center"}
+knitr::include_graphics("imgs/citi_06.jpg")
+```
+
+```{r, echo=FALSE, out.width="100%", fig.align="center"}
+knitr::include_graphics("imgs/citi_08.PNG")
+```
+
+```{r, echo=FALSE, out.width="100%", fig.align="center"}
+knitr::include_graphics("imgs/citi_09.PNG")
+```
+
+```{r, echo=FALSE, out.width="100%", fig.align="center"}
+knitr::include_graphics("imgs/citi_10.PNG")
+```
+
+```{r, echo=FALSE, out.width="100%", fig.align="center"}
+knitr::include_graphics("imgs/citi_11.PNG")
+```
+
+```{r, echo=FALSE, out.width="100%", fig.align="center"}
+knitr::include_graphics("imgs/citi_08.PNG")
+```
+
 
 - Choose the `University Park, Commonwealth, and other non-Hershey personnel` option  
 - Click `LOG IN TO CITI`  
