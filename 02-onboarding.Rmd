@@ -5,19 +5,51 @@ This section describes them.
 
 ## Asana {-}
 
-## Discord
+[Asana](https://asana.com/) is used for task management in the lab.
 
-## DataCamp
+```{r, out.width="80%", echo=FALSE, fig.align="center"}
+knitr::include_graphics("imgs/asana-01.png")
+```
 
-## Google Calendar
 
-## GitHub
+Sign up for an account
 
-## RStudio
+  - Go to the [Log in page](https://app.asana.com/-/login) 
+  - Pick `Sign Up` at the bottom of the window
 
-### On the web
+```{r, out.width="80%", echo=FALSE, fig.align="center"}
+knitr::include_graphics("imgs/asana-02.png")
+```
 
-## Connect RStudio to Git/GitHub
+  - `Email` the lab manager with your name associated email address so they may add you to the Gilmore Lab space
+
+## Discord {-} 
+
+## DataCamp {-}
+
+## Google Calendar {-}
+
+[Create a Google calendar](https://support.google.com/calendar/answer/37095#) including anything that you have on a regular basis (e.g. classes/weekly meetings)
+
+Things you need to know:
+
+- You will need to make each class in your schedule a [recurring event](https://support.google.com/calendar/answer/37115?co=GENIE.Platform%3DDesktop&hl=en) so it propagates for the whole semester.
+
+- Share this calendar with the lab email with `See all event details`
+
+```{r, out.width="100%", echo=FALSE, fig.align="center"}
+knitr::include_graphics("imgs/google-calendar_01.png")
+```
+
+After the lab manager receives all calendars for the semester, the weekly meeting time will be determined. This meeting time will then be sent out via a google calendar invitation.
+
+## GitHub {-}
+
+## RStudio {-}
+
+### On the web {-}
+
+## Connect RStudio to Git/GitHub {-}
 
 [HappyGit and GitHub for the useR](https://happygitwithr.com/index.html) is the BEST instruction manual with ALL of the nitty gritty details! However I am going to provide a short version with some more screenshots here.
 
@@ -27,21 +59,21 @@ The general steps are:
 - download Git
 - connect RStudio and Git/GitHub
 
-## Mac
+## Mac {-}
 
-### Download R
+### Download R {-}
 
-```{r, out.width="100%", echo=FALSE}
+```{r, out.width="100%", echo=FALSE, fig.align="center"}
 knitr::include_graphics("imgs/R-RStudio-install.png")
 ```
 
-### Download R Studio
+### Download R Studio {-}
 
-### Download Git
+### Download Git {-}
 
-## Windows
+## Windows {-}
 
-### Download R
+### Download R {-}
 
 Go to https://posit.co/download/rstudio-desktop/
 
@@ -51,35 +83,35 @@ This should take you to https://cloud.r-project.org/
 
 Click on the link `Download R for Windows`
 
-```{r, out.width="100%", echo=FALSE}
+```{r, out.width="100%", echo=FALSE, fig.align="center"}
 knitr::include_graphics("imgs/RforWindows.jpg")
 ```
 
 Click on the link `install R for the first time`
 
-```{r, out.width="100%", echo=FALSE}
+```{r, out.width="100%", echo=FALSE, fig.align="center"}
 knitr::include_graphics("imgs/R-RStudio-install.png")
 ```
 
 Click on the link `Download R-4.2.3 for Windows` (or whatever is the most recent version of R listed)
 
-```{r, out.width="100%", echo=FALSE}
+```{r, out.width="100%", echo=FALSE, fig.align="center"}
 knitr::include_graphics("imgs/RdownloadWin.jpg")
 ```
 
 Then open the downloaded .exe file to install
 
-```{r, out.width="100%", echo=FALSE}
+```{r, out.width="100%", echo=FALSE, fig.align="center"}
 knitr::include_graphics("imgs/InstallVerR.jpg")
 ```
 
 Choose `Next` to install into the default folder
 
-```{r, out.width="100%", echo=FALSE}
+```{r, out.width="100%", echo=FALSE, fig.align="center"}
 knitr::include_graphics("imgs/InstallR1.jpg")
 ```
 
-### Download R Studio
+### Download R Studio {-}
 
 Go to https://posit.co/download/rstudio-desktop/
 
@@ -91,16 +123,8 @@ Click on the downloaded .exe file to begin installing RStudio
 
 (I don't have screenshots of this process for windows)
 
-### Download Git
+### Download Git {-}
 
 There are 15 different screens during the installation process for Windows. 
 
-### Connect RStudio and GitHub
-
-### Specific to repository: https://github.com/gilmore-lab/protocols
-
-#### Install required Packages for this repository by running
-
-```
-install.packages(c("rmarkdown", "knitr", "bookdown", "downlit", "xml2"))
-```
+### Connect RStudio and GitHub {-}
