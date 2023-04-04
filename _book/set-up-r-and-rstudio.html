@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>4 Set up R and RStudio | Psych_494_Syllabus</title>
+  <meta name="description" content="4 Set up R and RStudio | Psych_494_Syllabus" />
+  <meta name="generator" content="bookdown 0.32 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="4 Set up R and RStudio | Psych_494_Syllabus" />
+  <meta property="og:type" content="book" />
+  
+  
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="4 Set up R and RStudio | Psych_494_Syllabus" />
+  
+  
+  
+
+<meta name="author" content="Andrea Seisler &amp; Rick Gilmore" />
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="brain-and-behavioral-dynamics-lab.html"/>
+
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+
+
+
+
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li class="chapter" data-level="1" data-path="how-to-setup-a-new-sona-study.html"><a href="how-to-setup-a-new-sona-study.html"><i class="fa fa-check"></i><b>1</b> How to Setup a New SONA Study</a>
+<ul>
+<li class="chapter" data-level="1.1" data-path="how-to-setup-a-new-sona-study.html"><a href="how-to-setup-a-new-sona-study.html#email-the-project-pi-and-the-graduate-student-running-the-study"><i class="fa fa-check"></i><b>1.1</b> Email the project PI and the graduate student running the study</a></li>
+<li class="chapter" data-level="1.2" data-path="how-to-setup-a-new-sona-study.html"><a href="how-to-setup-a-new-sona-study.html#lab-manager-add-study-to-sona"><i class="fa fa-check"></i><b>1.2</b> Lab Manager add study to SONA</a>
+<ul>
+<li class="chapter" data-level="1.2.1" data-path="how-to-setup-a-new-sona-study.html"><a href="how-to-setup-a-new-sona-study.html#log-in"><i class="fa fa-check"></i><b>1.2.1</b> Log In</a></li>
+</ul></li>
+<li class="chapter" data-level="1.3" data-path="how-to-setup-a-new-sona-study.html"><a href="how-to-setup-a-new-sona-study.html#how-to-create-a-study-in-sona"><i class="fa fa-check"></i><b>1.3</b> How to create a study in SONA</a></li>
+<li class="chapter" data-level="1.4" data-path="how-to-setup-a-new-sona-study.html"><a href="how-to-setup-a-new-sona-study.html#wait-for-researcher-approval-in-sona"><i class="fa fa-check"></i><b>1.4</b> Wait for researcher approval in SONA</a></li>
+<li class="chapter" data-level="1.5" data-path="how-to-setup-a-new-sona-study.html"><a href="how-to-setup-a-new-sona-study.html#add-researcher-to-study-in-sona"><i class="fa fa-check"></i><b>1.5</b> Add researcher to study in SONA</a></li>
+<li class="chapter" data-level="1.6" data-path="how-to-setup-a-new-sona-study.html"><a href="how-to-setup-a-new-sona-study.html#add-timeslots-to-study-in-sona"><i class="fa fa-check"></i><b>1.6</b> Add timeslots to study in SONA</a></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="gilmore-lab.html"><a href="gilmore-lab.html"><i class="fa fa-check"></i><b>2</b> Gilmore Lab</a>
+<ul>
+<li class="chapter" data-level="2.1" data-path="gilmore-lab.html"><a href="gilmore-lab.html#on-boarding-process---new-staff"><i class="fa fa-check"></i><b>2.1</b> On-boarding Process - New Staff</a>
+<ul>
+<li class="chapter" data-level="2.1.1" data-path="gilmore-lab.html"><a href="gilmore-lab.html#file-sharing"><i class="fa fa-check"></i><b>2.1.1</b> File Sharing</a></li>
+<li class="chapter" data-level="2.1.2" data-path="gilmore-lab.html"><a href="gilmore-lab.html#rstudio-online"><i class="fa fa-check"></i><b>2.1.2</b> RStudio Online</a></li>
+<li class="chapter" data-level="2.1.3" data-path="gilmore-lab.html"><a href="gilmore-lab.html#sync-rstudio-on-tlt-and-github"><i class="fa fa-check"></i><b>2.1.3</b> Sync RStudio On TLT and Github</a></li>
+<li class="chapter" data-level="2.1.4" data-path="gilmore-lab.html"><a href="gilmore-lab.html#human-participants-training"><i class="fa fa-check"></i><b>2.1.4</b> Human Participants Training</a></li>
+<li class="chapter" data-level="2.1.5" data-path="gilmore-lab.html"><a href="gilmore-lab.html#update-irb-protocols"><i class="fa fa-check"></i><b>2.1.5</b> Update IRB Protocol(s)</a></li>
+<li class="chapter" data-level="2.1.6" data-path="gilmore-lab.html"><a href="gilmore-lab.html#access-to-facilities"><i class="fa fa-check"></i><b>2.1.6</b> Access to facilities</a></li>
+<li class="chapter" data-level="2.1.7" data-path="gilmore-lab.html"><a href="gilmore-lab.html#eeg-net-application-training-optional"><i class="fa fa-check"></i><b>2.1.7</b> EEG Net Application Training (optional)</a></li>
+<li class="chapter" data-level="2.1.8" data-path="gilmore-lab.html"><a href="gilmore-lab.html#mri-training-optional"><i class="fa fa-check"></i><b>2.1.8</b> MRI Training (optional)</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="brain-and-behavioral-dynamics-lab.html"><a href="brain-and-behavioral-dynamics-lab.html"><i class="fa fa-check"></i><b>3</b> Brain and Behavioral Dynamics Lab</a>
+<ul>
+<li class="chapter" data-level="3.1" data-path="brain-and-behavioral-dynamics-lab.html"><a href="brain-and-behavioral-dynamics-lab.html#meetings"><i class="fa fa-check"></i><b>3.1</b> Meetings</a></li>
+<li class="chapter" data-level="3.2" data-path="brain-and-behavioral-dynamics-lab.html"><a href="brain-and-behavioral-dynamics-lab.html#expectations"><i class="fa fa-check"></i><b>3.2</b> Expectations</a></li>
+<li class="chapter" data-level="3.3" data-path="brain-and-behavioral-dynamics-lab.html"><a href="brain-and-behavioral-dynamics-lab.html#required-training"><i class="fa fa-check"></i><b>3.3</b> Required Training</a></li>
+<li class="chapter" data-level="3.4" data-path="brain-and-behavioral-dynamics-lab.html"><a href="brain-and-behavioral-dynamics-lab.html#accounts-needed"><i class="fa fa-check"></i><b>3.4</b> Accounts needed</a></li>
+<li class="chapter" data-level="3.5" data-path="brain-and-behavioral-dynamics-lab.html"><a href="brain-and-behavioral-dynamics-lab.html#frequently-used-resources"><i class="fa fa-check"></i><b>3.5</b> Frequently Used Resources</a></li>
+<li class="chapter" data-level="3.6" data-path="brain-and-behavioral-dynamics-lab.html"><a href="brain-and-behavioral-dynamics-lab.html#contact-information"><i class="fa fa-check"></i><b>3.6</b> Contact Information</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="set-up-r-and-rstudio.html"><a href="set-up-r-and-rstudio.html"><i class="fa fa-check"></i><b>4</b> Set up R and RStudio</a>
+<ul>
+<li class="chapter" data-level="4.1" data-path="set-up-r-and-rstudio.html"><a href="set-up-r-and-rstudio.html#on-psu-tlts-rstudio-server-recommended"><i class="fa fa-check"></i><b>4.1</b> On PSU TLT’s RStudio Server (recommended)</a>
+<ul>
+<li class="chapter" data-level="4.1.1" data-path="set-up-r-and-rstudio.html"><a href="set-up-r-and-rstudio.html#how-to-connect-github-and-rstudio-on-the-tlt-server-using-a-github-access-token"><i class="fa fa-check"></i><b>4.1.1</b> How to Connect Github and RStudio on the TLT Server using a GitHub Access Token</a></li>
+<li class="chapter" data-level="4.1.2" data-path="set-up-r-and-rstudio.html"><a href="set-up-r-and-rstudio.html#how-to-access-the-shared-space-on-r-studio"><i class="fa fa-check"></i><b>4.1.2</b> How to Access the Shared Space on R Studio</a></li>
+<li class="chapter" data-level="4.1.3" data-path="set-up-r-and-rstudio.html"><a href="set-up-r-and-rstudio.html#configure-rstudio-for-git-integration"><i class="fa fa-check"></i><b>4.1.3</b> Configure RStudio for <code>git</code> integration</a></li>
+</ul></li>
+<li class="chapter" data-level="4.2" data-path="set-up-r-and-rstudio.html"><a href="set-up-r-and-rstudio.html#on-your-computer"><i class="fa fa-check"></i><b>4.2</b> On your computer</a></li>
+</ul></li>
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Psych_494_Syllabus</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="set-up-r-and-rstudio" class="section level1 hasAnchor" number="4">
+<h1><span class="header-section-number">4</span> Set up R and RStudio<a href="set-up-r-and-rstudio.html#set-up-r-and-rstudio" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<div id="on-psu-tlts-rstudio-server-recommended" class="section level2 hasAnchor" number="4.1">
+<h2><span class="header-section-number">4.1</span> On PSU TLT’s RStudio Server (recommended)<a href="set-up-r-and-rstudio.html#on-psu-tlts-rstudio-server-recommended" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ol style="list-style-type: decimal">
+<li>What network are you on?</li>
+</ol>
+<ul>
+<li><p>If on campus, make sure you are on the <code>psu</code> network.</p></li>
+<li><p>If you are using RStudio remotely (off campus) you need to install and connect to VPN <strong>FIRST</strong>.</p>
+<ul>
+<li>VPN installation and connection instructions for <a href="https://ithelp.ssri.psu.edu/penn-state-vpn">Windows</a> and <a href="https://ithelp.ssri.psu.edu/penn-state-vpn-mac">Mac</a></li>
+</ul></li>
+</ul>
+<ol start="2" style="list-style-type: decimal">
+<li>Log in to R Studio</li>
+</ol>
+<ul>
+<li><p>Go to: <a href="https://lat.tlt.psu.edu/home/remoteaccess/oss-web-apps/" class="uri">https://lat.tlt.psu.edu/home/remoteaccess/oss-web-apps/</a></p></li>
+<li><p>Scroll down to the RStudio Server Section</p>
+<p><img src="../protocols/imgs/RStudio-ServerInfo.png" style="width:50.0%" alt="R Studio Server Section" /><br />
+</p></li>
+<li><p>Click on the blue box <strong>Login to RStudio</strong></p></li>
+<li><p>This link: <a href="https://rstudio.tlt.psu.edu/s/af233cfc78a318b9e0671/auth-sign-in" class="uri">https://rstudio.tlt.psu.edu/s/af233cfc78a318b9e0671/auth-sign-in</a> may work instead of the above steps</p></li>
+<li><p>Use your PSU Access Account Username and Password to sign in to RStudio.<br />
+<img src="../protocols/imgs/SignInRStudio.JPG" style="width:50.0%" alt="Sign In Page RStudio" /></p></li>
+</ul>
+<div id="how-to-connect-github-and-rstudio-on-the-tlt-server-using-a-github-access-token" class="section level3 hasAnchor" number="4.1.1">
+<h3><span class="header-section-number">4.1.1</span> How to Connect Github and RStudio on the TLT Server using a GitHub Access Token<a href="set-up-r-and-rstudio.html#how-to-connect-github-and-rstudio-on-the-tlt-server-using-a-github-access-token" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<div id="enter-your-email-used-to-log-into-r-studio-and-username-into-rstudio" class="section level4 hasAnchor" number="4.1.1.1">
+<h4><span class="header-section-number">4.1.1.1</span> Enter your email (used to log into R Studio) and username into RStudio<a href="set-up-r-and-rstudio.html#enter-your-email-used-to-log-into-r-studio-and-username-into-rstudio" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<ul>
+<li>Navigate to the Terminal Tab in R Studio</li>
+<li>Type the following in to the Command line</li>
+</ul>
+<p>$ <code>git config --global user.email "user@psu.edu"</code><br />
+$ <code>git config --global user.name "First Last"</code></p>
+</div>
+<div id="each-person-needs-to-have-their-own-or-project-branch" class="section level4 hasAnchor" number="4.1.1.2">
+<h4><span class="header-section-number">4.1.1.2</span> Each person needs to have their own or project branch<a href="set-up-r-and-rstudio.html#each-person-needs-to-have-their-own-or-project-branch" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<ul>
+<li><p>First request from the Lab Manager to create your own branch and provide the Name of the Branch (e.g. firstname_lastname).</p></li>
+<li><p>The lab manager will create this branch on the Github repository site.</p></li>
+</ul>
+</div>
+<div id="enter-your-branch-into-the-repository-in-rstudio" class="section level4 hasAnchor" number="4.1.1.3">
+<h4><span class="header-section-number">4.1.1.3</span> Enter your branch into the repository in Rstudio<a href="set-up-r-and-rstudio.html#enter-your-branch-into-the-repository-in-rstudio" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<ul>
+<li>Navigate to the Terminal Tab in R Studio</li>
+<li>Type the following in to the Command line:</li>
+</ul>
+<p>$ <code>git branch -m &lt;branchName&gt;</code></p>
+</div>
+<div id="create-an-access-token-in-git" class="section level4 hasAnchor" number="4.1.1.4">
+<h4><span class="header-section-number">4.1.1.4</span> Create an Access Token in Git<a href="set-up-r-and-rstudio.html#create-an-access-token-in-git" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<ul>
+<li><p>Follow the <a href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token">Create a Personal Access Token</a> instructions.</p></li>
+<li><p>Be sure to copy this token into a safe place. If it is lost, one must be re-created.</p></li>
+</ul>
+</div>
+<div id="clone-a-git-repository-to-rstudio-on-tlt-server" class="section level4 hasAnchor" number="4.1.1.5">
+<h4><span class="header-section-number">4.1.1.5</span> Clone a Git Repository to RSTudio on TLT Server<a href="set-up-r-and-rstudio.html#clone-a-git-repository-to-rstudio-on-tlt-server" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<ul>
+<li>Navigate to the GitHub project page (e.g. <a href="https://github.com/gilmore-lab/student-testbed" class="uri">https://github.com/gilmore-lab/student-testbed</a>)</li>
+<li>Press the button <code>Code</code></li>
+<li>Copy the HTTPS link of the project by clicking the little icon to the right of the URL. The link will be something like <a href="https://github.com/gilmore-lab/student-testbed.git" class="uri">https://github.com/gilmore-lab/student-testbed.git</a></li>
+</ul>
+<p><img src="../protocols/imgs/GitHub-copy-repo-https.png" style="width:50.0%" alt="Clone with HTTPS" /><br />
+- Copy this to another blank page. This will need to be altered to the following:
+<code>https://oath2:&lt;PersonalAccessToken&gt;@github.com/&lt;repository&gt;/&lt;project&gt;</code></p>
+<ul>
+<li>The <code>Personal Access Token</code> created in Git will be used in the above location.
+<code>https://oath2:&lt;PersonalAccessToken&gt;@github.com/gilmore-lab/student</code></li>
+</ul>
+</div>
+<div id="make-changes-to-branch-on-repository" class="section level4 hasAnchor" number="4.1.1.6">
+<h4><span class="header-section-number">4.1.1.6</span> Make changes to branch on repository<a href="set-up-r-and-rstudio.html#make-changes-to-branch-on-repository" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<ul>
+<li>Ensure the branch name is listed in the Git window in R</li>
+</ul>
+<div class="figure">
+<img src="../protocols/imgs/Git-Window-R.png" style="width:50.0%" alt="" />
+<p class="caption">Git Window in R</p>
+</div>
+<ul>
+<li><p>Always run ‘Git Pull’ before changes are made</p></li>
+<li><p>Make Changes to File</p></li>
+<li><p>Commit changes</p></li>
+<li><p>Run ‘Git Push’ to Your Branch on Github</p></li>
+<li><p>Go to <code>github.com/gilmorelab/&lt;repository name&gt;</code> and create a Pull request</p></li>
+<li><p>Notify the lab manager that a pull request is available on GitHub for <code>&lt;repository name&gt;</code></p></li>
+</ul>
+</div>
+</div>
+<div id="how-to-access-the-shared-space-on-r-studio" class="section level3 hasAnchor" number="4.1.2">
+<h3><span class="header-section-number">4.1.2</span> How to Access the Shared Space on R Studio<a href="set-up-r-and-rstudio.html#how-to-access-the-shared-space-on-r-studio" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<ul>
+<li><p>Go to the <strong>File</strong> menu and click on <strong>Open Project</strong></p>
+<div class="figure">
+<img src="../protocols/imgs/ROpenProject.JPG" style="width:50.0%" alt="" />
+<p class="caption">Open Project</p>
+</div></li>
+<li><p>Then you will see</p>
+<div class="figure">
+<img src="../protocols/imgs/RMyProjects.JPG" style="width:50.0%" alt="" />
+<p class="caption">My Projects</p>
+</div></li>
+<li><p>Click on <strong>Shared with Me</strong></p>
+<div class="figure">
+<img src="../protocols/imgs/RSharedProject.JPG" style="width:50.0%" alt="" />
+<p class="caption">Shared Projects</p>
+</div></li>
+<li><p>Highlight the shared project you want to open and Click on <strong>Open Project</strong></p></li>
+</ul>
+</div>
+<div id="configure-rstudio-for-git-integration" class="section level3 hasAnchor" number="4.1.3">
+<h3><span class="header-section-number">4.1.3</span> Configure RStudio for <code>git</code> integration<a href="set-up-r-and-rstudio.html#configure-rstudio-for-git-integration" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<ol style="list-style-type: decimal">
+<li>From within RStudio, open the <code>Tools</code> menu and select the <code>Global Options...</code> item.</li>
+<li>Select the <code>Git/SVN</code> panel in the left column. It is near the bottom of the list.</li>
+<li>Check the <code>Enable version control interface for RStudio projects</code> checkbox at the top of the window.</li>
+<li>Click on the <code>View public key</code> link to see if you have a valid SSH RSA Key already.</li>
+<li>If the window opens and contains a long text string that begins with “ssh-rsa” and ends with “<your_PSU_id><span class="citation">@lxclusterapps</span>”, where <code>&lt;your_PSU_id&gt;</code> is your PSU ID (e.g., <code>rog1</code>), you are half-way home.</li>
+<li>If the window is opens and is empty, you must generate a new key:
+<ul>
+<li><del>Close the window and click on the <code>Create RSA Key...</code> button.</del></li>
+<li>From RStudio, select the <code>Terminal</code> pane. This will bring up a command line with a prompt that looks something like this: <code>bash-4.2$</code>.</li>
+<li>Type <code>ssh-keygen.py</code> and hit return. This will generate an SSH key.</li>
+<li>Type <code>ls ~/.ssh</code> and hit return. You should see something that looks like this:</li>
+</ul>
+<pre><code>bash-4.2$ ls ~/.ssh
+id_rsa  id_rsa.pub  known_hosts</code></pre>
+<ul>
+<li>The <code>id_rsa.pub</code> is a file containing a ‘public’ key that you can save on GitHub so that GitHub knows who you are when you connect to it from the PSU TLT RStudio server.</li>
+<li>(Optional) type <code>cat ~/.ssh/id_rsa.pub</code> to see the contents of this key file.</li>
+<li>Select <code>Global Options...</code> from the RStudio <code>Tools</code> menu again.</li>
+<li>Select <code>Git/SVN</code> from the left panel.</li>
+<li>Select the <code>View public key</code> link to view the SSH key you just generated.</li>
+<li>Copy the key to the clipboard (command+C on Mac)</li>
+</ul></li>
+<li>Visit <em>your account</em> on GitHub. Rick’s is at <a href="https://github.com/rogilmore" class="uri">https://github.com/rogilmore</a>.</li>
+<li>Click on your avatar or photo in the upper right hand corner and select the <code>Settings</code> command.</li>
+<li>From the list at left, select the <code>SSH and GPG keys</code> panel.</li>
+<li>Look at the list of SSH keys.</li>
+<li>If there are no SSH keys…
+<ul>
+<li>Press the <code>New SSH key</code> button.</li>
+<li>Paste the key you generated in RStudio into the space provided.</li>
+<li>Add a title like <code>PSU TLT</code> or <code>lxcluster</code></li>
+<li>Press the <code>Add SSH key</code> button to save the key.</li>
+</ul></li>
+<li>If you see an existing key with <code>PSU TLT</code> or <code>lxcluster</code> you should already be ready to go.</li>
+<li>Return to RStudio, hit <code>Apply</code> to save your changes, and <code>Ok</code> to exit the <code>Settings</code> panel.</li>
+<li>Test the connection between RStudio and GitHub by cloning a repository.
+<ul>
+<li>Visit the lab protocols repository at <a href="https://github.com/gilmore-lab/protocols" class="uri">https://github.com/gilmore-lab/protocols</a>.</li>
+<li>Click on the <code>Clone or download</code> button.</li>
+<li>Confirm that the window title says <code>Clone with SSH</code>. If it does not, click on the <code>Use SSH</code> link on the upper right side.</li>
+<li>Click on the clipboard icon to copy the <code>git@github.com...</code> link to the repository to your clipboard.</li>
+<li>Switch back to RStudio.</li>
+<li>Under the <code>File</code> menu, select the <code>New Project</code> option.</li>
+<li>Select <code>Version Control</code>.</li>
+<li>Select <code>Git</code> in the next window.</li>
+<li>Paste the repository link you copies from GitHub into the <code>Repository URL</code> field.</li>
+<li>Select a name for the local repository. I usually keep the name from GitHub, so in this case, I would use <code>protocols</code>.</li>
+<li>Select a directory/folder where the repository will be copied to. I have an <code>rstudio/</code> folder I use for this. If you need to create a folder, you may do so.</li>
+<li>Click on the <code>Create Project</code> button. This will copy the repository from GitHub to your personal (PASS) file space on PSU’s servers.</li>
+</ul></li>
+</ol>
+</div>
+</div>
+<div id="on-your-computer" class="section level2 hasAnchor" number="4.2">
+<h2><span class="header-section-number">4.2</span> On your computer<a href="set-up-r-and-rstudio.html#on-your-computer" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ol style="list-style-type: decimal">
+<li>Download and install R from <a href="https://cran.r-project.org/" class="uri">https://cran.r-project.org/</a></li>
+<li>Download and install RStudio from <a href="https://www.rstudio.com/products/rstudio/download/#download" class="uri">https://www.rstudio.com/products/rstudio/download/#download</a>. Choose your platform from the ‘Installers’ (e.g., Windows, Mac, Ubuntu, or Fedora Linux).</li>
+</ol>
+
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="brain-and-behavioral-dynamics-lab.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"whatsapp": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": null,
+"text": null
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": null,
+"search": {
+"engine": "fuse",
+"options": null
+},
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
+</html>
