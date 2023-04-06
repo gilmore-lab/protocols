@@ -17,7 +17,7 @@ These must be installed in your system.
 install.packages("tidyverse")
 ```
 
-## Rmarkdown conventions
+## R Markdown conventions
 
 ### `bookdown`
 

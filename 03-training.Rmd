@@ -125,7 +125,7 @@ If you have difficulty logging in go to: http://lrn.psu.edu/
 - Click the box `Volunteer/Student/Other Create LRN Account`
 
 ```{r, out.width="100%", echo=FALSE}
-knitr::include_graphics("imgs/comptrain-create.png")
+knitr::include_graphics("imgs/GilmoreLabLogo.png")
 ```
 
 - Supervisory Organization: Choose `Affiliate PENN STATE STUDENT`  

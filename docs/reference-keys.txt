@@ -1,4 +1,4 @@
-fig:unnamed-chunk-25
+fig:unnamed-chunk-26
 about
 the-authors
 projects
@@ -15,8 +15,11 @@ irb-training
 other-psu-required-trainings
 workflow
 package-dependencies
-rmarkdown-conventions
+r-markdown-conventions
 bookdown
 knitr
 inserting-images
 tricks-and-tips
+learning-resources
+r-markdown
+naming-things

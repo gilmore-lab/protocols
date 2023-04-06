@@ -1,5 +1,14 @@
 # Tricks and tips
 
+## Learning resources
+
+### R Markdown
+
+One of the authors of the `bookdown` package that we are using to make this manual wrote a book about R Markdown: <https://bookdown.org/yihui/rmarkdown/>.
+It's a great resource, and it gets updated regularly unlike the printed book.
+
+## Naming things
+
 ## `knitr` {-}
 
 `knitr` is one of the engines that turns RMarkdown into HTML, PDF, and other outputs.
