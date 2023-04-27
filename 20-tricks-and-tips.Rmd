@@ -1,13 +1,13 @@
 # Tricks and tips
 
-## Learning resources
+## Learning resources {-}
 
-### R Markdown
+### R Markdown {-}
 
 One of the authors of the `bookdown` package that we are using to make this manual wrote a book about R Markdown: <https://bookdown.org/yihui/rmarkdown/>.
 It's a great resource, and it gets updated regularly unlike the printed book.
 
-## Naming things
+## Naming things {-}
 
 ## `knitr` {-}
 

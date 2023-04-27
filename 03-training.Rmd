@@ -1,6 +1,6 @@
 # Trainings
 
-## IRB training
+## IRB training {-}
 
 At Penn State, research is governed by an [Institutional Review Board (IRB)](https://www.research.psu.edu/irb).
 
@@ -85,7 +85,7 @@ If you have completed this training previously, please email your training certi
 
 #### If you are taking a renewal IRB course {-}
 
-## Other PSU-required trainings
+## Other PSU-required trainings {-}
 
 ### Annual Compliance Training {-}
 

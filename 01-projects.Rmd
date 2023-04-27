@@ -1,8 +1,8 @@
 # Projects
 
-## Active
+## Active {-}
 
-### Play & Learning Across a Year (PLAY)
+### Play & Learning Across a Year (PLAY) {-}
 
 <https://play-project.org>
 
@@ -14,15 +14,15 @@ Survey data from PLAY can be found here:
 
 <https://PLAY-behaviorome.github.io/KoBoToolbox/>
 
-### Databrary
+### Databrary {-}
 
-### Open and Reproducible Research Initiative
+### Open and Reproducible Research Initiative {-}
 
-## Past
+## Past {-}
 
-### Sex differences in vision and cognition
+### Sex differences in vision and cognition {-}
 
-### Optic flow
+### Optic flow {-}
 
 
 
