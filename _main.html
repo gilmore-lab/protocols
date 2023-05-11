@@ -426,6 +426,36 @@ The video’s identifier (<code>66oNv_DJuPc</code>) is the same in both.</p>
 </div>
 </div>
 </div>
+<div id="lab-computer-maintenance" class="section level1" number="7">
+<h1><span class="header-section-number">7</span> Lab Computer Maintenance</h1>
+<p>When completing both procedures, reset PRAM first, then SMC.
+- completed 4/2023 when wireless mouse was acting up</p>
+<div id="reset-pramnvram" class="section level2" number="7.1">
+<h2><span class="header-section-number">7.1</span> Reset PRAM/NVRAM</h2>
+<p>PRAM stands for “parameter random-access memory.” This is the portion of the system memory that holds a small number of settings that the system can access quickly. Newer Intel Macs use NVRAM (non-volatile random–access memory) for the same purpose. Apple keeps things like the display resolution, volume, and startup disk location in this portion of your system memory. Resetting the PRAM or NVRAM can sometimes remedy strange bugs. Both PRAM and NVRAM are reset the same way.</p>
+<p>Complete the following steps:</p>
+<ol style="list-style-type: decimal">
+<li>Shut Down Mac</li>
+<li>Turn On Mac</li>
+<li>Immediately press <code>option + P +R</code></li>
+<li>Hold down until AFTER you hear the start-up sound</li>
+</ol>
+</div>
+<div id="reset-smc" class="section level2" number="7.2">
+<h2><span class="header-section-number">7.2</span> Reset SMC</h2>
+<p>The SMC is the system management controller. Resetting the SMC is a similar operation to resetting the NVRAM. Apple recommends resetting it to fix issues with power, battery, fans, and other features.</p>
+<p>Complete the following steps for an iMac, Mac Pro, or Mac mini:</p>
+<ol style="list-style-type: decimal">
+<li>Shut Down Mac</li>
+<li>Unplug Power Cord and wait 15-20 seconds</li>
+<li>Plug in and wait 5 minutes</li>
+<li>Start Up Mac</li>
+</ol>
+<p>M1 Macs</p>
+<p>M1 Macs don’t need to have NVRAM cleared or the SMC rebooted. (SMC doesn’t exist on M1 Macs.) When an M1 Mac reboots, it runs a sequence to make sure the NVRAM is doing what it should do. This is the advantage of Apple making both the hardware and the software.</p>
+<!--chapter:end:30-lab-computer-maintenance.Rmd-->
+</div>
+</div>
 <!--bookdown:body:end-->
   </main>
 
@@ -450,7 +480,7 @@ The video’s identifier (<code>66oNv_DJuPc</code>) is the same in both.</p>
   <div class="container"><div class="row">
 
   <div class="col-12 col-md-6 mt-3">
-    <p>"<strong>Gilmore Lab Master Protocols</strong>" was written by Rick Gilmore, Andrea Seisler. It was last built on 2023-04-27.</p>
+    <p>"<strong>Gilmore Lab Master Protocols</strong>" was written by Rick Gilmore, Andrea Seisler. It was last built on 2023-05-11.</p>
   </div>
 
   <div class="col-12 col-md-6 mt-3">

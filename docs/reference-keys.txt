@@ -6,3 +6,6 @@ onboarding
 trainings
 workflow
 tricks-and-tips
+lab-computer-maintenance
+reset-pramnvram
+reset-smc
