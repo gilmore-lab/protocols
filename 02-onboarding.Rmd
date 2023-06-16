@@ -25,7 +25,28 @@ knitr::include_graphics("imgs/asana-02.png")
 
 ## Discord {-} 
 
+Please accept the invitation to our server 'Gilmore Lab': 
+
+You may be asked to create your account first. If so, follow these steps:
+
+- Open your web browser and [register](https://discordapp.com/register) for a Discord Account. 
+- Fill out the information including your email address, username, and password. - Once you fill out the required information, click on `Continue`. 
+- You have now successfully created your Discord Account. 
+- You need to verify your email address before you can fully use your Discord account.
+- Go to your email and open the email from Discord. 
+- Click on `Verify Email` box to verify your email account.
+
 ## DataCamp {-}
+
+[DataCamp](https://www.datacamp.com/) is used for learning the basics in R
+
+- The Lab Manager will send an invitation to your PSU email address to join DataCamp.
+
+- Please check your PSU email and accept the invitation email to the *Psych 494 Research Studies Class*
+
+- If you do not already have an account on DataCamp, please create one.
+  - go to [DataCamp](https://www.datacamp.com/)
+  - enter your PSU email address and create a password
 
 ## Google Calendar {-}
 
@@ -44,6 +65,8 @@ knitr::include_graphics("imgs/google-calendar_01.png")
 After the lab manager receives all calendars for the semester, the weekly meeting time will be determined. This meeting time will then be sent out via a google calendar invitation.
 
 ## GitHub {-}
+
+Please accept the invitation email the lab manager sent to your PSU email account to be added to our Git Repository. I believe you will be asked to create a username, enter your email and create a password at this time.
 
 ## RStudio {-}
 
