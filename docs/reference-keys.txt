@@ -3,10 +3,6 @@ about
 projects
 onboarding
 trainings
-understanding-title-ix-at-penn-state
-understanding-title-ix-at-penn-state-1
-building-a-safe-penn-state-reporting-child-abuse
-clery-act-training
 workflow
 tricks-and-tips
 lab-computer-maintenance

@@ -101,31 +101,6 @@ The compliance training has a required renewal of 365 days.
 
 For Access go to the [Learning Resource Network](http://lrn.psu.edu/)  
 
-### Understanding Title IX at Penn State
-
-Employees and anyone with an active Penn State Access Account (WebAccess) should access the training through the [Learning Resource Network](http://lrn.psu.edu/): 
-
-- Click the box `Faculty, Staff & Part time`
-- Then `Login with Access Account` 
-- In the Search box, type **Title IX**
-- Choose `Understanding Title IX at Penn State`
-You may need to click the `Request` Button to take the class again for this year.
-
-If you have difficulty logging in go to the [Learning Resource Network](http://lrn.psu.edu/) with your PSU account: 
-
-- Select `Volunteer/Non-Paid Student/Other`
-- Click the box `Volunteer/Student/Other Create LRN Account`
-- Supervisory Organization: Choose `Affiliate PENN STATE STUDENT`
-- Location: Choose `Penn State University Park`
-- Position Type: `Student`
-- Enter your password
-- Click the `I'm not a robot` box
-- Click the `Log In` box
-
-- Keep this login information. You will need it to complete training on the LRN site every calendar year.
-
-- Email your training certificate to psubrainlab@gmail.com once this is complete.
-
 #### Login with PSU Access Account {-}
 
 - Click the box `Faculty, Staff & Part time`  
@@ -164,7 +139,7 @@ Keep this login information. You will need it to complete these trainings every 
 
 Email your training certificate to the [lab email](mailto:psubrainlab@gmail.com) once this is complete.
 
-### Understanding Title IX at Penn State
+### Understanding Title IX at Penn State {-}
 
 Employees and anyone with an active Penn State Access Account (WebAccess) should access the training through the [Learning Resource Network](http://lrn.psu.edu/): 
 
@@ -189,7 +164,7 @@ If you have difficulty logging in go to the [Learning Resource Network](http://l
 
 - Email your training certificate to psubrainlab@gmail.com once this is complete.
 
-### Building a Safe Penn State: Reporting Child Abuse
+### Building a Safe Penn State: Reporting Child Abuse {-}
 
-### Clery Act Training
+### Clery Act Training {-}
 
