@@ -1,0 +1,17 @@
+# RStudio + GitHub
+
+[Happy Git and GitHub for the useR](https://happygitwithr.com/) is a great resource for connecting Git/GitHub and RStudio.
+
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+## Create a New Project in RStudio from an existing project on GitHub
+
+
+
+## Create a branch in GitHub
+
+For each GitHub repository you will be working on in the lab that is shared among others, you will need to create your own Branch. 
+
+Please [create your own branch directly in the repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository) on the GitHub site
+
+## Create Pull Request, for review, on GitHub
