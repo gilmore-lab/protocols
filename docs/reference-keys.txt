@@ -3,8 +3,15 @@ about
 projects
 onboarding
 trainings
+rstudio-github
+create-a-branch-in-github
+create-pull-request-for-review-on-github
 workflow
 tricks-and-tips
 lab-computer-maintenance
 reset-pramnvram
 reset-smc
+lab-manager-how-to
+participant-recruitment
+first-families
+mailing-letters---postage-forms
