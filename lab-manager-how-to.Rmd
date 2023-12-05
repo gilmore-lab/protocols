@@ -9,7 +9,14 @@
 When letters need to be sent to participants, a postage form needs to be completed.
 
 Go to: https://multimediaprint.psu.edu/
-- click the yellow `meter slip` button in the top right corner.
+
+
+
+```{r, echo=FALSE, out.width="100%", fig.align="center", fig.cap="PSU Multimedia and Print Center"}
+knitr::include_graphics("imgs/multimedia-banner.png")
+```
+
+- click the `meter slip` button in the top right corner.
 
 - click 'Login'
 
@@ -21,7 +28,7 @@ Info you will need
 
 
 
-- [create a new listserv](https://lists.psu.edu/cgi-bin/Newlist.cgi) here
+- [create a new listserv](https://lists.psu.edu/cgi-bin/Newlist.cgi)
 - [how to add subscribers to a Listserv at PSU](https://pennstate.service-now.com/sp?id=kb_article_view&sys_kb_id=96807ca6db94dcd87fb5266e1396192d) 
 - [how to Bulk Add Subscribers](https://pennstate.service-now.com/kb?id=kb_article_view&sysparm_article=KB0010506&sys_kb_id=c708dcc7dbb870107fb5266e13961977&spa=1)
 
