@@ -7,7 +7,7 @@ These files are rendered the gilmore lab research protocol.
 
 - `*.Rmd` source files for protocol
 - `docs/`: output from bookdown render (HTML site).
-- `imgs/`: image resources.
+- `img/`: image resources.
 - `pdf/`: PDF files.
 - `rmd/`: Archival files from old site.
 - `*.yml`: YAML parameter files for bookdown.

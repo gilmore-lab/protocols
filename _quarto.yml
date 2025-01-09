@@ -1,0 +1,40 @@
+project:
+  type: book
+  output-dir: "../docs"
+  
+book:
+  title: "Gilmore Lab"
+  cover-image: src/img/GilmoreLabLogo.png
+  subtitle: "How to get stuff done"
+  author: ["Rick Gilmore", "Andrea Seisler"]
+  date: last-modified
+  chapters:
+    - index.qmd
+    - 01-projects.qmd
+    - 02-onboarding.qmd
+    - 03-training.qmd
+    - 05-rstudio-github.qmd
+    - 10-workflow.qmd
+    - 20-tricks-and-tips.qmd
+    - 30-lab-computer-maintenance.qmd
+    - lab-manager-how-to.qmd
+    
+  repo-url: https://github.com/gilmore-lab/protocols
+  repo-actions: [edit, issue]
+  repo-subdir: src
+
+format:
+  html:
+    theme: cosmo
+    number_sections: false
+    css: include/css/style.css
+    csl: include/bib/apa.csl
+    # bibliography: [include/bib/packages.bib, include/bib/references.bib]
+    citations-hover: true
+    footnotes-hover: true
+    toc: true
+    toc-depth: 4
+    
+  epub:
+    cover-image: src/img/GilmoreLabLogo.png
+    
