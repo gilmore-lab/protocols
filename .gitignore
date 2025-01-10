@@ -5,3 +5,4 @@
 protocols.Rproj
 .DS_Store
 /.quarto/
+*_cache/

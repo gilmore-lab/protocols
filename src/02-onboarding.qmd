@@ -7,19 +7,14 @@ This section describes them.
 
 [Asana](https://asana.com/) is used for task management in the lab.
 
-```{r, out.width="80%", echo=FALSE, fig.align="center"}
-knitr::include_graphics("imgs/asana-01.png")
-```
-
+![Asana01]("img/asana-01.png")
 
 Sign up for an account
 
   - Go to the [Log in page](https://app.asana.com/-/login) 
   - Pick `Sign Up` at the bottom of the window
-
-```{r, out.width="80%", echo=FALSE, fig.align="center"}
-knitr::include_graphics("imgs/asana-02.png")
-```
+  
+![Asana02]("img/asana-02.png")
 
   - `Email` the lab manager with your name associated email address so they may add you to the Gilmore Lab space
 
@@ -58,9 +53,7 @@ Things you need to know:
 
 - Share this calendar with the lab email with `See all event details`
 
-```{r, out.width="100%", echo=FALSE, fig.align="center"}
-knitr::include_graphics("imgs/google-calendar_01.png")
-```
+![Calendar]("img/google-calendar_01.png")
 
 After the lab manager receives all calendars for the semester, the weekly meeting time will be determined. This meeting time will then be sent out via a google calendar invitation.
 
@@ -86,9 +79,7 @@ The general steps are:
 
 ### Download R {-}
 
-```{r, out.width="100%", echo=FALSE, fig.align="center"}
-knitr::include_graphics("imgs/R-RStudio-install.png")
-```
+![Download R page]("img/R-RStudio-install.png")
 
 ### Download R Studio {-}
 
@@ -106,33 +97,23 @@ This should take you to https://cloud.r-project.org/
 
 Click on the link `Download R for Windows`
 
-```{r, out.width="100%", echo=FALSE, fig.align="center"}
-knitr::include_graphics("imgs/RforWindows.jpg")
-```
+![Download R Windows]("img/RforWindows.jpg")
 
 Click on the link `install R for the first time`
 
-```{r, out.width="100%", echo=FALSE, fig.align="center"}
-knitr::include_graphics("imgs/R-RStudio-install.png")
-```
+![Install R]("img/R-RStudio-install.png")
 
 Click on the link `Download R-4.2.3 for Windows` (or whatever is the most recent version of R listed)
 
-```{r, out.width="100%", echo=FALSE, fig.align="center"}
-knitr::include_graphics("imgs/RdownloadWin.jpg")
-```
+![Download R Windows]("img/RdownloadWin.jpg")
 
 Then open the downloaded .exe file to install
 
-```{r, out.width="100%", echo=FALSE, fig.align="center"}
-knitr::include_graphics("imgs/InstallVerR.jpg")
-```
+![Install R Version]("img/InstallVerR.jpg")
 
 Choose `Next` to install into the default folder
 
-```{r, out.width="100%", echo=FALSE, fig.align="center"}
-knitr::include_graphics("imgs/InstallR1.jpg")
-```
+![InstallR1]("img/InstallR1.jpg")
 
 ### Download R Studio {-}
 

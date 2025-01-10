@@ -44,8 +44,9 @@ knitr::include_url("https://www.youtube.com/embed/66oNv_DJuPc")
 And here is how that will look in the document.
 I've added `echo=FALSE` to the knitr parameters so that the chunk itself doesn't appear.
 
-```{r, echo=FALSE, out.width="100%", fig.align="center", fig.cap="Data Sharing and Management Snafu in 3 Short Acts: https://youtu.be/66oNv_DJuPc", echo=FALSE}
-knitr::include_url("https://www.youtube.com/embed/66oNv_DJuPc")
+
+```{=html}
+<iframe width="780" height="500" src="https://youtu.be/66oNv_DJuPc" title="Data Sharing and Management Snafu in 3 Short Acts: https://youtu.be/66oNv_DJuPc"></iframe>
 ```
 
 It's good practice to put the URL to the video in the figure caption.

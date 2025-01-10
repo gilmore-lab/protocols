@@ -6,8 +6,9 @@
 
 <https://play-project.org>
 
-```{r, out.width="100%", echo=FALSE}
-knitr::include_url("https://play-project.org", height = "400px")
+
+```{=html}
+<iframe height="400" src="https://play-project.org" ></iframe>
 ```
 
 Survey data from PLAY can be found here:

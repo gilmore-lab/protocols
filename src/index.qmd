@@ -1,12 +1,11 @@
 # About 
 
-```{r, fig.align='center', echo=FALSE, out.width="50%"}
-knitr::include_graphics("imgs/GilmoreLabLogo.png")
+```{r, fig.align='center', echo=FALSE, out.width="50%"} knitr::include_graphics("img/GilmoreLabLogo.png")
 ```
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+<!-- ```{r setup, include=FALSE} -->
+<!-- knitr::opts_chunk$set(echo = TRUE) -->
+<!-- ``` -->
 
 This document is the go-to "how-to" manual for the Gilmore Lab.
 It is where we document every imaginable procedure and task so that future lab members can get up-to-speed quickly and efficiently.
