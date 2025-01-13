@@ -18,6 +18,7 @@ Survey data from PLAY can be found here:
 ### Databrary {-}
 
 ![](include/img/DB-leaf-logo.jpeg){width=50% fig-align=left}
+
 <https://databrary.org>
 
 ### Open and Reproducible Research Initiative {-}

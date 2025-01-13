@@ -7,14 +7,14 @@ This section describes them.
 
 [Asana](https://asana.com/) is used for task management in the lab.
 
-![Asana01](include/img/asana-01.png)
+![Asana01](include/img/asana-01.png){width=50% fig-align=left}
 
 Sign up for an account
 
   - Go to the [Log in page](https://app.asana.com/-/login) 
   - Pick `Sign Up` at the bottom of the window
   
-![Asana02](include/img/asana-02.png)
+![Asana02](include/img/asana-02.png){width=50% fig-align=left}
 
   - `Email` the lab manager with your name associated email address so they may add you to the Gilmore Lab space
 
@@ -24,12 +24,23 @@ Please accept the invitation to our server 'Gilmore Lab':
 
 You may be asked to create your account first. If so, follow these steps:
 
-- Open your web browser and [register](https://discordapp.com/register) for a Discord Account. 
-- Fill out the information including your email address, username, and password. - Once you fill out the required information, click on `Continue`. 
-- You have now successfully created your Discord Account. 
-- You need to verify your email address before you can fully use your Discord account.
-- Go to your email and open the email from Discord. 
-- Click on `Verify Email` box to verify your email account.
+ - Open your web browser and [register](https://discordapp.com/register) for a Discord Account. 
+ - Fill out the information including your email address, username, and password. - Once you fill out the required information, click on `Continue`. 
+ - You have now successfully created your Discord Account. 
+ - You need to verify your email address before you can fully use your Discord account.
+ - Go to your email and open the email from Discord. 
+ - Click on `Verify Email` box to verify your email account.
+
+Start using Discord
+
+ - Login
+ - Go to `Settings`
+ 
+![Discord Settings Icon][include/img/discord-settings.png]
+
+ - Now you can ensure you receive notifications related to discord.
+
+![Discord Notifications][include/img/discord-notifications.png]
 
 ## DataCamp {-}
 
@@ -69,11 +80,11 @@ Please accept the invitation email the lab manager sent to your PSU email accoun
 
 [HappyGit and GitHub for the useR](https://happygitwithr.com/index.html) is the BEST instruction manual with ALL of the nitty gritty details! However I am going to provide a short version with some more screenshots here.
 
-The general steps are:
-- download R
-- download RStudio
-- download Git
-- connect RStudio and Git/GitHub
+The general steps are:  
+ - download R
+ - download RStudio
+ - download Git
+ - connect RStudio and Git/GitHub
 
 ## Mac {-}
 

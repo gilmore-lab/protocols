@@ -34,7 +34,7 @@
     "href": "projects.html#active",
     "title": "2  Projects",
     "section": "",
-    "text": "Play & Learning Across a Year (PLAY)\n\nhttps://play-project.org\nSurvey data from PLAY can be found here:\nhttps://PLAY-behaviorome.github.io/KoBoToolbox/\n\n\nDatabrary\n https://databrary.org\n\n\nOpen and Reproducible Research Initiative",
+    "text": "Play & Learning Across a Year (PLAY)\n\nhttps://play-project.org\nSurvey data from PLAY can be found here:\nhttps://PLAY-behaviorome.github.io/KoBoToolbox/\n\n\nDatabrary\n\n\n\n\n\nhttps://databrary.org\n\n\nOpen and Reproducible Research Initiative",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Projects</span>"
     ]
@@ -74,7 +74,7 @@
     "href": "onboarding.html#discord",
     "title": "3  Onboarding",
     "section": "Discord",
-    "text": "Discord\nPlease accept the invitation to our server ‘Gilmore Lab’:\nYou may be asked to create your account first. If so, follow these steps:\n\nOpen your web browser and register for a Discord Account.\nFill out the information including your email address, username, and password. - Once you fill out the required information, click on Continue.\nYou have now successfully created your Discord Account.\nYou need to verify your email address before you can fully use your Discord account.\nGo to your email and open the email from Discord.\nClick on Verify Email box to verify your email account.",
+    "text": "Discord\nPlease accept the invitation to our server ‘Gilmore Lab’:\nYou may be asked to create your account first. If so, follow these steps:\n\nOpen your web browser and register for a Discord Account.\nFill out the information including your email address, username, and password. - Once you fill out the required information, click on Continue.\nYou have now successfully created your Discord Account.\nYou need to verify your email address before you can fully use your Discord account.\nGo to your email and open the email from Discord.\nClick on Verify Email box to verify your email account.\n\nStart using Discord\n\nLogin\nGo to Settings\n\n![Discord Settings Icon][include/img/discord-settings.png]\n\nNow you can ensure you receive notifications related to discord.\n\n![Discord Notifications][include/img/discord-notifications.png]",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Onboarding</span>"
     ]
@@ -124,7 +124,7 @@
     "href": "onboarding.html#connect-rstudio-to-gitgithub",
     "title": "3  Onboarding",
     "section": "Connect RStudio to Git/GitHub",
-    "text": "Connect RStudio to Git/GitHub\nHappyGit and GitHub for the useR is the BEST instruction manual with ALL of the nitty gritty details! However I am going to provide a short version with some more screenshots here.\nThe general steps are: - download R - download RStudio - download Git - connect RStudio and Git/GitHub",
+    "text": "Connect RStudio to Git/GitHub\nHappyGit and GitHub for the useR is the BEST instruction manual with ALL of the nitty gritty details! However I am going to provide a short version with some more screenshots here.\nThe general steps are:\n- download R - download RStudio - download Git - connect RStudio and Git/GitHub",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Onboarding</span>"
     ]
