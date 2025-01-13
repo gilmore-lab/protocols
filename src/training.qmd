@@ -17,27 +17,25 @@ For Access, go to [CITI training](http://citi.psu.edu/).
 
 Expiration: every 3 years.
 
-![CITI Training]("img/citi_01.PNG")
+![Log in to University Park](include/img/citi_01.PNG)
 
-![CITI Training]("img/citi_02.PNG")
+![CITI Training](include/img/citi_02.PNG)
 
-![CITI Training]("img/citi_03.JPG")
+![CITI Training](include/img/citi_03.JPG)
 
-![CITI Training]("img/citi_04.PNG")
+![CITI Training](include/img/citi_04.PNG)
 
-![CITI Training]("img/citi_05.PNG")
+![CITI Training](include/img/citi_05.JPG)
 
-![CITI Training]("img/citi_06.PNG")
+![CITI Training](include/img/citi_06.JPG)
 
-![CITI Training]("img/citi_08.PNG")
+![CITI Training](include/img/citi_08.PNG)
 
-![CITI Training]("img/citi_09.PNG")
+![CITI Training](include/img/citi_09.PNG)
 
-![CITI Training]("img/citi_10.PNG")
+![CITI Training](include/img/citi_10.PNG)
 
-![CITI Training]("img/citi_11.PNG")
-
-![CITI Training]("img/citi_08.PNG")
+![CITI Training](include/img/citi_11.PNG)
 
 - Choose the `University Park, Commonwealth, and other non-Hershey personnel` option  
 - Click `LOG IN TO CITI`  
@@ -83,12 +81,12 @@ For Access go to the [Learning Resource Network](http://lrn.psu.edu/)
 - Click the box `Faculty, Staff & Part time`  
 - Then `Login with Access Account`
 
-![Compliance Training]("img/comp-train-1.png")
+![Compliance Training](include/img/comp-train-1.png)
 
 - In the Search box, type `Annual Compliance Training`
 - Choose `2022 Annual Compliance Training`
 
-![Compliance Training]("img/comp-train-3.png")
+![Compliance Training](include/img/comp-train-3.png)
 
 #### Login with a LRN Account {-}
 
@@ -97,7 +95,7 @@ If you have difficulty logging in go to: http://lrn.psu.edu/
 - Select `Volunteer/Non-Paid Student/Other`  
 - Click the box `Volunteer/Student/Other Create LRN Account`
 
-![Insert Image]("img/GilmoreLabLogo.png")
+![Insert Image](include/img/GilmoreLabLogo.png)
 
 - Supervisory Organization: Choose `Affiliate PENN STATE STUDENT`  
 - Location: Choose `Penn State University Park`  

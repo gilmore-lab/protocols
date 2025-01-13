@@ -2,7 +2,9 @@
 
 ## Participant Recruitment
 
-### First Families
+### FIRSt Families
+
+We use [FIRSt Families Database](https://firstfamilies.la.psu.edu/) to gather prospective participant contacts. 
 
 ### Mailing Letters - Postage Forms
 
@@ -10,12 +12,7 @@ When letters need to be sent to participants, a postage form needs to be complet
 
 Go to: https://multimediaprint.psu.edu/
 
-
-
-```{r, echo=FALSE, out.width="100%", fig.align="center", fig.cap="PSU Multimedia and Print Center"}
-knitr::include_graphics("img/multimedia-banner.png")
-```
-
+![PSU Multimedia and Print Center](include/img/multimedia-banner.png)
 - click the `meter slip` button in the top right corner.
 
 - click 'Login'
@@ -25,7 +22,6 @@ Info you will need
 - Task: Participant Recruitment Letters
 
 ## Create a Listserv
-
 
 
 - [create a new listserv](https://lists.psu.edu/cgi-bin/Newlist.cgi)

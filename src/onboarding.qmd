@@ -7,14 +7,14 @@ This section describes them.
 
 [Asana](https://asana.com/) is used for task management in the lab.
 
-![Asana01]("img/asana-01.png")
+![Asana01](include/img/asana-01.png)
 
 Sign up for an account
 
   - Go to the [Log in page](https://app.asana.com/-/login) 
   - Pick `Sign Up` at the bottom of the window
   
-![Asana02]("img/asana-02.png")
+![Asana02](include/img/asana-02.png)
 
   - `Email` the lab manager with your name associated email address so they may add you to the Gilmore Lab space
 
@@ -53,7 +53,7 @@ Things you need to know:
 
 - Share this calendar with the lab email with `See all event details`
 
-![Calendar]("img/google-calendar_01.png")
+![Calendar](include/img/google-calendar_01.png)
 
 After the lab manager receives all calendars for the semester, the weekly meeting time will be determined. This meeting time will then be sent out via a google calendar invitation.
 
@@ -79,7 +79,7 @@ The general steps are:
 
 ### Download R {-}
 
-![Download R page]("img/R-RStudio-install.png")
+![Download R page](include/img/R-RStudio-install.png)
 
 ### Download R Studio {-}
 
@@ -97,23 +97,23 @@ This should take you to https://cloud.r-project.org/
 
 Click on the link `Download R for Windows`
 
-![Download R Windows]("img/RforWindows.jpg")
+![Download R Windows](include/img/RforWindows.jpg)
 
 Click on the link `install R for the first time`
 
-![Install R]("img/R-RStudio-install.png")
+![Install R](include/img/R-RStudio-install.png)
 
 Click on the link `Download R-4.2.3 for Windows` (or whatever is the most recent version of R listed)
 
-![Download R Windows]("img/RdownloadWin.jpg")
+![Download R Windows](include/img/RdownloadWin.jpg)
 
 Then open the downloaded .exe file to install
 
-![Install R Version]("img/InstallVerR.jpg")
+![Install R Version](include/img/InstallVerR.jpg)
 
 Choose `Next` to install into the default folder
 
-![InstallR1]("img/InstallR1.jpg")
+![InstallR1](include/img/InstallR1.jpg)
 
 ### Download R Studio {-}
 

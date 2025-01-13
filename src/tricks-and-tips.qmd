@@ -36,8 +36,8 @@ knitr::include_graphics("path/to/img_file")
 ### Embed a video {-}
 
 ````
-`r ''````{r, echo=FALSE, out.width="100%", fig.align="center", fig.cap="Data Sharing and Management Snafu in 3 Short Acts: https://youtu.be/66oNv_DJuPc"}
-knitr::include_url("https://www.youtube.com/embed/66oNv_DJuPc")
+```{=html}
+<iframe height="400" width="700" fig.align="center", fig.cap="Data Sharing and Management Snafu in 3 Short Acts: https://youtu.be/66oNv_DJuPc"} src="https://www.youtube.com/embed/66oNv_DJuPc" ></iframe>
 ```
 ````
 

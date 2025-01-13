@@ -1,0 +1,362 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Gilmore Lab Manual",
+    "section": "",
+    "text": "1 About\nThis document is the go-to “how-to” manual for the Gilmore Lab. It is where we document every imaginable procedure and task so that future lab members can get up-to-speed quickly and efficiently.\nThe document is a group effort. It is revised and updated often.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#the-authors",
+    "href": "index.html#the-authors",
+    "title": "Gilmore Lab Manual",
+    "section": "The authors",
+    "text": "The authors\nRick Gilmore is Professor of Psychology at Penn State. He directs the lab.\nAndrea Seisler is the lab manager. She also serves as the Authorizations and Support Specialist for Databrary. Andrea compiled much of the information in the first version of this protocol document.\nMadison Gehringer is an undergraduate research assistant.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About</span>"
+    ]
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "2  Projects",
+    "section": "",
+    "text": "Active",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Projects</span>"
+    ]
+  },
+  {
+    "objectID": "projects.html#active",
+    "href": "projects.html#active",
+    "title": "2  Projects",
+    "section": "",
+    "text": "Play & Learning Across a Year (PLAY)\n\nhttps://play-project.org\nSurvey data from PLAY can be found here:\nhttps://PLAY-behaviorome.github.io/KoBoToolbox/\n\n\nDatabrary\n https://databrary.org\n\n\nOpen and Reproducible Research Initiative",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Projects</span>"
+    ]
+  },
+  {
+    "objectID": "projects.html#past",
+    "href": "projects.html#past",
+    "title": "2  Projects",
+    "section": "Past",
+    "text": "Past\n\nSex differences in vision and cognition\n\n\nOptic flow",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Projects</span>"
+    ]
+  },
+  {
+    "objectID": "onboarding.html",
+    "href": "onboarding.html",
+    "title": "3  Onboarding",
+    "section": "",
+    "text": "Asana\nThe lab uses a number of tools. This section describes them.\nAsana is used for task management in the lab.\nSign up for an account",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Onboarding</span>"
+    ]
+  },
+  {
+    "objectID": "onboarding.html#asana",
+    "href": "onboarding.html#asana",
+    "title": "3  Onboarding",
+    "section": "",
+    "text": "Asana01\n\n\n\n\nGo to the Log in page\nPick Sign Up at the bottom of the window\n\n\n\n\nAsana02\n\n\n\nEmail the lab manager with your name associated email address so they may add you to the Gilmore Lab space",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Onboarding</span>"
+    ]
+  },
+  {
+    "objectID": "onboarding.html#discord",
+    "href": "onboarding.html#discord",
+    "title": "3  Onboarding",
+    "section": "Discord",
+    "text": "Discord\nPlease accept the invitation to our server ‘Gilmore Lab’:\nYou may be asked to create your account first. If so, follow these steps:\n\nOpen your web browser and register for a Discord Account.\nFill out the information including your email address, username, and password. - Once you fill out the required information, click on Continue.\nYou have now successfully created your Discord Account.\nYou need to verify your email address before you can fully use your Discord account.\nGo to your email and open the email from Discord.\nClick on Verify Email box to verify your email account.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Onboarding</span>"
+    ]
+  },
+  {
+    "objectID": "onboarding.html#datacamp",
+    "href": "onboarding.html#datacamp",
+    "title": "3  Onboarding",
+    "section": "DataCamp",
+    "text": "DataCamp\nDataCamp is used for learning the basics in R\n\nThe Lab Manager will send an invitation to your PSU email address to join DataCamp.\nPlease check your PSU email and accept the invitation email to the Psych 494 Research Studies Class\nIf you do not already have an account on DataCamp, please create one.\n\ngo to DataCamp\nenter your PSU email address and create a password",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Onboarding</span>"
+    ]
+  },
+  {
+    "objectID": "onboarding.html#google-calendar",
+    "href": "onboarding.html#google-calendar",
+    "title": "3  Onboarding",
+    "section": "Google Calendar",
+    "text": "Google Calendar\nCreate a Google calendar including anything that you have on a regular basis (e.g. classes/weekly meetings)\nThings you need to know:\n\nYou will need to make each class in your schedule a recurring event so it propagates for the whole semester.\nShare this calendar with the lab email with See all event details\n\n\n\n\nCalendar\n\n\nAfter the lab manager receives all calendars for the semester, the weekly meeting time will be determined. This meeting time will then be sent out via a google calendar invitation.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Onboarding</span>"
+    ]
+  },
+  {
+    "objectID": "onboarding.html#github",
+    "href": "onboarding.html#github",
+    "title": "3  Onboarding",
+    "section": "GitHub",
+    "text": "GitHub\nPlease accept the invitation email the lab manager sent to your PSU email account to be added to our Git Repository. I believe you will be asked to create a username, enter your email and create a password at this time.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Onboarding</span>"
+    ]
+  },
+  {
+    "objectID": "onboarding.html#rstudio",
+    "href": "onboarding.html#rstudio",
+    "title": "3  Onboarding",
+    "section": "RStudio",
+    "text": "RStudio\n\nOn the web",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Onboarding</span>"
+    ]
+  },
+  {
+    "objectID": "onboarding.html#connect-rstudio-to-gitgithub",
+    "href": "onboarding.html#connect-rstudio-to-gitgithub",
+    "title": "3  Onboarding",
+    "section": "Connect RStudio to Git/GitHub",
+    "text": "Connect RStudio to Git/GitHub\nHappyGit and GitHub for the useR is the BEST instruction manual with ALL of the nitty gritty details! However I am going to provide a short version with some more screenshots here.\nThe general steps are: - download R - download RStudio - download Git - connect RStudio and Git/GitHub",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Onboarding</span>"
+    ]
+  },
+  {
+    "objectID": "onboarding.html#mac",
+    "href": "onboarding.html#mac",
+    "title": "3  Onboarding",
+    "section": "Mac",
+    "text": "Mac\n\nDownload R\n\n\n\nDownload R page\n\n\n\n\nDownload R Studio\n\n\nDownload Git",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Onboarding</span>"
+    ]
+  },
+  {
+    "objectID": "onboarding.html#windows",
+    "href": "onboarding.html#windows",
+    "title": "3  Onboarding",
+    "section": "Windows",
+    "text": "Windows\n\nDownload R\nGo to https://posit.co/download/rstudio-desktop/\nClick the button for DOWNLOAD AND INSTALL R\nThis should take you to https://cloud.r-project.org/\nClick on the link Download R for Windows\n\n\n\nDownload R Windows\n\n\nClick on the link install R for the first time\n\n\n\nInstall R\n\n\nClick on the link Download R-4.2.3 for Windows (or whatever is the most recent version of R listed)\n\n\n\nDownload R Windows\n\n\nThen open the downloaded .exe file to install\n\n\n\nInstall R Version\n\n\nChoose Next to install into the default folder\n\n\n\nInstallR1\n\n\n\n\nDownload R Studio\nGo to https://posit.co/download/rstudio-desktop/\nClick the button for DOWNLOAD RSTUDIO DESKTOP FOR WINDOWS (I think this button changes based upon the computer you are on - check on Mac)\nClick on the downloaded .exe file to begin installing RStudio\n(I don’t have screenshots of this process for windows)\n\n\nDownload Git\nThere are 15 different screens during the installation process for Windows.\n\n\nConnect RStudio and GitHub",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Onboarding</span>"
+    ]
+  },
+  {
+    "objectID": "training.html",
+    "href": "training.html",
+    "title": "4  Trainings",
+    "section": "",
+    "text": "IRB training\nAt Penn State, research is governed by an Institutional Review Board (IRB).\nAll faculty, staff, and students who conduct research need to undergo training from the IRB. There are different training programs for different types of research, e.g., research with human participants or with non-human animals.\nIn this lab, all students and staff must complete training in the ethics of conducting research with human participants.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Trainings</span>"
+    ]
+  },
+  {
+    "objectID": "training.html#irb-training",
+    "href": "training.html#irb-training",
+    "title": "4  Trainings",
+    "section": "",
+    "text": "CITI Training\nThe Collaborative Institutional Training Initiative (CITI Program). provides training modules for researchers.\nFor Access, go to CITI training.\nExpiration: every 3 years.\n\n\n\nLog in to University Park\n\n\n\n\n\nCITI Training\n\n\n\n\n\nCITI Training\n\n\n\n\n\nCITI Training\n\n\n\n\n\nCITI Training\n\n\n\n\n\nCITI Training\n\n\n\n\n\nCITI Training\n\n\n\n\n\nCITI Training\n\n\n\n\n\nCITI Training\n\n\n\n\n\nCITI Training\n\n\n\nChoose the University Park, Commonwealth, and other non-Hershey personnel option\n\nClick LOG IN TO CITI\n\nLogin = PSU Access ID\nClick View Courses next to Pennsylvania State University\n\nIf you have never taken an IRB course before\n\nUnder the Learner Tools for Pennsylvania State University click Add a course\n\nChoose Institutional Review Board (IRB) training for human subjects research then Next\n\nChoose NO, I have Not completed the Human Subjects Research (IRB) Course through CITI. I need to complete the Human Subjects Research (IRB) Course then Next\n\nChoose Social Science Research then Next\n\nChoose Research with Children then Next\n\nTake the ‘Social and Behavioral Human Subjects Research (IRB) Course’.\nEmail your training certificate to the lab email once this is complete.\nIf you have completed this training previously, please email your training certificate.\n\n\nIf you are taking a renewal IRB course",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Trainings</span>"
+    ]
+  },
+  {
+    "objectID": "training.html#other-psu-required-trainings",
+    "href": "training.html#other-psu-required-trainings",
+    "title": "4  Trainings",
+    "section": "Other PSU-required trainings",
+    "text": "Other PSU-required trainings\n\nAnnual Compliance Training\nThe Penn State compliance training is required for all Penn State employees, graduate students, and students participating in research at Penn State. This training covers ethics and obligation required of a Penn State employee.\nTo learn more about the compliance training or other trainings at Penn State please visit either of the following links:\nhttps://universityethics.psu.edu/resources-and-training\nhttps://universityethics.psu.edu/resources-and-training/compliance-training-plan\nThe compliance training has a required renewal of 365 days.\nFor Access go to the Learning Resource Network\n\nLogin with PSU Access Account\n\nClick the box Faculty, Staff & Part time\n\nThen Login with Access Account\n\n\n\n\nCompliance Training\n\n\n\nIn the Search box, type Annual Compliance Training\nChoose 2022 Annual Compliance Training\n\n\n\n\nCompliance Training\n\n\n\n\nLogin with a LRN Account\nIf you have difficulty logging in go to: http://lrn.psu.edu/\n\nSelect Volunteer/Non-Paid Student/Other\n\nClick the box Volunteer/Student/Other Create LRN Account\n\n\n\n\nInsert Image\n\n\n\nSupervisory Organization: Choose Affiliate PENN STATE STUDENT\n\nLocation: Choose Penn State University Park\n\nPosition Type: Student\n\nEnter your password\n\nClick the I'm not a robot box\n\nClick the Log In box\n\nKeep this login information. You will need it to complete these trainings every calendar year.\nEmail your training certificate to the lab email once this is complete.\n\n\n\nUnderstanding Title IX at Penn State\nEmployees and anyone with an active Penn State Access Account (WebAccess) should access the training through the Learning Resource Network:\n\nClick the box Faculty, Staff & Part time\nThen Login with Access Account\nIn the Search box, type Title IX\nChoose Understanding Title IX at Penn State You may need to click the Request Button to take the class again for this year.\n\nIf you have difficulty logging in go to the Learning Resource Network with your PSU account:\n\nSelect Volunteer/Non-Paid Student/Other\nClick the box Volunteer/Student/Other Create LRN Account\nSupervisory Organization: Choose Affiliate PENN STATE STUDENT\nLocation: Choose Penn State University Park\nPosition Type: Student\nEnter your password\nClick the I'm not a robot box\nClick the Log In box\nKeep this login information. You will need it to complete training on the LRN site every calendar year.\nEmail your training certificate to psubrainlab@gmail.com once this is complete.\n\n\n\nBuilding a Safe Penn State: Reporting Child Abuse\nEmployees and anyone with an active Penn State Access Account (WebAccess) should access the training through the Learning Resource Network:\n\nClick the box Faculty, Staff & Part time\nThen Login with Access Account\nIn the Search box, type Reporting Child Abuse\nChoose Building a Safe Penn State: Reporting Child Abuse You may need to click the Request Button to take the class again for this year.\n\nIf you have difficulty logging in go to the Learning Resource Network with your PSU account:\n\nSelect Volunteer/Non-Paid Student/Other\nClick the box Volunteer/Student/Other Create LRN Account\nSupervisory Organization: Choose Affiliate PENN STATE STUDENT\nLocation: Choose Penn State University Park\nPosition Type: Student\nEnter your password\nClick the I'm not a robot box\nClick the Log In box\nKeep this login information. You will need it to complete training on the LRN site every calendar year.\nEmail your training certificate to psubrainlab@gmail.com once this is complete.\n\n\n\nClery Act Training\nEmployees and anyone with an active Penn State Access Account (WebAccess) should access the training through the Learning Resource Network:\n\nClick the box Faculty, Staff & Part time\nThen Login with Access Account\nIn the Search box, type Clery Act Training\nChoose Clery Act Training You may need to click the Request Button to take the class again for this year.\n\nIf you have difficulty logging in go to the Learning Resource Network with your PSU account:\n\nSelect Volunteer/Non-Paid Student/Other\nClick the box Volunteer/Student/Other Create LRN Account\nSupervisory Organization: Choose Affiliate PENN STATE STUDENT\nLocation: Choose Penn State University Park\nPosition Type: Student\nEnter your password\nClick the I'm not a robot box\nClick the Log In box\nKeep this login information. You will need it to complete training on the LRN site every calendar year.\nEmail your training certificate to psubrainlab@gmail.com once this is complete.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Trainings</span>"
+    ]
+  },
+  {
+    "objectID": "rstudio-github.html",
+    "href": "rstudio-github.html",
+    "title": "5  RStudio + GitHub",
+    "section": "",
+    "text": "5.1 Create a New Project in RStudio from an existing project on GitHub\nHappy Git and GitHub for the useR is a great resource for connecting Git/GitHub and RStudio.\nMarkdown Cheatsheet",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>RStudio + GitHub</span>"
+    ]
+  },
+  {
+    "objectID": "rstudio-github.html#create-a-branch-in-github",
+    "href": "rstudio-github.html#create-a-branch-in-github",
+    "title": "5  RStudio + GitHub",
+    "section": "5.2 Create a branch in GitHub",
+    "text": "5.2 Create a branch in GitHub\nFor each GitHub repository you will be working on in the lab that is shared among others, you will need to create your own Branch.\nPlease create your own branch directly in the repository on the GitHub site",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>RStudio + GitHub</span>"
+    ]
+  },
+  {
+    "objectID": "rstudio-github.html#create-pull-request-for-review-on-github",
+    "href": "rstudio-github.html#create-pull-request-for-review-on-github",
+    "title": "5  RStudio + GitHub",
+    "section": "5.3 Create Pull Request, for review, on GitHub",
+    "text": "5.3 Create Pull Request, for review, on GitHub",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>RStudio + GitHub</span>"
+    ]
+  },
+  {
+    "objectID": "workflow.html",
+    "href": "workflow.html",
+    "title": "6  Workflow",
+    "section": "",
+    "text": "Package dependencies\nThere are many R packages that make writing documents like this especially easy. These must be installed in your system.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Workflow</span>"
+    ]
+  },
+  {
+    "objectID": "workflow.html#package-dependencies",
+    "href": "workflow.html#package-dependencies",
+    "title": "6  Workflow",
+    "section": "",
+    "text": "install.packages(\"tidyverse\")",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Workflow</span>"
+    ]
+  },
+  {
+    "objectID": "workflow.html#r-markdown-conventions",
+    "href": "workflow.html#r-markdown-conventions",
+    "title": "6  Workflow",
+    "section": "R Markdown conventions",
+    "text": "R Markdown conventions\n\nbookdown\n\nTo omit the automatic numbering, add {-} to the end of the line for each header–e.g., lines that start with one or more hash # characters.\n\n# Top-level header without numbers {-}\n\n## Second-level header without numbers {-}",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Workflow</span>"
+    ]
+  },
+  {
+    "objectID": "workflow.html#knitr",
+    "href": "workflow.html#knitr",
+    "title": "6  Workflow",
+    "section": "knitr",
+    "text": "knitr",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Workflow</span>"
+    ]
+  },
+  {
+    "objectID": "workflow.html#inserting-images",
+    "href": "workflow.html#inserting-images",
+    "title": "6  Workflow",
+    "section": "Inserting images",
+    "text": "Inserting images\nTo insert an image, you will need to insert an R code chunk (opt+command+I on MacOS; alt+ctrl+I on Windows).\n`r ''````{r, out.width=\"100%\", fig.align=\"center\", fig.cap=\"This is a great figure from Seisler et al. 2023.\"}\nknitr::insert_graphics(\"path/to/img_file\")\n```",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Workflow</span>"
+    ]
+  },
+  {
+    "objectID": "tricks-and-tips.html",
+    "href": "tricks-and-tips.html",
+    "title": "7  Tricks and tips",
+    "section": "",
+    "text": "Learning resources",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Tricks and tips</span>"
+    ]
+  },
+  {
+    "objectID": "tricks-and-tips.html#learning-resources",
+    "href": "tricks-and-tips.html#learning-resources",
+    "title": "7  Tricks and tips",
+    "section": "",
+    "text": "R Markdown\nOne of the authors of the bookdown package that we are using to make this manual wrote a book about R Markdown: https://bookdown.org/yihui/rmarkdown/. It’s a great resource, and it gets updated regularly unlike the printed book.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Tricks and tips</span>"
+    ]
+  },
+  {
+    "objectID": "tricks-and-tips.html#naming-things",
+    "href": "tricks-and-tips.html#naming-things",
+    "title": "7  Tricks and tips",
+    "section": "Naming things",
+    "text": "Naming things",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Tricks and tips</span>"
+    ]
+  },
+  {
+    "objectID": "tricks-and-tips.html#knitr",
+    "href": "tricks-and-tips.html#knitr",
+    "title": "7  Tricks and tips",
+    "section": "knitr",
+    "text": "knitr\nknitr is one of the engines that turns RMarkdown into HTML, PDF, and other outputs. By engine we mean it’s an R package. The package also let’s us create ‘chunks’ of R code.\n\nUse chunk formatting\nThis will appear in 'chunk' formatting.\n\n\nMake code chunk with {r} formatting\nHere is how to make a code chunk appear with the formatting you need to type it into an R Markdown document.\nTo see what this looks like in the R Markdown document, you have to view the code.\n`r ''````{r, out.width=\"100%\", fig.align=\"center\", fig.cap=\"Fig 1\"}\nknitr::include_graphics(\"path/to/img_file\")\n```\n\n\nEmbed a video\n```{=html}\n&lt;iframe height=\"400\" width=\"700\" fig.align=\"center\", fig.cap=\"Data Sharing and Management Snafu in 3 Short Acts: https://youtu.be/66oNv_DJuPc\"} src=\"https://www.youtube.com/embed/66oNv_DJuPc\" &gt;&lt;/iframe&gt;\n```\nAnd here is how that will look in the document. I’ve added echo=FALSE to the knitr parameters so that the chunk itself doesn’t appear.\n\nIt’s good practice to put the URL to the video in the figure caption. That way if the embedding fails, you have a fallback. Also, it’s good academic practice to site all sources.\nNotice that the URL for the embedded video is slightly different from the video’s landing page. The landing page URL has https://youtu.be/66oNv_DJuPc while the embedded video has https://www.youtube.com/embed/66oNv_DJuPc. The video’s identifier (66oNv_DJuPc) is the same in both.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Tricks and tips</span>"
+    ]
+  },
+  {
+    "objectID": "lab-computer-maintenance.html",
+    "href": "lab-computer-maintenance.html",
+    "title": "8  Lab Computer Maintenance",
+    "section": "",
+    "text": "8.1 Reset PRAM/NVRAM\nWhen completing both procedures, reset PRAM first, then SMC. - completed 4/2023 when wireless mouse was acting up\nPRAM stands for “parameter random-access memory.” This is the portion of the system memory that holds a small number of settings that the system can access quickly. Newer Intel Macs use NVRAM (non-volatile random–access memory) for the same purpose. Apple keeps things like the display resolution, volume, and startup disk location in this portion of your system memory. Resetting the PRAM or NVRAM can sometimes remedy strange bugs. Both PRAM and NVRAM are reset the same way.\nComplete the following steps:",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lab Computer Maintenance</span>"
+    ]
+  },
+  {
+    "objectID": "lab-computer-maintenance.html#reset-pramnvram",
+    "href": "lab-computer-maintenance.html#reset-pramnvram",
+    "title": "8  Lab Computer Maintenance",
+    "section": "",
+    "text": "Shut Down Mac\nTurn On Mac\nImmediately press option + P +R\nHold down until AFTER you hear the start-up sound",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lab Computer Maintenance</span>"
+    ]
+  },
+  {
+    "objectID": "lab-computer-maintenance.html#reset-smc",
+    "href": "lab-computer-maintenance.html#reset-smc",
+    "title": "8  Lab Computer Maintenance",
+    "section": "8.2 Reset SMC",
+    "text": "8.2 Reset SMC\nThe SMC is the system management controller. Resetting the SMC is a similar operation to resetting the NVRAM. Apple recommends resetting it to fix issues with power, battery, fans, and other features.\nComplete the following steps for an iMac, Mac Pro, or Mac mini:\n\nShut Down Mac\nUnplug Power Cord and wait 15-20 seconds\nPlug in and wait 5 minutes\nStart Up Mac\n\nM1 Macs\nM1 Macs don’t need to have NVRAM cleared or the SMC rebooted. (SMC doesn’t exist on M1 Macs.) When an M1 Mac reboots, it runs a sequence to make sure the NVRAM is doing what it should do. This is the advantage of Apple making both the hardware and the software.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lab Computer Maintenance</span>"
+    ]
+  },
+  {
+    "objectID": "lab-manager-how-to.html",
+    "href": "lab-manager-how-to.html",
+    "title": "9  Lab Manager How To",
+    "section": "",
+    "text": "9.1 Participant Recruitment",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Lab Manager How To</span>"
+    ]
+  },
+  {
+    "objectID": "lab-manager-how-to.html#participant-recruitment",
+    "href": "lab-manager-how-to.html#participant-recruitment",
+    "title": "9  Lab Manager How To",
+    "section": "",
+    "text": "9.1.1 FIRSt Families\nWe use FIRSt Families Database to gather prospective participant contacts.\n\n\n9.1.2 Mailing Letters - Postage Forms\nWhen letters need to be sent to participants, a postage form needs to be completed.\nGo to: https://multimediaprint.psu.edu/\n - click the meter slip button in the top right corner.\n\nclick ‘Login’\n\nInfo you will need - Cost Center OR - Task: Participant Recruitment Letters",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Lab Manager How To</span>"
+    ]
+  },
+  {
+    "objectID": "lab-manager-how-to.html#create-a-listserv",
+    "href": "lab-manager-how-to.html#create-a-listserv",
+    "title": "9  Lab Manager How To",
+    "section": "9.2 Create a Listserv",
+    "text": "9.2 Create a Listserv\n\ncreate a new listserv\nhow to add subscribers to a Listserv at PSU\nhow to Bulk Add Subscribers\n\nSpecific Bulk add information to come soon.\n\nGo to http://lists.psu.edu/ and log in if you have not already done so.\nOn the home page, click Mailing List Management Interface",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Lab Manager How To</span>"
+    ]
+  }
+]
