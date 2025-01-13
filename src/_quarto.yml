@@ -1,0 +1,40 @@
+project:
+  type: book
+  output-dir: "../docs"
+
+book:
+  title: "Gilmore Lab Manual"
+  author: "Rick O. Gilmore & Andrea R. Seisler"
+  date: last-modified 
+  description: "This is the lab manual for the Gilmore Lab at Penn State" 
+  
+  site-url: http://gilmore-lab.github.io/protocols/
+  repo-url: https://github.com/gilmore-lab/protocols
+  repo-actions: [edit,issue]
+  repo-subdir: src
+  
+  chapters:
+    - index.qmd
+    - projects.qmd
+    - onboarding.qmd
+    - training.qmd
+    - rstudio-github.qmd
+    - workflow.qmd
+    - tricks-and-tips.qmd
+    - lab-computer-maintenance.qmd
+    - lab-manager-how-to.qmd
+    
+format:
+  html:
+    theme: cosmo
+    number_sections: false
+    css: include/css/style.css
+    csl: include/bib/apa.csl
+    bibliography: [include/bib/packages.bib, include/bib/references.bib]
+    citations-hover: true
+    footnotes-hover: true
+    toc: true
+    toc-depth: 4
+    
+  # epub:
+  #   cover-image: src/img/GilmoreLabLogo.png

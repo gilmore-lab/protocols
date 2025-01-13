@@ -1,6 +1,8 @@
 .Rproj.user
-.RData
 .Rhistory
+.RData
+.Ruserdata
 protocols.Rproj
 .DS_Store
-_main.Rmd
+/.quarto/
+*_cache/
