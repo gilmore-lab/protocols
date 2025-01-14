@@ -190,7 +190,10 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#download-r" id="toc-download-r" class="nav-link" data-scroll-target="#download-r">Download R</a></li>
   <li><a href="#download-r-studio" id="toc-download-r-studio" class="nav-link" data-scroll-target="#download-r-studio">Download R Studio</a></li>
   <li><a href="#download-git" id="toc-download-git" class="nav-link" data-scroll-target="#download-git">Download Git</a></li>
-  <li><a href="#download-quarto" id="toc-download-quarto" class="nav-link" data-scroll-target="#download-quarto">Download Quarto</a></li>
+  <li><a href="#download-quarto" id="toc-download-quarto" class="nav-link" data-scroll-target="#download-quarto">Download Quarto</a>
+  <ul>
+  <li><a href="#make-sure-quarto-works" id="toc-make-sure-quarto-works" class="nav-link" data-scroll-target="#make-sure-quarto-works">Make sure Quarto Works</a></li>
+  </ul></li>
   </ul></li>
   <li><a href="#windows" id="toc-windows" class="nav-link" data-scroll-target="#windows">Windows</a>
   <ul>
@@ -266,11 +269,21 @@ ul.task-list li input[type="checkbox"] {
 <li>Login</li>
 <li>Go to <code>Settings</code></li>
 </ul>
-<p>![Discord Settings Icon][include/img/discord-settings.png]</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="include/img/discord-settings.png" class="img-fluid figure-img"></p>
+<figcaption>Discord Settings Icon</figcaption>
+</figure>
+</div>
 <ul>
 <li>Now you can ensure you receive notifications related to discord.</li>
 </ul>
-<p>![Discord Notifications][include/img/discord-notifications.png]</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="include/img/discord-notifications.png" class="img-fluid figure-img"></p>
+<figcaption>Discord Notifications</figcaption>
+</figure>
+</div>
 </section>
 <section id="datacamp" class="level2 unnumbered">
 <h2 class="unnumbered anchored" data-anchor-id="datacamp">DataCamp</h2>
@@ -342,13 +355,16 @@ ul.task-list li input[type="checkbox"] {
 <li>Download the appropriate version of Quarto based on your computer</li>
 <li>Install using default settings</li>
 </ul>
-<p>Make sure Quarto Works</p>
+<section id="make-sure-quarto-works" class="level4 unnumbered">
+<h4 class="unnumbered anchored" data-anchor-id="make-sure-quarto-works">Make sure Quarto Works</h4>
 <ul>
 <li>Open R</li>
+<li>Open a project that already uses Quarto</li>
 <li>Go to Terminal</li>
 <li>Change directories to the directory of your R Project</li>
 <li>run code to render at prompt$ <code>quarto render src</code></li>
 </ul>
+</section>
 </section>
 </section>
 <section id="windows" class="level2 unnumbered">

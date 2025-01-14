@@ -36,11 +36,11 @@ Start using Discord
  - Login
  - Go to `Settings`
  
-![Discord Settings Icon][include/img/discord-settings.png]
+![Discord Settings Icon](include/img/discord-settings.png)
 
  - Now you can ensure you receive notifications related to discord.
 
-![Discord Notifications][include/img/discord-notifications.png]
+![Discord Notifications](include/img/discord-notifications.png)
 
 ## DataCamp {-}
 
@@ -104,9 +104,10 @@ Go to https://quarto.org/
  - Download the appropriate version of Quarto based on your computer
  - Install using default settings
  
-Make sure Quarto Works
+#### Make sure Quarto Works  {-}
 
  - Open R
+ - Open a project that already uses Quarto
  - Go to Terminal
  - Change directories to the directory of your R Project
  - run code to render at prompt$ `quarto render src`

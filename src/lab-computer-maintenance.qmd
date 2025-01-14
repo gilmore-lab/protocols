@@ -3,7 +3,7 @@
 When completing both procedures, reset PRAM first, then SMC.
 - completed 4/2023 when wireless mouse was acting up
 
-## Reset PRAM/NVRAM
+## Reset PRAM/NVRAM {-} 
 
 PRAM stands for “parameter random-access memory.” This is the portion of the system memory that holds a small number of settings that the system can access quickly. Newer Intel Macs use NVRAM (non-volatile random–access memory) for the same purpose. Apple keeps things like the display resolution, volume, and startup disk location in this portion of your system memory. Resetting the PRAM or NVRAM can sometimes remedy strange bugs. Both PRAM and NVRAM are reset the same way.
 
@@ -15,7 +15,7 @@ Complete the following steps:
 4. Hold down until AFTER you hear the start-up sound
 
 
-## Reset SMC
+## Reset SMC {-}
 
 The SMC is the system management controller. Resetting the SMC is a similar operation to resetting the NVRAM.  Apple recommends resetting it to fix issues with power, battery, fans, and other features.
 
@@ -30,5 +30,13 @@ M1 Macs
 
 M1 Macs don’t need to have NVRAM cleared or the SMC rebooted. (SMC doesn’t exist on M1 Macs.) When an M1 Mac reboots, it runs a sequence to make sure the NVRAM is doing what it should do. This is the advantage of Apple making both the hardware and the software.
 
+## Add printer {-}
 
+Add 5th floor printer to lab computers.
+
+ - Go go `System Settings`
+ - Scroll down to `Printers & Scanners`
+ - Click `Add Printer` and enter settings below
+ 
+![](include/img/AddPrinter-LabComputer.png){width=60% fig-align=center}
 

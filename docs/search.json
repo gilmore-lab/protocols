@@ -74,7 +74,7 @@
     "href": "onboarding.html#discord",
     "title": "3  Onboarding",
     "section": "Discord",
-    "text": "Discord\nPlease accept the invitation to our server ‘Gilmore Lab’:\nYou may be asked to create your account first. If so, follow these steps:\n\nOpen your web browser and register for a Discord Account.\nFill out the information including your email address, username, and password. - Once you fill out the required information, click on Continue.\nYou have now successfully created your Discord Account.\nYou need to verify your email address before you can fully use your Discord account.\nGo to your email and open the email from Discord.\nClick on Verify Email box to verify your email account.\n\nStart using Discord\n\nLogin\nGo to Settings\n\n![Discord Settings Icon][include/img/discord-settings.png]\n\nNow you can ensure you receive notifications related to discord.\n\n![Discord Notifications][include/img/discord-notifications.png]",
+    "text": "Discord\nPlease accept the invitation to our server ‘Gilmore Lab’:\nYou may be asked to create your account first. If so, follow these steps:\n\nOpen your web browser and register for a Discord Account.\nFill out the information including your email address, username, and password. - Once you fill out the required information, click on Continue.\nYou have now successfully created your Discord Account.\nYou need to verify your email address before you can fully use your Discord account.\nGo to your email and open the email from Discord.\nClick on Verify Email box to verify your email account.\n\nStart using Discord\n\nLogin\nGo to Settings\n\n\n\n\nDiscord Settings Icon\n\n\n\nNow you can ensure you receive notifications related to discord.\n\n\n\n\nDiscord Notifications",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Onboarding</span>"
     ]
@@ -134,7 +134,7 @@
     "href": "onboarding.html#mac",
     "title": "3  Onboarding",
     "section": "Mac",
-    "text": "Mac\n\nDownload R\n\n\n\nDownload R page\n\n\n\n\nDownload R Studio\n\n\nDownload Git\n\n\nDownload Quarto\nGo to https://quarto.org/\n\nClick on Get Started\nDownload the appropriate version of Quarto based on your computer\nInstall using default settings\n\nMake sure Quarto Works\n\nOpen R\nGo to Terminal\nChange directories to the directory of your R Project\nrun code to render at prompt$ quarto render src",
+    "text": "Mac\n\nDownload R\n\n\n\nDownload R page\n\n\n\n\nDownload R Studio\n\n\nDownload Git\n\n\nDownload Quarto\nGo to https://quarto.org/\n\nClick on Get Started\nDownload the appropriate version of Quarto based on your computer\nInstall using default settings\n\n\nMake sure Quarto Works\n\nOpen R\nOpen a project that already uses Quarto\nGo to Terminal\nChange directories to the directory of your R Project\nrun code to render at prompt$ quarto render src",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Onboarding</span>"
     ]
@@ -184,7 +184,7 @@
     "href": "rstudio-github.html",
     "title": "5  RStudio + GitHub",
     "section": "",
-    "text": "5.1 Create a New Project in RStudio from an existing project on GitHub\nHappy Git and GitHub for the useR is a great resource for connecting Git/GitHub and RStudio.\nMarkdown Cheatsheet",
+    "text": "Create a New Project in RStudio from an existing project on GitHub\nHappy Git and GitHub for the useR is a great resource for connecting Git/GitHub and RStudio.\nMarkdown Cheatsheet",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>RStudio + GitHub</span>"
     ]
@@ -193,8 +193,8 @@
     "objectID": "rstudio-github.html#create-a-branch-in-github",
     "href": "rstudio-github.html#create-a-branch-in-github",
     "title": "5  RStudio + GitHub",
-    "section": "5.2 Create a branch in GitHub",
-    "text": "5.2 Create a branch in GitHub\nFor each GitHub repository you will be working on in the lab that is shared among others, you will need to create your own Branch.\nPlease create your own branch directly in the repository on the GitHub site",
+    "section": "Create a branch in GitHub",
+    "text": "Create a branch in GitHub\nFor each GitHub repository you will be working on in the lab that is shared among others, you will need to create your own Branch.\nPlease create your own branch directly in the repository on the GitHub site",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>RStudio + GitHub</span>"
     ]
@@ -203,8 +203,8 @@
     "objectID": "rstudio-github.html#create-pull-request-for-review-on-github",
     "href": "rstudio-github.html#create-pull-request-for-review-on-github",
     "title": "5  RStudio + GitHub",
-    "section": "5.3 Create Pull Request, for review, on GitHub",
-    "text": "5.3 Create Pull Request, for review, on GitHub",
+    "section": "Create Pull Request, for review, on GitHub",
+    "text": "Create Pull Request, for review, on GitHub",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>RStudio + GitHub</span>"
     ]
@@ -304,7 +304,7 @@
     "href": "lab-computer-maintenance.html",
     "title": "8  Lab Computer Maintenance",
     "section": "",
-    "text": "8.1 Reset PRAM/NVRAM\nWhen completing both procedures, reset PRAM first, then SMC. - completed 4/2023 when wireless mouse was acting up\nPRAM stands for “parameter random-access memory.” This is the portion of the system memory that holds a small number of settings that the system can access quickly. Newer Intel Macs use NVRAM (non-volatile random–access memory) for the same purpose. Apple keeps things like the display resolution, volume, and startup disk location in this portion of your system memory. Resetting the PRAM or NVRAM can sometimes remedy strange bugs. Both PRAM and NVRAM are reset the same way.\nComplete the following steps:",
+    "text": "Reset PRAM/NVRAM\nWhen completing both procedures, reset PRAM first, then SMC. - completed 4/2023 when wireless mouse was acting up\nPRAM stands for “parameter random-access memory.” This is the portion of the system memory that holds a small number of settings that the system can access quickly. Newer Intel Macs use NVRAM (non-volatile random–access memory) for the same purpose. Apple keeps things like the display resolution, volume, and startup disk location in this portion of your system memory. Resetting the PRAM or NVRAM can sometimes remedy strange bugs. Both PRAM and NVRAM are reset the same way.\nComplete the following steps:",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lab Computer Maintenance</span>"
     ]
@@ -323,8 +323,18 @@
     "objectID": "lab-computer-maintenance.html#reset-smc",
     "href": "lab-computer-maintenance.html#reset-smc",
     "title": "8  Lab Computer Maintenance",
-    "section": "8.2 Reset SMC",
-    "text": "8.2 Reset SMC\nThe SMC is the system management controller. Resetting the SMC is a similar operation to resetting the NVRAM. Apple recommends resetting it to fix issues with power, battery, fans, and other features.\nComplete the following steps for an iMac, Mac Pro, or Mac mini:\n\nShut Down Mac\nUnplug Power Cord and wait 15-20 seconds\nPlug in and wait 5 minutes\nStart Up Mac\n\nM1 Macs\nM1 Macs don’t need to have NVRAM cleared or the SMC rebooted. (SMC doesn’t exist on M1 Macs.) When an M1 Mac reboots, it runs a sequence to make sure the NVRAM is doing what it should do. This is the advantage of Apple making both the hardware and the software.",
+    "section": "Reset SMC",
+    "text": "Reset SMC\nThe SMC is the system management controller. Resetting the SMC is a similar operation to resetting the NVRAM. Apple recommends resetting it to fix issues with power, battery, fans, and other features.\nComplete the following steps for an iMac, Mac Pro, or Mac mini:\n\nShut Down Mac\nUnplug Power Cord and wait 15-20 seconds\nPlug in and wait 5 minutes\nStart Up Mac\n\nM1 Macs\nM1 Macs don’t need to have NVRAM cleared or the SMC rebooted. (SMC doesn’t exist on M1 Macs.) When an M1 Mac reboots, it runs a sequence to make sure the NVRAM is doing what it should do. This is the advantage of Apple making both the hardware and the software.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lab Computer Maintenance</span>"
+    ]
+  },
+  {
+    "objectID": "lab-computer-maintenance.html#add-printer",
+    "href": "lab-computer-maintenance.html#add-printer",
+    "title": "8  Lab Computer Maintenance",
+    "section": "Add printer",
+    "text": "Add printer\nAdd 5th floor printer to lab computers.\n\nGo go System Settings\nScroll down to Printers & Scanners\nClick Add Printer and enter settings below",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Lab Computer Maintenance</span>"
     ]
@@ -334,7 +344,7 @@
     "href": "lab-manager-how-to.html",
     "title": "9  Lab Manager How To",
     "section": "",
-    "text": "9.1 Participant Recruitment",
+    "text": "Participant Recruitment",
     "crumbs": [
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Lab Manager How To</span>"
     ]
@@ -344,7 +354,7 @@
     "href": "lab-manager-how-to.html#participant-recruitment",
     "title": "9  Lab Manager How To",
     "section": "",
-    "text": "9.1.1 FIRSt Families\nWe use FIRSt Families Database to gather prospective participant contacts.\n\n\n9.1.2 Mailing Letters - Postage Forms\nWhen letters need to be sent to participants, a postage form needs to be completed.\nGo to: https://multimediaprint.psu.edu/\n - click the meter slip button in the top right corner.\n\nclick ‘Login’\n\nInfo you will need - Cost Center OR - Task: Participant Recruitment Letters",
+    "text": "FIRSt Families\nWe use FIRSt Families Database to gather prospective participant contacts.\n\n\nMailing Letters - Postage Forms\nWhen letters need to be sent to participants, a postage form needs to be completed.\nGo to: https://multimediaprint.psu.edu/\n\n\n\nPSU Multimedia and Print Center\n\n\n\nclick the meter slip button in the top right corner.\nclick ‘Login’\n\nInfo you will need:\n\nCost Center OR\nTask: Participant Recruitment Letters",
     "crumbs": [
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Lab Manager How To</span>"
     ]
@@ -353,8 +363,8 @@
     "objectID": "lab-manager-how-to.html#create-a-listserv",
     "href": "lab-manager-how-to.html#create-a-listserv",
     "title": "9  Lab Manager How To",
-    "section": "9.2 Create a Listserv",
-    "text": "9.2 Create a Listserv\n\ncreate a new listserv\nhow to add subscribers to a Listserv at PSU\nhow to Bulk Add Subscribers\n\nSpecific Bulk add information to come soon.\n\nGo to http://lists.psu.edu/ and log in if you have not already done so.\nOn the home page, click Mailing List Management Interface",
+    "section": "Create a Listserv",
+    "text": "Create a Listserv\n\ncreate a new listserv\nhow to add subscribers to a Listserv at PSU\nhow to Bulk Add Subscribers\n\nSpecific Bulk add information to come soon.\n\nGo to http://lists.psu.edu/ and log in if you have not already done so.\n\n\n\n\nPSU Listserv homepage\n\n\n\nOn the home page, click Mailing List Management Interface",
     "crumbs": [
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Lab Manager How To</span>"
     ]

@@ -175,8 +175,9 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#reset-pramnvram" id="toc-reset-pramnvram" class="nav-link active" data-scroll-target="#reset-pramnvram"><span class="header-section-number">8.1</span> Reset PRAM/NVRAM</a></li>
-  <li><a href="#reset-smc" id="toc-reset-smc" class="nav-link" data-scroll-target="#reset-smc"><span class="header-section-number">8.2</span> Reset SMC</a></li>
+  <li><a href="#reset-pramnvram" id="toc-reset-pramnvram" class="nav-link active" data-scroll-target="#reset-pramnvram">Reset PRAM/NVRAM</a></li>
+  <li><a href="#reset-smc" id="toc-reset-smc" class="nav-link" data-scroll-target="#reset-smc">Reset SMC</a></li>
+  <li><a href="#add-printer" id="toc-add-printer" class="nav-link" data-scroll-target="#add-printer">Add printer</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/gilmore-lab/protocols/edit/main/src/lab-computer-maintenance.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gilmore-lab/protocols/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -203,8 +204,8 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>When completing both procedures, reset PRAM first, then SMC. - completed 4/2023 when wireless mouse was acting up</p>
-<section id="reset-pramnvram" class="level2" data-number="8.1">
-<h2 data-number="8.1" class="anchored" data-anchor-id="reset-pramnvram"><span class="header-section-number">8.1</span> Reset PRAM/NVRAM</h2>
+<section id="reset-pramnvram" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="reset-pramnvram">Reset PRAM/NVRAM</h2>
 <p>PRAM stands for “parameter random-access memory.” This is the portion of the system memory that holds a small number of settings that the system can access quickly. Newer Intel Macs use NVRAM (non-volatile random–access memory) for the same purpose. Apple keeps things like the display resolution, volume, and startup disk location in this portion of your system memory. Resetting the PRAM or NVRAM can sometimes remedy strange bugs. Both PRAM and NVRAM are reset the same way.</p>
 <p>Complete the following steps:</p>
 <ol type="1">
@@ -214,8 +215,8 @@ ul.task-list li input[type="checkbox"] {
 <li>Hold down until AFTER you hear the start-up sound</li>
 </ol>
 </section>
-<section id="reset-smc" class="level2" data-number="8.2">
-<h2 data-number="8.2" class="anchored" data-anchor-id="reset-smc"><span class="header-section-number">8.2</span> Reset SMC</h2>
+<section id="reset-smc" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="reset-smc">Reset SMC</h2>
 <p>The SMC is the system management controller. Resetting the SMC is a similar operation to resetting the NVRAM. Apple recommends resetting it to fix issues with power, battery, fans, and other features.</p>
 <p>Complete the following steps for an iMac, Mac Pro, or Mac mini:</p>
 <ol type="1">
@@ -226,6 +227,20 @@ ul.task-list li input[type="checkbox"] {
 </ol>
 <p>M1 Macs</p>
 <p>M1 Macs don’t need to have NVRAM cleared or the SMC rebooted. (SMC doesn’t exist on M1 Macs.) When an M1 Mac reboots, it runs a sequence to make sure the NVRAM is doing what it should do. This is the advantage of Apple making both the hardware and the software.</p>
+</section>
+<section id="add-printer" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="add-printer">Add printer</h2>
+<p>Add 5th floor printer to lab computers.</p>
+<ul>
+<li>Go go <code>System Settings</code></li>
+<li>Scroll down to <code>Printers &amp; Scanners</code></li>
+<li>Click <code>Add Printer</code> and enter settings below</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="include/img/AddPrinter-LabComputer.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:60.0%"></p>
+</figure>
+</div>
 
 
 </section>
