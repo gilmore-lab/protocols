@@ -34,7 +34,7 @@ format:
     citations-hover: true
     footnotes-hover: true
     toc: true
-    toc-depth: 4
+    toc-depth: 5
     
   # epub:
   #   cover-image: src/img/GilmoreLabLogo.png

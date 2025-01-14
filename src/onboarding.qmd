@@ -96,6 +96,21 @@ The general steps are:
 
 ### Download Git {-}
 
+### Download Quarto {-}
+
+Go to https://quarto.org/
+
+ - Click on `Get Started`
+ - Download the appropriate version of Quarto based on your computer
+ - Install using default settings
+ 
+Make sure Quarto Works
+
+ - Open R
+ - Go to Terminal
+ - Change directories to the directory of your R Project
+ - run code to render at prompt$ `quarto render src`
+
 ## Windows {-}
 
 ### Download R {-}

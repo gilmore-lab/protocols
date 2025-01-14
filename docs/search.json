@@ -134,7 +134,7 @@
     "href": "onboarding.html#mac",
     "title": "3  Onboarding",
     "section": "Mac",
-    "text": "Mac\n\nDownload R\n\n\n\nDownload R page\n\n\n\n\nDownload R Studio\n\n\nDownload Git",
+    "text": "Mac\n\nDownload R\n\n\n\nDownload R page\n\n\n\n\nDownload R Studio\n\n\nDownload Git\n\n\nDownload Quarto\nGo to https://quarto.org/\n\nClick on Get Started\nDownload the appropriate version of Quarto based on your computer\nInstall using default settings\n\nMake sure Quarto Works\n\nOpen R\nGo to Terminal\nChange directories to the directory of your R Project\nrun code to render at prompt$ quarto render src",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Onboarding</span>"
     ]
