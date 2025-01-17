@@ -81,10 +81,12 @@ Please accept the invitation email the lab manager sent to your PSU email accoun
 [HappyGit and GitHub for the useR](https://happygitwithr.com/index.html) is the BEST instruction manual with ALL of the nitty gritty details! However I am going to provide a short version with some more screenshots here.
 
 The general steps are:  
+
  - download R
  - download RStudio
  - download Git
  - connect RStudio and Git/GitHub
+ - download Quarto
 
 ## Mac {-}
 
@@ -108,6 +110,7 @@ Go to https://quarto.org/
 
  - Open R
  - Open a project that already uses Quarto
+    - if you don't have a a project that already uses Quarto, please try [this one](insert link)
  - Go to Terminal
  - Change directories to the directory of your R Project
  - run code to render at prompt$ `quarto render src`
