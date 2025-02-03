@@ -232,17 +232,17 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="unnumbered anchored" data-anchor-id="make-code-chunk-with-r-formatting">Make code chunk with <code>{r}</code> formatting</h3>
 <p>Here is how to make a code chunk appear with the formatting you need to type it into an R Markdown document.</p>
 <p>To see what this looks like in the R Markdown document, you have to view the code.</p>
-<pre><code>`r ''````{r, out.width="100%", fig.align="center", fig.cap="Fig 1"}
+<pre><code>`r ''```
+{r, out.width="100%", fig.align="center", fig.cap="Fig 1"}
 knitr::include_graphics("path/to/img_file")
 ```</code></pre>
 </section>
 <section id="embed-a-video" class="level3 unnumbered">
 <h3 class="unnumbered anchored" data-anchor-id="embed-a-video">Embed a video</h3>
-<pre><code>```{=html}
-&lt;iframe height="400" width="700" fig.align="center", fig.cap="Data Sharing and Management Snafu in 3 Short Acts: https://youtu.be/66oNv_DJuPc"} src="https://www.youtube.com/embed/66oNv_DJuPc" &gt;&lt;/iframe&gt;
-```</code></pre>
+<pre><code>{{r,&lt; video https://www.youtube.com/embed/66oNv_DJuPc
+    title="Data Sharing and Management Snafu in 3 Short Acts https://youtu.be/66oNv_DJuPc" &gt;}}</code></pre>
 <p>And here is how that will look in the document. I’ve added <code>echo=FALSE</code> to the knitr parameters so that the chunk itself doesn’t appear.</p>
-<iframe width="780" height="500" src="https://youtu.be/66oNv_DJuPc" title="Data Sharing and Management Snafu in 3 Short Acts: https://youtu.be/66oNv_DJuPc"></iframe>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/66oNv_DJuPc" title="Data Sharing and Management Snafu in 3 Short Acts https://youtu.be/66oNv_DJuPc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 <p>It’s good practice to put the URL to the video in the figure caption. That way if the embedding fails, you have a fallback. Also, it’s good academic practice to site all sources.</p>
 <p>Notice that the URL for the embedded video is slightly different from the video’s landing page. The landing page URL has <code>https://youtu.be/66oNv_DJuPc</code> while the embedded video has <code>https://www.youtube.com/embed/66oNv_DJuPc</code>. The video’s identifier (<code>66oNv_DJuPc</code>) is the same in both.</p>
 
