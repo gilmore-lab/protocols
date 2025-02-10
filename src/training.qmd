@@ -54,25 +54,21 @@ Click `View Courses` next to **Pennsylvania State University**
 
 Take the 'Social and Behavioral Human Subjects Research (IRB) Course'.  
 
+::: {.callout-important}
+
 Email your training certificate to the [lab email](mailto:psubrainlab@gmail.com) once this is complete.  
 
 If you have completed this training previously, please email your training certificate.  
 
+:::
+
 #### If you are taking a renewal IRB course {-}
 
-## Other PSU-required trainings {-}
+Work in Progress
 
-### Annual Compliance Training {-}
+## Other PSU-required trainings through the Learning Resource Network {-}
 
-The Penn State compliance training is required for all Penn State employees, graduate students, and students participating in research at Penn State. This training covers ethics and obligation required of a Penn State employee.
-
-To learn more about the compliance training or other trainings at Penn State please visit either of the following links: 
-
-https://universityethics.psu.edu/resources-and-training
-
-https://universityethics.psu.edu/resources-and-training/compliance-training-plan
-
-The compliance training has a required renewal of 365 days.
+### Login Instructions {-}
 
 For Access go to the [Learning Resource Network](http://lrn.psu.edu/)  
 
@@ -81,16 +77,11 @@ For Access go to the [Learning Resource Network](http://lrn.psu.edu/)
 - Click the box `Faculty, Staff & Part time`  
 - Then `Login with Access Account`
 
-![Compliance Training](include/img/comp-train-1.png)
-
-- In the Search box, type `Annual Compliance Training`
-- Choose `2022 Annual Compliance Training`
-
-![Compliance Training](include/img/comp-train-3.png)
+![Login to LRN](include/img/comp-train-1.png)
 
 #### Login with a LRN Account {-}
 
-If you have difficulty logging in go to: http://lrn.psu.edu/
+If you have difficulty logging in go to the [Learning Resource Network](http://lrn.psu.edu/) with your PSU account:
 
 - Select `Volunteer/Non-Paid Student/Other`  
 - Click the box `Volunteer/Student/Other Create LRN Account`
@@ -106,79 +97,66 @@ If you have difficulty logging in go to: http://lrn.psu.edu/
 
 Keep this login information. You will need it to complete these trainings every calendar year.
 
-Email your training certificate to the [lab email](mailto:psubrainlab@gmail.com) once this is complete.
+### Values, Ethics, and Compliance Training {-}
+
+The Penn State compliance training is required for all Penn State employees, graduate students, and students participating in research at Penn State. This training covers ethics and obligation required of a Penn State employee.
+
+To learn more about the compliance training or other trainings at Penn State please visit either of the following links
+
+  - [Resources & Training](https://universityethics.psu.edu/resources-and-training)
+  - [Compliance Training](https://universityethics.psu.edu/resources-and-training/compliance-training-plan)
+
+The compliance training has a required renewal of 365 days.
+
+- In the Search box, type `Values, Ethics and Compliance`
+- Choose `Values, Ethics and Compliance at Penn State 2024`
+
+![NEED NEW PIC](include/img/comp-train-3.png)
+
+::: {.callout-important}
+
+Email your training certificate to the [lab email](mailto:psubrainlab@gmail.com) once this is complete.  
+
+:::
 
 ### Understanding Title IX at Penn State {-}
 
-Employees and anyone with an active Penn State Access Account (WebAccess) should access the training through the [Learning Resource Network](http://lrn.psu.edu/): 
+Employees and anyone with an active Penn State Access Account (WebAccess) should access the training through the [Learning Resource Network](http://lrn.psu.edu/) 
 
-- Click the box `Faculty, Staff & Part time`
-- Then `Login with Access Account` 
 - In the Search box, type **Title IX**
 - Choose `Understanding Title IX at Penn State`
 You may need to click the `Request` Button to take the class again for this year.
 
-If you have difficulty logging in go to the [Learning Resource Network](http://lrn.psu.edu/) with your PSU account: 
+::: {.callout-important}
 
-- Select `Volunteer/Non-Paid Student/Other`
-- Click the box `Volunteer/Student/Other Create LRN Account`
-- Supervisory Organization: Choose `Affiliate PENN STATE STUDENT`
-- Location: Choose `Penn State University Park`
-- Position Type: `Student`
-- Enter your password
-- Click the `I'm not a robot` box
-- Click the `Log In` box
+Email your training certificate to the [lab email](mailto:psubrainlab@gmail.com) once this is complete.  
 
-- Keep this login information. You will need it to complete training on the LRN site every calendar year.
+:::
 
-- Email your training certificate to psubrainlab@gmail.com once this is complete.
-
-### Building a Safe Penn State: Reporting Child Abuse {-}
+### Reporting Suspected Child Abuse {-}
 
 Employees and anyone with an active Penn State Access Account (WebAccess) should access the training through the [Learning Resource Network](http://lrn.psu.edu/): 
 
-- Click the box `Faculty, Staff & Part time`
-- Then `Login with Access Account` 
-- In the Search box, type **Reporting Child Abuse**
-- Choose `Building a Safe Penn State: Reporting Child Abuse`
+- In the Search box, type **Reporting Suspected Child Abuse**
+- Choose `Reporting Suspected Child Abuse`
 You may need to click the `Request` Button to take the class again for this year.
 
-If you have difficulty logging in go to the [Learning Resource Network](http://lrn.psu.edu/) with your PSU account: 
+::: {.callout-important}
 
-- Select `Volunteer/Non-Paid Student/Other`
-- Click the box `Volunteer/Student/Other Create LRN Account`
-- Supervisory Organization: Choose `Affiliate PENN STATE STUDENT`
-- Location: Choose `Penn State University Park`
-- Position Type: `Student`
-- Enter your password
-- Click the `I'm not a robot` box
-- Click the `Log In` box
+Email your training certificate to the [lab email](mailto:psubrainlab@gmail.com) once this is complete.  
 
-- Keep this login information. You will need it to complete training on the LRN site every calendar year.
-
-- Email your training certificate to psubrainlab@gmail.com once this is complete.
+:::
 
 ### Clery Act Training {-}
 
 Employees and anyone with an active Penn State Access Account (WebAccess) should access the training through the [Learning Resource Network](http://lrn.psu.edu/): 
 
-- Click the box `Faculty, Staff & Part time`
-- Then `Login with Access Account` 
 - In the Search box, type **Clery Act Training**
 - Choose `Clery Act Training`
 You may need to click the `Request` Button to take the class again for this year.
 
-If you have difficulty logging in go to the [Learning Resource Network](http://lrn.psu.edu/) with your PSU account: 
+::: {.callout-important}
 
-- Select `Volunteer/Non-Paid Student/Other`
-- Click the box `Volunteer/Student/Other Create LRN Account`
-- Supervisory Organization: Choose `Affiliate PENN STATE STUDENT`
-- Location: Choose `Penn State University Park`
-- Position Type: `Student`
-- Enter your password
-- Click the `I'm not a robot` box
-- Click the `Log In` box
+Email your training certificate to the [lab email](mailto:psubrainlab@gmail.com) once this is complete.  
 
-- Keep this login information. You will need it to complete training on the LRN site every calendar year.
-
-- Email your training certificate to psubrainlab@gmail.com once this is complete.
+:::
