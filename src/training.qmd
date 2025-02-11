@@ -64,7 +64,7 @@ If you have completed this training previously, please email your training certi
 
 #### If you are taking a renewal IRB course {-}
 
-Work in Progress
+**Work in Progress**
 
 ## Other PSU-required trainings through the Learning Resource Network {-}
 
@@ -108,6 +108,9 @@ To learn more about the compliance training or other trainings at Penn State ple
 
 The compliance training has a required renewal of 365 days.
 
+Employees and anyone with an active Penn State Access Account (WebAccess) should access the training through the [Learning Resource Network](http://lrn.psu.edu/). If you have difficulty with this process, see the [Login Options/Instructions Above](https://gilmore-lab.github.io/protocols/training.html#login-instructions)
+
+
 - In the Search box, type `Values, Ethics and Compliance`
 - Choose `Values, Ethics and Compliance at Penn State 2024`
 
@@ -121,7 +124,7 @@ Email your training certificate to the [lab email](mailto:psubrainlab@gmail.com)
 
 ### Understanding Title IX at Penn State {-}
 
-Employees and anyone with an active Penn State Access Account (WebAccess) should access the training through the [Learning Resource Network](http://lrn.psu.edu/) 
+Employees and anyone with an active Penn State Access Account (WebAccess) should access the training through the [Learning Resource Network](http://lrn.psu.edu/). If you have difficulty with this process, see the [Login Options/Instructions Above](https://gilmore-lab.github.io/protocols/training.html#login-instructions)
 
 - In the Search box, type **Title IX**
 - Choose `Understanding Title IX at Penn State`
@@ -135,7 +138,7 @@ Email your training certificate to the [lab email](mailto:psubrainlab@gmail.com)
 
 ### Reporting Suspected Child Abuse {-}
 
-Employees and anyone with an active Penn State Access Account (WebAccess) should access the training through the [Learning Resource Network](http://lrn.psu.edu/): 
+Employees and anyone with an active Penn State Access Account (WebAccess) should access the training through the [Learning Resource Network](http://lrn.psu.edu/). If you have difficulty with this process, see the [Login Options/Instructions Above](https://gilmore-lab.github.io/protocols/training.html#login-instructions)
 
 - In the Search box, type **Reporting Suspected Child Abuse**
 - Choose `Reporting Suspected Child Abuse`
@@ -149,7 +152,7 @@ Email your training certificate to the [lab email](mailto:psubrainlab@gmail.com)
 
 ### Clery Act Training {-}
 
-Employees and anyone with an active Penn State Access Account (WebAccess) should access the training through the [Learning Resource Network](http://lrn.psu.edu/): 
+Employees and anyone with an active Penn State Access Account (WebAccess) should access the training through the [Learning Resource Network](http://lrn.psu.edu/). If you have difficulty with this process, see the [Login Options/Instructions Above](https://gilmore-lab.github.io/protocols/training.html#login-instructions)
 
 - In the Search box, type **Clery Act Training**
 - Choose `Clery Act Training`
