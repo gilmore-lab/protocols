@@ -17,42 +17,46 @@ For Access, go to [CITI training](http://citi.psu.edu/).
 
 Expiration: every 3 years.
 
-![Log in to University Park](include/img/citi_01.PNG)
-
-![CITI Training](include/img/citi_02.PNG)
-
-![CITI Training](include/img/citi_03.JPG)
-
-![CITI Training](include/img/citi_04.PNG)
-
-![CITI Training](include/img/citi_05.JPG)
-
-![CITI Training](include/img/citi_06.JPG)
-
-![CITI Training](include/img/citi_08.PNG)
-
-![CITI Training](include/img/citi_09.PNG)
-
-![CITI Training](include/img/citi_10.PNG)
-
-![CITI Training](include/img/citi_11.PNG)
+![Log in to University Park](include/img/citi_01.png)
 
 - Choose the `University Park, Commonwealth, and other non-Hershey personnel` option  
-- Click `LOG IN TO CITI`  
+- Click `LOG IN TO CITI` 
+    - Login = PSU Access ID  
 
-Login = PSU Access ID  
+![CITI Training](include/img/citi_02.png)
 
-Click `View Courses` next to **Pennsylvania State University**  
+- Click `View Courses` next to **Pennsylvania State University** 
+
+![CITI Training](include/img/citi_03.jpg)
 
 #### If you have never taken an IRB course before {-}
 
-- Under the **Learner Tools for Pennsylvania State University** click `Add a course`  
-- Choose `Institutional Review Board (IRB) training for human subjects research` then `Next`  
-- Choose `NO, I have Not completed the Human Subjects Research (IRB) Course through CITI. I need to complete the Human Subjects Research (IRB) Course` then `Next`  
-- Choose `Social Science Research` then `Next`  
-- Choose `Research with Children` then `Next`  
 
-Take the 'Social and Behavioral Human Subjects Research (IRB) Course'.  
+![CITI Training](include/img/citi_04.png)
+
+- Under the **Learner Tools for Pennsylvania State University** click `Add a course`  
+
+![CITI Training](include/img/citi_05.jpg)
+
+- Choose `Institutional Review Board (IRB) training for human subjects research`
+- then `Next`
+
+![CITI Training](include/img/citi_06.jpg)
+
+- Choose 
+`NO, I have Not completed the Human Subjects Research (IRB) Course through CITI.`
+`I need to complete the Human Subjects Research (IRB) Course`
+- then `Next` 
+
+![CITI Training](include/img/citi_08.png)
+
+- Choose `Research with Children`
+- then `Next`  
+
+![CITI Choose Course](include/img/citi-social-curr.png)
+
+- Choose `Social Science Research`
+- then `Next`
 
 ::: {.callout-important}
 
@@ -64,7 +68,27 @@ If you have completed this training previously, please email your training certi
 
 #### If you are taking a renewal IRB course {-}
 
-**Work in Progress**
+
+- Under the **Learner Tools for Pennsylvania State University** click `Add a course` 
+- Choose `Institutional Review Board (IRB) training for human subjects research`
+- then `Next`
+
+![CITI Refresher](include/img/citi-refresher-01.png)
+
+- Choose 
+`YES, I have completed the Human Subjects Research (IRB) Course through CITI.`
+`It is time for me to complete the IRB Refresher Course` 
+- then `Next` 
+
+![CITI Choose Course](include/img/citi-social-curr.png)
+
+- Choose `Social Science Research` 
+- then `Next`
+
+![CITI Elective](include/img/citi-elective-children.png)
+
+- Choose `Research with Children`
+- then `Next`
 
 ## Other PSU-required trainings through the Learning Resource Network {-}
 
