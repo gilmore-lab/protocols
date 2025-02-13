@@ -13,50 +13,50 @@ In this lab, all students and staff must complete training in the ethics of cond
 
 The [Collaborative Institutional Training Initiative (CITI Program)](https://about.citiprogram.org). provides training modules for researchers.
 
-For Access, go to [CITI training](http://citi.psu.edu/).
-
 Expiration: every 3 years.
 
-![Log in to University Park](include/img/citi_01.png)
-
+- For Access, go to [CITI training](http://citi.psu.edu/).
 - Choose the `University Park, Commonwealth, and other non-Hershey personnel` option  
 - Click `LOG IN TO CITI` 
     - Login = PSU Access ID  
+    
+![Log in to University Park](include/img/citi_01.PNG)
 
-![CITI Training](include/img/citi_02.png)
+- Click `View Courses` next to **Pennsylvania State University**
 
-- Click `View Courses` next to **Pennsylvania State University** 
+![CITI Training](include/img/citi_02.PNG)
 
-![CITI Training](include/img/citi_03.jpg)
+ - INSERT TEXT HERE
+
+![CITI Training](include/img/citi_03.JPG)
 
 #### If you have never taken an IRB course before {-}
 
+- Under the **Learner Tools for Pennsylvania State University** near the bottom of the page click `Add a course`
 
-![CITI Training](include/img/citi_04.png)
-
-- Under the **Learner Tools for Pennsylvania State University** click `Add a course`  
-
-![CITI Training](include/img/citi_05.jpg)
+![CITI Training](include/img/citi_04.PNG)
 
 - Choose `Institutional Review Board (IRB) training for human subjects research`
 - then `Next`
 
-![CITI Training](include/img/citi_06.jpg)
+![CITI Training](include/img/citi_05.jpg)
 
 - Choose 
 `NO, I have Not completed the Human Subjects Research (IRB) Course through CITI.`
 `I need to complete the Human Subjects Research (IRB) Course`
 - then `Next` 
 
-![CITI Training](include/img/citi_08.png)
+![CITI Training](include/img/citi_06.jpg)
 
 - Choose `Research with Children`
 - then `Next`  
 
-![CITI Choose Course](include/img/citi-social-curr.png)
+![CITI Training](include/img/citi_08.PNG)
 
 - Choose `Social Science Research`
 - then `Next`
+
+![CITI Choose Course](include/img/citi-social-curr.png)
 
 ::: {.callout-important}
 
@@ -66,60 +66,60 @@ If you have completed this training previously, please email your training certi
 
 :::
 
-#### If you are taking a renewal IRB course {-}
-
+#### If you have previously completed the IRB course {-}
 
 - Under the **Learner Tools for Pennsylvania State University** click `Add a course` 
 - Choose `Institutional Review Board (IRB) training for human subjects research`
 - then `Next`
 
-![CITI Refresher](include/img/citi-refresher-01.png)
-
 - Choose 
 `YES, I have completed the Human Subjects Research (IRB) Course through CITI.`
 `It is time for me to complete the IRB Refresher Course` 
-- then `Next` 
+- then `Next`
 
-![CITI Choose Course](include/img/citi-social-curr.png)
+![CITI Refresher](include/img/citi-refresher-01.png)
 
 - Choose `Social Science Research` 
 - then `Next`
 
-![CITI Elective](include/img/citi-elective-children.png)
+![CITI Choose Course](include/img/citi-social-curr.png)
 
 - Choose `Research with Children`
 - then `Next`
+
+![CITI Elective](include/img/citi-elective-children.png)
+
+::: {.callout-important}
+
+Email your training certificate to the [lab email](mailto:psubrainlab@gmail.com) once this is complete.  
+
+If you have completed this training previously, please email your training certificate.  
+
+:::
 
 ## Other PSU-required trainings through the Learning Resource Network {-}
 
 ### Login Instructions {-}
 
-For Access go to the [Learning Resource Network](http://lrn.psu.edu/)  
+- For Access go to the [Learning Resource Network](http://lrn.psu.edu/)  
 
 #### Login with PSU Access Account {-}
 
-- Click the box `Faculty, Staff & Part time`  
+- Click the `LOG IN to LRN` button
 - Then `Login with Access Account`
 
 ![Login to LRN](include/img/comp-train-1.png)
 
-#### Login with a LRN Account {-}
+#### Login without a PSU Account {-}
 
 If you have difficulty logging in go to the [Learning Resource Network](http://lrn.psu.edu/) with your PSU account:
 
-- Select `Volunteer/Non-Paid Student/Other`  
-- Click the box `Volunteer/Student/Other Create LRN Account`
+- Select `Create an Account`  
 
-![Insert Image](include/img/GilmoreLabLogo.png)
+![LRN Create Account](include/img/lrn-create-acct.png)
 
-- Supervisory Organization: Choose `Affiliate PENN STATE STUDENT`  
-- Location: Choose `Penn State University Park`  
-- Position Type: `Student`  
-- Enter your password  
-- Click the `I'm not a robot` box  
-- Click the `Log In` box 
+**The process for individuals WITHOUT PSU Login Credentials has changed - Further Info regarding this process is unavailable at this time**
 
-Keep this login information. You will need it to complete these trainings every calendar year.
 
 ### Values, Ethics, and Compliance Training {-}
 

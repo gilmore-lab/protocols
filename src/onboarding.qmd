@@ -3,20 +3,34 @@
 The lab uses a number of tools.
 This section describes them.
 
-## Asana {-}
+<!-- ## Asana {-} -->
 
-[Asana](https://asana.com/) is used for task management in the lab.
+<!-- [Asana](https://asana.com/) is used for task management in the lab. -->
 
-![Asana01](include/img/asana-01.png){width=50% fig-align=left}
+<!-- ![Asana01](include/img/asana-01.png){width=50% fig-align=left} -->
 
-Sign up for an account
+<!-- Sign up for an account -->
 
-  - Go to the [Log in page](https://app.asana.com/-/login) 
-  - Pick `Sign Up` at the bottom of the window
-  
-![Asana02](include/img/asana-02.png){width=50% fig-align=left}
+<!--   - Go to the [Log in page](https://app.asana.com/-/login)  -->
+<!--   - Pick `Sign Up` at the bottom of the window -->
 
-  - `Email` the lab manager with your name associated email address so they may add you to the Gilmore Lab space
+<!-- ![Asana02](include/img/asana-02.png){width=50% fig-align=left} -->
+
+<!--   - `Email` the lab manager with your name associated email address so they may add you to the Gilmore Lab space -->
+
+## Google Calendar {-}
+
+[Create a Google calendar](https://support.google.com/calendar/answer/37095#) including anything that you have on a regular basis (e.g. classes/weekly meetings)
+
+Things you need to know:
+
+- You will need to make each class in your schedule a [recurring event](https://support.google.com/calendar/answer/37115?co=GENIE.Platform%3DDesktop&hl=en) so it propagates for the whole semester.
+
+- Share this calendar with the lab email with `See all event details`
+
+![Calendar](include/img/google-calendar_01.png)
+
+After the lab manager receives all calendars for the semester, the weekly meeting time will be determined. This meeting time will then be sent out via a google calendar invitation.
 
 ## Discord {-} 
 
@@ -54,19 +68,7 @@ Start using Discord
   - go to [DataCamp](https://www.datacamp.com/)
   - enter your PSU email address and create a password
 
-## Google Calendar {-}
 
-[Create a Google calendar](https://support.google.com/calendar/answer/37095#) including anything that you have on a regular basis (e.g. classes/weekly meetings)
-
-Things you need to know:
-
-- You will need to make each class in your schedule a [recurring event](https://support.google.com/calendar/answer/37115?co=GENIE.Platform%3DDesktop&hl=en) so it propagates for the whole semester.
-
-- Share this calendar with the lab email with `See all event details`
-
-![Calendar](include/img/google-calendar_01.png)
-
-After the lab manager receives all calendars for the semester, the weekly meeting time will be determined. This meeting time will then be sent out via a google calendar invitation.
 
 ## GitHub {-}
 
@@ -162,3 +164,7 @@ Click on the downloaded .exe file to begin installing RStudio
 There are 15 different screens during the installation process for Windows. 
 
 ### Connect RStudio and GitHub {-}
+
+General instructions can be found at [Happy Git and GitHub for the useR](https://happygitwithr.com/)
+
+**SPECIFIC LAB INSTRUCTIONS NEED TO BE ADDED**
