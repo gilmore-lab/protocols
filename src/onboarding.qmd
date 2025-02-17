@@ -62,7 +62,7 @@ Start using Discord
 
 - The Lab Manager will send an invitation to your PSU email address to join DataCamp.
 
-- Please check your PSU email and accept the invitation email to the *Psych 494 Research Studies Class*
+- Please check your PSU email and accept the invitation email to the *PSYCH 494 Spring 2025*
 
 - If you do not already have an account on DataCamp, please create one.
   - go to [DataCamp](https://www.datacamp.com/)
