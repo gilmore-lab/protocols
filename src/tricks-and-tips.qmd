@@ -55,3 +55,13 @@ Also, it's good academic practice to site all sources.
 Notice that the URL for the embedded video is slightly different from the video's landing page.
 The landing page URL has `https://youtu.be/66oNv_DJuPc` while the embedded video has `https://www.youtube.com/embed/66oNv_DJuPc`.
 The video's identifier (`66oNv_DJuPc`) is the same in both.
+
+### Generate a QR code
+ Make sure library `qrcode` is installed
+ 
+qr_code("https://webaddress.html") |>
+  generate_svg(
+    "/img/src/include/img/NAMEofQRcode.svg",
+    background = "transparent",
+    show = FALSE
+  )
