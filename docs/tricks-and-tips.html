@@ -185,6 +185,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#use-chunk-formatting" id="toc-use-chunk-formatting" class="nav-link" data-scroll-target="#use-chunk-formatting">Use chunk formatting</a></li>
   <li><a href="#make-code-chunk-with-r-formatting" id="toc-make-code-chunk-with-r-formatting" class="nav-link" data-scroll-target="#make-code-chunk-with-r-formatting">Make code chunk with <code>{r}</code> formatting</a></li>
   <li><a href="#embed-a-video" id="toc-embed-a-video" class="nav-link" data-scroll-target="#embed-a-video">Embed a video</a></li>
+  <li><a href="#generate-a-qr-code" id="toc-generate-a-qr-code" class="nav-link" data-scroll-target="#generate-a-qr-code"><span class="header-section-number">7.0.1</span> Generate a QR code</a></li>
   </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/gilmore-lab/protocols/edit/main/src/tricks-and-tips.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gilmore-lab/protocols/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
@@ -245,6 +246,11 @@ knitr::include_graphics("path/to/img_file")
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/66oNv_DJuPc" title="Data Sharing and Management Snafu in 3 Short Acts https://youtu.be/66oNv_DJuPc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 <p>It’s good practice to put the URL to the video in the figure caption. That way if the embedding fails, you have a fallback. Also, it’s good academic practice to site all sources.</p>
 <p>Notice that the URL for the embedded video is slightly different from the video’s landing page. The landing page URL has <code>https://youtu.be/66oNv_DJuPc</code> while the embedded video has <code>https://www.youtube.com/embed/66oNv_DJuPc</code>. The video’s identifier (<code>66oNv_DJuPc</code>) is the same in both.</p>
+</section>
+<section id="generate-a-qr-code" class="level3" data-number="7.0.1">
+<h3 data-number="7.0.1" class="anchored" data-anchor-id="generate-a-qr-code"><span class="header-section-number">7.0.1</span> Generate a QR code</h3>
+<p>Make sure library <code>qrcode</code> is installed</p>
+<p>qr_code(“https://webaddress.html”) |&gt; generate_svg( “/img/src/include/img/NAMEofQRcode.svg”, background = “transparent”, show = FALSE )</p>
 
 
 </section>

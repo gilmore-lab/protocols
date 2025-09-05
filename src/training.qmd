@@ -97,7 +97,7 @@ If you have completed this training previously, please email your training certi
 
 :::
 
-## Other PSU-required trainings through the Learning Resource Network {-}
+## PSU-required training through the Learning Resource Network {-}
 
 ### Login Instructions {-}
 
@@ -135,10 +135,10 @@ The compliance training has a required renewal of 365 days.
 Employees and anyone with an active Penn State Access Account (WebAccess) should access the training through the [Learning Resource Network](http://lrn.psu.edu/). If you have difficulty with this process, see the [Login Options/Instructions Above](https://gilmore-lab.github.io/protocols/training.html#login-instructions)
 
 
-- In the Search box, type `Values, Ethics and Compliance`
-- Choose `Values, Ethics and Compliance at Penn State 2024`
+- In the Search box, type `values ethics compliance`
+- Choose `Values, Ethics and Compliance at Penn State 2025`
 
-![NEED NEW PIC](include/img/comp-train-3.png)
+![](include/img/comp-train-3.png)
 
 ::: {.callout-important}
 
@@ -154,6 +154,8 @@ Employees and anyone with an active Penn State Access Account (WebAccess) should
 - Choose `Understanding Title IX at Penn State`
 You may need to click the `Request` Button to take the class again for this year.
 
+![](include/img/title-1.png)
+
 ::: {.callout-important}
 
 Email your training certificate to the [lab email](mailto:psubrainlab@gmail.com) once this is complete.  
@@ -164,9 +166,11 @@ Email your training certificate to the [lab email](mailto:psubrainlab@gmail.com)
 
 Employees and anyone with an active Penn State Access Account (WebAccess) should access the training through the [Learning Resource Network](http://lrn.psu.edu/). If you have difficulty with this process, see the [Login Options/Instructions Above](https://gilmore-lab.github.io/protocols/training.html#login-instructions)
 
-- In the Search box, type **Reporting Suspected Child Abuse**
+- In the Search box, type **Reporting Child Abuse**
 - Choose `Reporting Suspected Child Abuse`
 You may need to click the `Request` Button to take the class again for this year.
+
+![](include/img/abuse-1.png)
 
 ::: {.callout-important}
 
@@ -176,11 +180,31 @@ Email your training certificate to the [lab email](mailto:psubrainlab@gmail.com)
 
 ### Clery Act Training {-}
 
+The Clery Act requires all institutions to collect crime reports from a variety of individuals and organizations that Clery considers to be "campus security authorities."
+
 Employees and anyone with an active Penn State Access Account (WebAccess) should access the training through the [Learning Resource Network](http://lrn.psu.edu/). If you have difficulty with this process, see the [Login Options/Instructions Above](https://gilmore-lab.github.io/protocols/training.html#login-instructions)
 
-- In the Search box, type **Clery Act Training**
+- In the Search box, type **Clery Act**
 - Choose `Clery Act Training`
 You may need to click the `Request` Button to take the class again for this year.
+
+![](include/img/clery-1.png)
+
+::: {.callout-important}
+
+Email your training certificate to the [lab email](mailto:psubrainlab@gmail.com) once this is complete.  
+
+:::
+
+### Data Privacy at Penn State {-}
+
+It is recommended if you work with personally identifiable information (PII), personal information, or sensitive information that you take the data privacy training. For training on Penn State’s Privacy Program and data privacy go to the [Learning Resource Network](http://lrn.psu.edu/). If you have difficulty with this process, see the [Login Options/Instructions Above](https://gilmore-lab.github.io/protocols/training.html#login-instructions)
+
+- In the Search box, type **Data Privacy at Penn State**
+- Choose `Data Privacy at Penn State`
+You may need to click the `Request` Button to take the class again for this year.
+
+![](include/img/privacy-1.png)
 
 ::: {.callout-important}
 
