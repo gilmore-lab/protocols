@@ -114,7 +114,7 @@
     "href": "onboarding.html#connect-rstudio-to-gitgithub",
     "title": "3  Onboarding",
     "section": "Connect RStudio to Git/GitHub",
-    "text": "Connect RStudio to Git/GitHub\nHappyGit and GitHub for the useR is the BEST instruction manual with ALL of the nitty gritty details! However I am going to provide a short version with some more screenshots here.\nThe general steps are:\n\ndownload R\ndownload RStudio\ndownload Git\nconnect RStudio and Git/GitHub\ndownload Quarto",
+    "text": "Connect RStudio to Git/GitHub\nHappyGit and GitHub for the useR is the BEST instruction manual with ALL of the nitty gritty details! However I am going to provide a short version with some more screenshots here.\nThe general steps are:\n\ndownload R\ndownload RStudio\nconnect RStudio and Git/GitHub\ndownload Quarto",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Onboarding</span>"
     ]
@@ -124,7 +124,7 @@
     "href": "onboarding.html#mac",
     "title": "3  Onboarding",
     "section": "Mac",
-    "text": "Mac\n\nDownload R\n\n\n\nDownload R page\n\n\n\n\nDownload R Studio\n\n\nDownload Git\n\n\nDownload Quarto\nGo to https://quarto.org/\n\nClick on Get Started\nDownload the appropriate version of Quarto based on your computer\nInstall using default settings\n\n\nMake sure Quarto Works\n\nOpen R\nOpen a project that already uses Quarto\n\nif you don’t have a a project that already uses Quarto, please try this one\n\nGo to Terminal\nChange directories to the directory of your R Project\nrun code to render at prompt$ quarto render src",
+    "text": "Mac\n\nDownload R\n\n\n\nDownload R page\n\n\n\n\nDownload R Studio\n\nGo to: https://posit.co/download/rstudio-desktop/\nComplete steps 1 AND 2\n\n\nIf your computer version is NOT in the dropdown list, scroll down further to select the version you wish to install (e.g. Windows)\n\n\n\nDownload Quarto\nGo to https://quarto.org/\n\nClick on Get Started\nDownload the appropriate version of Quarto based on your computer\nInstall using default settings\n\n\nMake sure Quarto Works\n\nOpen R\nOpen a project that already uses Quarto\n\nADD HOW TO OPEN A PROJECT\nif you don’t have a a project that already uses Quarto, please try this one\n\nGo to Terminal\nChange directories to the directory of your R Project\nrun code to render at prompt $ quarto render src",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Onboarding</span>"
     ]
@@ -134,7 +134,7 @@
     "href": "onboarding.html#windows",
     "title": "3  Onboarding",
     "section": "Windows",
-    "text": "Windows\n\nDownload R\nGo to https://posit.co/download/rstudio-desktop/\nClick the button for DOWNLOAD AND INSTALL R\nThis should take you to https://cloud.r-project.org/\nClick on the link Download R for Windows\n\n\n\nDownload R Windows\n\n\nClick on the link install R for the first time\n\n\n\nInstall R\n\n\nClick on the link Download R-4.2.3 for Windows (or whatever is the most recent version of R listed)\n\n\n\nDownload R Windows\n\n\nThen open the downloaded .exe file to install\n\n\n\nInstall R Version\n\n\nChoose Next to install into the default folder\n\n\n\nInstallR1\n\n\n\n\nDownload R Studio\nGo to https://posit.co/download/rstudio-desktop/\nClick the button for DOWNLOAD RSTUDIO DESKTOP FOR WINDOWS (I think this button changes based upon the computer you are on - check on Mac)\nClick on the downloaded .exe file to begin installing RStudio\n(I don’t have screenshots of this process for windows)\n\n\nDownload Git\nThere are 15 different screens during the installation process for Windows.\n\n\nConnect RStudio and GitHub\nGeneral instructions can be found at Happy Git and GitHub for the useR\nSPECIFIC LAB INSTRUCTIONS NEED TO BE ADDED",
+    "text": "Windows\n\nDownload R\nGo to https://posit.co/download/rstudio-desktop/\nClick the button for DOWNLOAD AND INSTALL R\nThis should take you to https://cloud.r-project.org/\nClick on the link Download R for Windows\n\n\n\nDownload R Windows\n\n\nClick on the link install R for the first time\n\n\n\nInstall R\n\n\nClick on the link Download R-4.2.3 for Windows (or whatever is the most recent version of R listed)\n\n\n\nDownload R Windows\n\n\nThen open the downloaded .exe file to install\n\n\n\nInstall R Version\n\n\nChoose Next to install into the default folder\n\n\n\nInstallR1\n\n\n\n\nDownload R Studio\nGo to https://posit.co/download/rstudio-desktop/\nClick the button for DOWNLOAD RSTUDIO DESKTOP FOR WINDOWS (I think this button changes based upon the computer you are on - check on Mac)\nClick on the downloaded .exe file to begin installing RStudio\n(I don’t have screenshots of this process for windows)\n\n\nConnect RStudio and GitHub\nGeneral instructions can be found at Happy Git and GitHub for the useR\nSPECIFIC LAB INSTRUCTIONS NEED TO BE ADDED",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Onboarding</span>"
     ]

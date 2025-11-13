@@ -86,7 +86,6 @@ The general steps are:
 
  - download R
  - download RStudio
- - download Git
  - connect RStudio and Git/GitHub
  - download Quarto
 
@@ -98,11 +97,13 @@ The general steps are:
 
 ### Download R Studio {-}
 
-### Download Git {-}
+1. Go to: [https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/)
+2. Complete steps 1 AND 2
+  - If your computer version is NOT in the dropdown list, scroll down further to select the version you wish to install (e.g. Windows)
 
 ### Download Quarto {-}
 
-Go to https://quarto.org/
+Go to [https://quarto.org/](https://quarto.org/)
 
  - Click on `Get Started`
  - Download the appropriate version of Quarto based on your computer
@@ -112,10 +113,11 @@ Go to https://quarto.org/
 
  - Open R
  - Open a project that already uses Quarto
+    - ADD HOW TO OPEN A PROJECT
     - if you don't have a a project that already uses Quarto, please try [this one](insert link)
  - Go to Terminal
  - Change directories to the directory of your R Project
- - run code to render at prompt$ `quarto render src`
+ - run code to render at prompt $ `quarto render src`
 
 ## Windows {-}
 
@@ -158,10 +160,6 @@ Click the button for `DOWNLOAD RSTUDIO DESKTOP FOR WINDOWS`
 Click on the downloaded .exe file to begin installing RStudio
 
 (I don't have screenshots of this process for windows)
-
-### Download Git {-}
-
-There are 15 different screens during the installation process for Windows. 
 
 ### Connect RStudio and GitHub {-}
 
