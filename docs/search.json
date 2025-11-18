@@ -172,31 +172,51 @@
   {
     "objectID": "rstudio-github.html",
     "href": "rstudio-github.html",
-    "title": "5  RStudio + GitHub",
+    "title": "5  GithHub + RStudio",
     "section": "",
-    "text": "Create a New Project in RStudio from an existing project on GitHub\nHappy Git and GitHub for the useR is a great resource for connecting Git/GitHub and RStudio.\nMarkdown Cheatsheet",
+    "text": "5.1 Lab Specific Git + RStudio Communication\nHappy Git and GitHub for the useR is a great resource for connecting Git/GitHub and RStudio.\nMarkdown Cheatsheet\ninstall.packages(\"gitcreds\")\ngitcreds::gitcreds_set()",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>RStudio + GitHub</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>GithHub + RStudio</span>"
+    ]
+  },
+  {
+    "objectID": "rstudio-github.html#lab-specific-git-rstudio-communication",
+    "href": "rstudio-github.html#lab-specific-git-rstudio-communication",
+    "title": "5  GithHub + RStudio",
+    "section": "",
+    "text": "Generate token\n\n\nLog into https://github.com/\nGo to https://github.com/settings/tokens\nPress Generate new token\nSelect Generate New Token (Fine-grained, repo-scoped) from the dropdown menu\nCreate token name\nNo description\nSelect expiration\nKeep public repositories\n\nDon’t add any permissions\n\nClick generate token\n\n\nCopy token to computer (notes, word, password organizer, etc…)\nEnter GitHub Token into R\n\n\nCheck if the “gitcreds” package is installed\n\nat the prompt in the Console type ‘gitcreds()’\n\nif an Error is received, please install package\n\n\n\n\n\nAdd your token to R\n\nin the console at the prompt &gt; run the command below\n\n\n\n\nPaste token when prompted\nTo check if this worked run “gitcreds::gitcreds_get()”\nalso make sure you have packages rmarkdown and knitr by searching in packages",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>GithHub + RStudio</span>"
+    ]
+  },
+  {
+    "objectID": "rstudio-github.html#create-a-new-project-in-rstudio-from-an-existing-project-on-github",
+    "href": "rstudio-github.html#create-a-new-project-in-rstudio-from-an-existing-project-on-github",
+    "title": "5  GithHub + RStudio",
+    "section": "Create a New Project in RStudio from an existing project on GitHub",
+    "text": "Create a New Project in RStudio from an existing project on GitHub\nClone Repository",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>GithHub + RStudio</span>"
     ]
   },
   {
     "objectID": "rstudio-github.html#create-a-branch-in-github",
     "href": "rstudio-github.html#create-a-branch-in-github",
-    "title": "5  RStudio + GitHub",
+    "title": "5  GithHub + RStudio",
     "section": "Create a branch in GitHub",
     "text": "Create a branch in GitHub\nFor each GitHub repository you will be working on in the lab that is shared among others, you will need to create your own Branch.\nPlease create your own branch directly in the repository on the GitHub site",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>RStudio + GitHub</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>GithHub + RStudio</span>"
     ]
   },
   {
     "objectID": "rstudio-github.html#create-pull-request-for-review-on-github",
     "href": "rstudio-github.html#create-pull-request-for-review-on-github",
-    "title": "5  RStudio + GitHub",
+    "title": "5  GithHub + RStudio",
     "section": "Create Pull Request, for review, on GitHub",
     "text": "Create Pull Request, for review, on GitHub",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>RStudio + GitHub</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>GithHub + RStudio</span>"
     ]
   },
   {

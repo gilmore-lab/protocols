@@ -118,6 +118,7 @@ Go to [https://quarto.org/](https://quarto.org/)
  - Go to Terminal
  - Change directories to the directory of your R Project
  - run code to render at prompt $ `quarto render src`
+ 
 
 ## Windows {-}
 

@@ -1,10 +1,52 @@
-# RStudio + GitHub
+# GithHub + RStudio
 
 [Happy Git and GitHub for the useR](https://happygitwithr.com/) is a great resource for connecting Git/GitHub and RStudio.
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+## Lab Specific Git + RStudio Communication
+
+1. Generate token 
+
+- Log into [https://github.com/](https://github.com/)
+- Go to [https://github.com/settings/tokens](https://github.com/settings/tokens)
+- Press `Generate new token`
+- Select `Generate New Token (Fine-grained, repo-scoped)` from the dropdown menu 
+- Create token name 
+- No description 
+- Select expiration 
+- Keep public repositories  
+- Don’t add any permissions  
+- Click `generate token` 
+
+2. Copy token to computer (notes, word, password organizer, etc…) 
+
+3. Enter GitHub Token into R
+
+- Check if the "gitcreds" package is installed
+  - at the prompt in the Console type 'gitcreds()'
+    - if an Error is received, please install package
+```{r eval = FALSE}    
+install.packages("gitcreds")
+```
+
+- Add your token to R
+  - in the console at the prompt `>` run the command below
+
+```{r eval = FALSE}
+gitcreds::gitcreds_set()
+```
+
+  - Paste token when prompted 
+  
+- To check if this worked run "gitcreds::gitcreds_get()"
+
+* also make sure you have packages `rmarkdown` and `knitr` by searching in packages 
+
+
 ## Create a New Project in RStudio from an existing project on GitHub  {-}
+
+Clone Repository
 
 
 
