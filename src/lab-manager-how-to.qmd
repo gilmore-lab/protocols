@@ -1,5 +1,13 @@
 # Lab Manager How To
 
+## Request a Room for Meeting Use
+
+Go to the [PSU Psychology Staff by Area of Support](https://psych.la.psu.edu/about-us/staff-by-area-of-support/) page and scroll down to the `Scheduling Requests` section.
+
+Choose `Moore Building` and complete the Room Request form that pops up. Room 444 is our favorite for weekly lab meetings.
+
+If another room on campus is needed, choose `General Purpose Classrooms`.
+
 ## Participant Recruitment {-}
 
 ### FIRSt Families  {-}
