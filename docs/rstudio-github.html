@@ -213,6 +213,20 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <li><a href="#create-a-new-project-in-rstudio-from-an-existing-project-on-github" id="toc-create-a-new-project-in-rstudio-from-an-existing-project-on-github" class="nav-link" data-scroll-target="#create-a-new-project-in-rstudio-from-an-existing-project-on-github">Create a New Project in RStudio from an existing project on GitHub</a></li>
   <li><a href="#create-a-branch-in-github" id="toc-create-a-branch-in-github" class="nav-link" data-scroll-target="#create-a-branch-in-github">Create a branch in GitHub</a></li>
   <li><a href="#create-pull-request-for-review-on-github" id="toc-create-pull-request-for-review-on-github" class="nav-link" data-scroll-target="#create-pull-request-for-review-on-github">Create Pull Request, for review, on GitHub</a></li>
+  <li><a href="#old-instructions" id="toc-old-instructions" class="nav-link" data-scroll-target="#old-instructions"><span class="header-section-number">6</span> Old Instructions</a>
+  <ul>
+  <li><a href="#how-to-connect-github-and-rstudio-using-a-github-access-token" id="toc-how-to-connect-github-and-rstudio-using-a-github-access-token" class="nav-link" data-scroll-target="#how-to-connect-github-and-rstudio-using-a-github-access-token"><span class="header-section-number">6.0.1</span> How to Connect Github and RStudio using a GitHub Access Token</a>
+  <ul>
+  <li><a href="#enter-your-email-used-to-log-into-r-studio-and-username-into-rstudio" id="toc-enter-your-email-used-to-log-into-r-studio-and-username-into-rstudio" class="nav-link" data-scroll-target="#enter-your-email-used-to-log-into-r-studio-and-username-into-rstudio"><span class="header-section-number">6.0.1.1</span> Enter your email (used to log into R Studio) and username into RStudio</a></li>
+  <li><a href="#each-person-needs-to-have-their-own-or-project-branch" id="toc-each-person-needs-to-have-their-own-or-project-branch" class="nav-link" data-scroll-target="#each-person-needs-to-have-their-own-or-project-branch"><span class="header-section-number">6.0.1.2</span> Each person needs to have their own or project branch</a></li>
+  <li><a href="#enter-your-branch-into-the-repository-in-rstudio" id="toc-enter-your-branch-into-the-repository-in-rstudio" class="nav-link" data-scroll-target="#enter-your-branch-into-the-repository-in-rstudio"><span class="header-section-number">6.0.1.3</span> Enter your branch into the repository in Rstudio</a></li>
+  <li><a href="#create-an-access-token-in-git" id="toc-create-an-access-token-in-git" class="nav-link" data-scroll-target="#create-an-access-token-in-git"><span class="header-section-number">6.0.1.4</span> Create an Access Token in Git</a></li>
+  <li><a href="#clone-a-git-repository-to-rstudio-on-tlt-server" id="toc-clone-a-git-repository-to-rstudio-on-tlt-server" class="nav-link" data-scroll-target="#clone-a-git-repository-to-rstudio-on-tlt-server"><span class="header-section-number">6.0.1.5</span> Clone a Git Repository to RSTudio on TLT Server</a></li>
+  <li><a href="#make-changes-to-branch-on-repository" id="toc-make-changes-to-branch-on-repository" class="nav-link" data-scroll-target="#make-changes-to-branch-on-repository"><span class="header-section-number">6.0.1.6</span> Make changes to branch on repository</a></li>
+  </ul></li>
+  <li><a href="#how-to-access-the-shared-space-on-r-studio" id="toc-how-to-access-the-shared-space-on-r-studio" class="nav-link" data-scroll-target="#how-to-access-the-shared-space-on-r-studio"><span class="header-section-number">6.0.2</span> How to Access the Shared Space on R Studio</a></li>
+  <li><a href="#configure-rstudio-for-git-integration" id="toc-configure-rstudio-for-git-integration" class="nav-link" data-scroll-target="#configure-rstudio-for-git-integration"><span class="header-section-number">6.0.3</span> Configure RStudio for <code>git</code> integration</a></li>
+  </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/gilmore-lab/protocols/edit/main/src/rstudio-github.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gilmore-lab/protocols/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -301,8 +315,160 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </section>
 <section id="create-pull-request-for-review-on-github" class="level2 unnumbered">
 <h2 class="unnumbered anchored" data-anchor-id="create-pull-request-for-review-on-github">Create Pull Request, for review, on GitHub</h2>
+</section>
+<section id="old-instructions" class="level1" data-number="6">
+<h1 data-number="6"><span class="header-section-number">6</span> Old Instructions</h1>
+<section id="how-to-connect-github-and-rstudio-using-a-github-access-token" class="level3" data-number="6.0.1">
+<h3 data-number="6.0.1" class="anchored" data-anchor-id="how-to-connect-github-and-rstudio-using-a-github-access-token"><span class="header-section-number">6.0.1</span> How to Connect Github and RStudio using a GitHub Access Token</h3>
+<section id="enter-your-email-used-to-log-into-r-studio-and-username-into-rstudio" class="level4" data-number="6.0.1.1">
+<h4 data-number="6.0.1.1" class="anchored" data-anchor-id="enter-your-email-used-to-log-into-r-studio-and-username-into-rstudio"><span class="header-section-number">6.0.1.1</span> Enter your email (used to log into R Studio) and username into RStudio</h4>
+<ul>
+<li>Navigate to the Terminal Tab in R Studio</li>
+<li>Type the following in to the Command line</li>
+</ul>
+<p>$ <code>git config --global user.email "user@psu.edu"</code><br>
+$ <code>git config --global user.name "First Last"</code></p>
+</section>
+<section id="each-person-needs-to-have-their-own-or-project-branch" class="level4" data-number="6.0.1.2">
+<h4 data-number="6.0.1.2" class="anchored" data-anchor-id="each-person-needs-to-have-their-own-or-project-branch"><span class="header-section-number">6.0.1.2</span> Each person needs to have their own or project branch</h4>
+<ul>
+<li><p>First request from the Lab Manager to create your own branch and provide the Name of the Branch (e.g.&nbsp;firstname_lastname).</p></li>
+<li><p>The lab manager will create this branch on the Github repository site.</p></li>
+</ul>
+</section>
+<section id="enter-your-branch-into-the-repository-in-rstudio" class="level4" data-number="6.0.1.3">
+<h4 data-number="6.0.1.3" class="anchored" data-anchor-id="enter-your-branch-into-the-repository-in-rstudio"><span class="header-section-number">6.0.1.3</span> Enter your branch into the repository in Rstudio</h4>
+<ul>
+<li>Navigate to the Terminal Tab in R Studio</li>
+<li>Type the following in to the Command line:</li>
+</ul>
+<p>$ <code>git branch -m &lt;branchName&gt;</code></p>
+</section>
+<section id="create-an-access-token-in-git" class="level4" data-number="6.0.1.4">
+<h4 data-number="6.0.1.4" class="anchored" data-anchor-id="create-an-access-token-in-git"><span class="header-section-number">6.0.1.4</span> Create an Access Token in Git</h4>
+<ul>
+<li><p>Follow the <a href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token">Create a Personal Access Token</a> instructions.</p></li>
+<li><p>Be sure to copy this token into a safe place. If it is lost, one must be re-created.</p></li>
+</ul>
+</section>
+<section id="clone-a-git-repository-to-rstudio-on-tlt-server" class="level4" data-number="6.0.1.5">
+<h4 data-number="6.0.1.5" class="anchored" data-anchor-id="clone-a-git-repository-to-rstudio-on-tlt-server"><span class="header-section-number">6.0.1.5</span> Clone a Git Repository to RSTudio on TLT Server</h4>
+<ul>
+<li>Navigate to the GitHub project page (e.g.&nbsp;https://github.com/gilmore-lab/student-testbed)</li>
+<li>Press the button <code>Code</code></li>
+<li>Copy the HTTPS link of the project by clicking the little icon to the right of the URL. The link will be something like https://github.com/gilmore-lab/student-testbed.git</li>
+</ul>
+<p><img src="include/img/GitHub-copy-repo-https.png" class="img-fluid" style="width:50.0%" alt="Clone with HTTPS"><br>
+- Copy this to another blank page. This will need to be altered to the following: <code>https://oath2:&lt;PersonalAccessToken&gt;@github.com/&lt;repository&gt;/&lt;project&gt;</code></p>
+<ul>
+<li>The <code>Personal Access Token</code> created in Git will be used in the above location. <code>https://oath2:&lt;PersonalAccessToken&gt;@github.com/gilmore-lab/student</code></li>
+</ul>
+</section>
+<section id="make-changes-to-branch-on-repository" class="level4" data-number="6.0.1.6">
+<h4 data-number="6.0.1.6" class="anchored" data-anchor-id="make-changes-to-branch-on-repository"><span class="header-section-number">6.0.1.6</span> Make changes to branch on repository</h4>
+<ul>
+<li>Ensure the branch name is listed in the Git window in R</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="include/img/Git-Window-R.png" class="img-fluid figure-img" style="width:50.0%"></p>
+<figcaption>Git Window in R</figcaption>
+</figure>
+</div>
+<ul>
+<li><p>Always run ‘Git Pull’ before changes are made</p></li>
+<li><p>Make Changes to File</p></li>
+<li><p>Commit changes</p></li>
+<li><p>Run ‘Git Push’ to Your Branch on Github</p></li>
+<li><p>Go to <code>github.com/gilmorelab/&lt;repository name&gt;</code> and create a Pull request</p></li>
+<li><p>Notify the lab manager that a pull request is available on GitHub for <code>&lt;repository name&gt;</code></p></li>
+</ul>
+</section>
+</section>
+<section id="how-to-access-the-shared-space-on-r-studio" class="level3" data-number="6.0.2">
+<h3 data-number="6.0.2" class="anchored" data-anchor-id="how-to-access-the-shared-space-on-r-studio"><span class="header-section-number">6.0.2</span> How to Access the Shared Space on R Studio</h3>
+<ul>
+<li><p>Go to the <strong>File</strong> menu and click on <strong>Open Project</strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="include/img/ROpenProject.JPG" class="img-fluid figure-img" style="width:50.0%"></p>
+<figcaption>Open Project</figcaption>
+</figure>
+</div></li>
+<li><p>Then you will see</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="include/img/RMyProjects.JPG" class="img-fluid figure-img" style="width:50.0%"></p>
+<figcaption>My Projects</figcaption>
+</figure>
+</div></li>
+<li><p>Click on <strong>Shared with Me</strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="include/img/RSharedProject.JPG" class="img-fluid figure-img" style="width:50.0%"></p>
+<figcaption>Shared Projects</figcaption>
+</figure>
+</div></li>
+<li><p>Highlight the shared project you want to open and Click on <strong>Open Project</strong></p></li>
+</ul>
+</section>
+<section id="configure-rstudio-for-git-integration" class="level3" data-number="6.0.3">
+<h3 data-number="6.0.3" class="anchored" data-anchor-id="configure-rstudio-for-git-integration"><span class="header-section-number">6.0.3</span> Configure RStudio for <code>git</code> integration</h3>
+<ol type="1">
+<li>From within RStudio, open the <code>Tools</code> menu and select the <code>Global Options...</code> item.</li>
+<li>Select the <code>Git/SVN</code> panel in the left column. It is near the bottom of the list.</li>
+<li>Check the <code>Enable version control interface for RStudio projects</code> checkbox at the top of the window.</li>
+<li>Click on the <code>View public key</code> link to see if you have a valid SSH RSA Key already.</li>
+<li>If the window opens and contains a long text string that begins with “ssh-rsa” and ends with “<your_psu_id><span class="citation" data-cites="lxclusterapps">(<a href="#ref-lxclusterapps" role="doc-biblioref"><strong>lxclusterapps?</strong></a>)</span>”, where <code>&lt;your_PSU_id&gt;</code> is your PSU ID (e.g., <code>rog1</code>), you are half-way home.</your_psu_id></li>
+<li>If the window is opens and is empty, you must generate a new key:
+<ul>
+<li><del>Close the window and click on the <code>Create RSA Key...</code> button.</del></li>
+<li>From RStudio, select the <code>Terminal</code> pane. This will bring up a command line with a prompt that looks something like this: <code>bash-4.2$</code>.</li>
+<li>Type <code>ssh-keygen.py</code> and hit return. This will generate an SSH key.</li>
+<li>Type <code>ls ~/.ssh</code> and hit return. You should see something that looks like this:</li>
+</ul>
+<pre><code>bash-4.2$ ls ~/.ssh
+id_rsa  id_rsa.pub  known_hosts</code></pre>
+<ul>
+<li>The <code>id_rsa.pub</code> is a file containing a ‘public’ key that you can save on GitHub so that GitHub knows who you are when you connect to it from the PSU TLT RStudio server.</li>
+<li>(Optional) type <code>cat ~/.ssh/id_rsa.pub</code> to see the contents of this key file.</li>
+<li>Select <code>Global Options...</code> from the RStudio <code>Tools</code> menu again.</li>
+<li>Select <code>Git/SVN</code> from the left panel.</li>
+<li>Select the <code>View public key</code> link to view the SSH key you just generated.</li>
+<li>Copy the key to the clipboard (command+C on Mac)</li>
+</ul></li>
+<li>Visit <em>your account</em> on GitHub. Rick’s is at <a href="https://github.com/rogilmore" class="uri">https://github.com/rogilmore</a>.</li>
+<li>Click on your avatar or photo in the upper right hand corner and select the <code>Settings</code> command.</li>
+<li>From the list at left, select the <code>SSH and GPG keys</code> panel.</li>
+<li>Look at the list of SSH keys.</li>
+<li>If there are no SSH keys…
+<ul>
+<li>Press the <code>New SSH key</code> button.</li>
+<li>Paste the key you generated in RStudio into the space provided.</li>
+<li>Add a title like <code>PSU TLT</code> or <code>lxcluster</code></li>
+<li>Press the <code>Add SSH key</code> button to save the key.</li>
+</ul></li>
+<li>If you see an existing key with <code>PSU TLT</code> or <code>lxcluster</code> you should already be ready to go.</li>
+<li>Return to RStudio, hit <code>Apply</code> to save your changes, and <code>Ok</code> to exit the <code>Settings</code> panel.</li>
+<li>Test the connection between RStudio and GitHub by cloning a repository.
+<ul>
+<li>Visit the lab protocols repository at <a href="https://github.com/gilmore-lab/protocols" class="uri">https://github.com/gilmore-lab/protocols</a>.</li>
+<li>Click on the <code>Clone or download</code> button.</li>
+<li>Confirm that the window title says <code>Clone with SSH</code>. If it does not, click on the <code>Use SSH</code> link on the upper right side.</li>
+<li>Click on the clipboard icon to copy the <code>git@github.com...</code> link to the repository to your clipboard.</li>
+<li>Switch back to RStudio.</li>
+<li>Under the <code>File</code> menu, select the <code>New Project</code> option.</li>
+<li>Select <code>Version Control</code>.</li>
+<li>Select <code>Git</code> in the next window.</li>
+<li>Paste the repository link you copies from GitHub into the <code>Repository URL</code> field.</li>
+<li>Select a name for the local repository. I usually keep the name from GitHub, so in this case, I would use <code>protocols</code>.</li>
+<li>Select a directory/folder where the repository will be copied to. I have an <code>rstudio/</code> folder I use for this. If you need to create a folder, you may do so.</li>
+<li>Click on the <code>Create Project</code> button. This will copy the repository from GitHub to your personal (PASS) file space on PSU’s servers.</li>
+</ul></li>
+</ol>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
